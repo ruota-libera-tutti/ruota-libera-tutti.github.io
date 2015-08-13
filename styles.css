@@ -49,15 +49,15 @@ h2 {
   position: fixed;
   top: 0;
   width: 100%;
-  height: 50px;
-  background: black;
-  border-bottom: solid 4px #4E4D4D;
+  height: 80px;
+  background: #77BA9B;
+  border-bottom: solid 4px #559C7B;
 }
 
 .social-icon {
-  color: #969696;
-  font-size: 23px;
-  line-height: 50px;
+  color: #366783;
+  font-size: 30px;
+  line-height: 80px;
   text-decoration: none;
   padding-left: 10px;
 }
@@ -67,22 +67,21 @@ h2 {
 }
 
 #summary {
-  margin-top: 53px;
+  margin-top: 83px;
   width: 100%;
-  background: #5DAC9C;
+  background: #3F7CA0;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 20px;
   color: #FFF;
-  border-bottom: solid 4px #92BFB6;
+  border-bottom: solid 4px #7CA4C7;
 }
 
 #main-image {
-  height: 250px;
-  width: 250px;
-  background: #5F7E91;
+  height: 255px;
+  width: 255px;
+  background: #77ba9b;
   border-radius: 50%;
-  border: solid 3px #5A7687;
   margin-left: auto;
   margin-right: auto;
   background-image: url('img/avatar.png');
@@ -103,9 +102,39 @@ h2 {
   text-align: center;
 }
 
+.grid {
+  width: 840px;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+  overflow: auto;
+}
+
+.grid-item {
+  display: block;
+  width: 33%;
+  float: left;
+  margin-bottom: 15px;
+}
+
+.grid-item-content {
+    text-decoration: none;
+    color: #3F7CA0;
+}
+
+.grid-item-content img {
+    width: 210px;
+    height: 140px;
+}
+
+.grid-item-content .description {
+    font-size: 0.9em;
+    color: #6A6A6A;
+}
+
 h4 {
   font-size: 1.3em;
-  color: #445B69;
+  color: #3F7CA0;
 }
 
 #footer {
@@ -116,7 +145,8 @@ h4 {
   padding-top: 20px;
   padding-bottom: 20px;
   color: #8B8B8B;
-  min-height: 100px;
+  min-height: 110px;
+  overflow: auto;
 }
 
 .footer-section {
@@ -128,6 +158,30 @@ h4 {
 .footer-section>.title {
   font-size: 1.3em;
   margin-bottom: 10px;
+}
+
+
+.footer-social-icon {
+  color: #969696;
+  text-decoration: none;
+  font-size: 28px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: solid 1px #969696;
+  line-height: 49px;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.footer-social-icon:hover {
+  background-color: #333333;
+  color: #FFF;
+}
+
+.footer-external-link {
+  color: #fff;
 }
 
 
