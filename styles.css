@@ -1,11 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Lato);
 @font-face {
   font-family: 'icons';
-  src: url('fonts/icons.eot?42776154');
-  src: url('fonts/icons.eot?42776154#iefix') format('embedded-opentype'),
-       url('fonts/icons.woff?42776154') format('woff'),
-       url('fonts/icons.ttf?42776154') format('truetype'),
-       url('fonts/icons.svg?42776154#icons') format('svg');
+  src: url('../fonts/icons.eot?77067543');
+  src: url('../fonts/icons.eot?77067543#iefix') format('embedded-opentype'),
+       url('../fonts/icons.woff?77067543') format('woff'),
+       url('../fonts/icons.ttf?77067543') format('truetype'),
+       url('../fonts/icons.svg?77067543#icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -204,3 +204,6 @@ h4 {
 .icon-circle-empty:before { content: '\e805'; } /* '' */
 .icon-star:before { content: '\e806'; } /* '' */
 .icon-location:before { content: '\e807'; } /* '' */
+.icon-flickr:before { content: '\e808'; } /* '' */
+.icon-camera:before { content: '\e809'; } /* '' */
+.icon-flickr-1:before { content: '\e80a'; } /* '' */
