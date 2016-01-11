@@ -49,6 +49,16 @@ h2 {
   margin-top: 5px;
 }
 
+h4 {
+  font-size: 1.3em;
+  color: #3F7CA0;
+}
+
+h5 {
+  font-size: 1em;
+  color: #7CA4C7;
+}
+
 #header {
   position: fixed;
   top: 0;
@@ -135,11 +145,6 @@ h2 {
 .grid-item-content .description {
     font-size: 0.9em;
     color: #6A6A6A;
-}
-
-h4 {
-  font-size: 1.3em;
-  color: #3F7CA0;
 }
 
 #footer {
