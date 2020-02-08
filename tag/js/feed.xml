@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/js/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-02-08T18:54:24+01:00</updated>
-  <id>http://localhost:4000/tag/js/feed.xml</id>
+  <link href="/tag/js/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-02-08T19:10:08+01:00</updated>
+  <id>/tag/js/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Web Audio: the ugly click and the human ear</title>
-      <link href="http://localhost:4000/ramp-to-value" rel="alternate" type="text/html" title="Web Audio: the ugly click and the human ear" />
+      <link href="/ramp-to-value" rel="alternate" type="text/html" title="Web Audio: the ugly click and the human ear" />
       <published>2015-12-26T00:00:00+01:00</published>
       <updated>2015-12-26T00:00:00+01:00</updated>
-      <id>http://localhost:4000/ramp-to-value</id>
-      <content type="html" xml:base="http://localhost:4000/ramp-to-value">&lt;style&gt;
+      <id>/ramp-to-value</id>
+      <content type="html" xml:base="/ramp-to-value">&lt;style&gt;
 .button {
     border: none;
     color: white;
