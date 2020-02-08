@@ -102,7 +102,7 @@ As the noob I am, I wondered why this happened. Could it be an implementation pr
 
 Turns out the click sound happens because I'm abruptingly cutting the sound wave at a point other than the natural zero crossing:
 
-<img src="/assets/images/zero-crossing-point.svg">
+<img src="assets/images/zero-crossing-point.svg">
 
 Is there a way to avoid this clicking sound then?
 
@@ -127,7 +127,7 @@ setTargetAtTime(target, startTime, timeConstant); // exponential
 
 One difference between them is the easing function that is used to change the audio param value; either linear (left) or exponential (right).
 
-<img src="/assets/images/exponential-linear-curves.svg">
+<img src="assets/images/exponential-linear-curves.svg">
 
 Mozilla has a piece of advise to those unsure of which one to use:
 
