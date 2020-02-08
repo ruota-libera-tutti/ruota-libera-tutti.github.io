@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/author/ghost/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-02-08T18:54:24+01:00</updated>
+  <id>http://localhost:4000/author/ghost/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Alejandro MG | </title>
+  
+
+  
+    <subtitle>Développement logiciel, web audio, et al</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+</feed>

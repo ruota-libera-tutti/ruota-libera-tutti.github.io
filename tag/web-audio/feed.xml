@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/web-audio/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-02-08T18:54:24+01:00</updated>
+  <id>http://localhost:4000/tag/web-audio/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Alejandro MG | </title>
+  
+
+  
+    <subtitle>Développement logiciel, web audio, et al</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Web Audio: the ugly click and the human ear</title>
+      <link href="http://localhost:4000/ramp-to-value" rel="alternate" type="text/html" title="Web Audio: the ugly click and the human ear" />
+      <published>2015-12-26T00:00:00+01:00</published>
+      <updated>2015-12-26T00:00:00+01:00</updated>
+      <id>http://localhost:4000/ramp-to-value</id>
+      <content type="html" xml:base="http://localhost:4000/ramp-to-value">&lt;style&gt;
+.button {
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    min-width: 50px;
+    min-height: 50px;
+    border-radius: 5px;
+    position: relative;
+    -webkit-appearance: button;
+    cursor: pointer;
+    text-transform: none;
+}
+
+.stop-button {
+    background-color: rgb(178, 78, 78);
+    border-radius: 5px 0px 0px 5px;
+}
+
+.stop-button:hover {
+    background-color: rgb(200, 106, 106);
+}
+
+.stop-button:before {
+    content: &quot;&quot;;
+    position: absolute;
+    left: 15px;
+    width: 21px;
+    height: 21px;
+    margin-top: -10px;
+    background: white;
+}
+
+.play-button {
+    background-color: rgb(103, 178, 78);
+    min-width: 100px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.play-button:hover {
+    background-color: rgb(126, 200, 101);
+}
+
+.play-button:before {
+    content: &quot;&quot;;
+    position: absolute;
+    left: 38px;
+    border: 8px solid transparent;
+    border-width: 12px 30px;
+    border-left-color: #FFFFFF;
+    margin-top: -12px;
+    background: transparent;
+}
+&lt;/style&gt;
+
+&lt;p&gt;While playing around with a Web Audio demo, I noticed a clicking sound every time a I stopped an oscillator.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;AudioContext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;oscillatorNode&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createOscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;oscillatorNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;destination&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// click!&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;button class=&quot;button stop-button&quot; id=&quot;1-stop-button&quot;&gt;&lt;/button&gt;
+&lt;button class=&quot;button play-button&quot; id=&quot;1-play-button&quot;&gt;&lt;/button&gt;
+&lt;script&gt;
+	var context = new AudioContext();
+	var oscillator;
+	var firstIsPlaying;
+	(function() {
+		document.getElementById('1-play-button').addEventListener('click', function() {
+			if(firstIsPlaying) return;
+			oscillator = context.createOscillator();
+			oscillator.connect(context.destination);
+			oscillator.start();
+			firstIsPlaying = true;
+		}, false);
+		document.getElementById('1-stop-button').addEventListener('click', function() {
+			if (!firstIsPlaying) return;
+			oscillator.stop();
+			firstIsPlaying = false;
+		}, false);		
+	})();
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;As the noob I am, I wondered why this happened. Could it be an implementation problem on the browser? Not likely, since this happened in all browsers I tested.&lt;/p&gt;
+
+&lt;p&gt;Turns out the click sound happens because I’m abruptingly cutting the sound wave at a point other than the natural zero crossing:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/zero-crossing-point.svg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Is there a way to avoid this clicking sound then?&lt;/p&gt;
+
+&lt;p&gt;We have two options:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stopping the sound only at zero-point crossings, or&lt;/li&gt;
+  &lt;li&gt;Creating a node gain to gradually decrease the gain to zero before stopping&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I will focus on the second option since - luckily - Web Audio API has us covered.&lt;/p&gt;
+
+&lt;h2 id=&quot;gradual-changes-to-an-audioparam-value&quot;&gt;Gradual changes to an audioParam value&lt;/h2&gt;
+
+&lt;h3 id=&quot;exponential-vs-linear&quot;&gt;Exponential vs linear&lt;/h3&gt;
+
+&lt;p&gt;There are several Web Audio functions that can gradually change an audioParam:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;linearRampToValueAtTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;endTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// linear&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;exponentialRampToValueAtTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;endTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// exponential&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;setTargetAtTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;startTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;timeConstant&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// exponential&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;One difference between them is the easing function that is used to change the audio param value; either linear (left) or exponential (right).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/exponential-linear-curves.svg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mozilla has a piece of advise to those unsure of which one to use:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Exponential ramps are considered more useful when changing frequencies or playback rates than linear ramps because of the way the human ear works.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And they are right: the human ear perceives sound on a logarithmic principle. An A3 note is a frequency of 220Hz, whereas A4 is 440Hz and A5 is 880Hz. Loudness also works this way: a tenfold increase in sound power could be described as being twice as loud. Hence, using an exponential gain decrease will be perceived as linear by the human ear.&lt;/p&gt;
+
+&lt;h3 id=&quot;exponentialramptovalueattime-vs-settargetattime&quot;&gt;exponentialRampToValueAtTime vs setTargetAtTime&lt;/h3&gt;
+
+&lt;p&gt;We will choose and exponential way of gradually decreasing the gain. This leaves us with &lt;code class=&quot;highlighter-rouge&quot;&gt;exponentialRampToValueAtTime&lt;/code&gt; vs &lt;code class=&quot;highlighter-rouge&quot;&gt;setTargetAtTime&lt;/code&gt;. Some difference between them are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;exponentialRampToValueAtTime&lt;/code&gt; will get to the value precisely at the time specified. However, using this function, an exponential ramp to zero &lt;a href=&quot;https://webaudio.github.io/web-audio-api/#widl-AudioParam-exponentialRampToValueAtTime-AudioParam-float-value-double-endTime&quot;&gt;is not possible&lt;/a&gt; because of the math used to calculate the values over time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;setTargetAtTime&lt;/code&gt; exponentially moves towards the value given by the target parameter, but instead of specifying an end time, we give the function an exponential decay rate after which the value will decrease about 2/3rds. This means we can ask the function to go all the way down to zero. Theoretically it will never really reach zero since it will be exponentially decaying, but in real life it &lt;em&gt;will&lt;/em&gt; as soon as the value is too small to be represented with a float.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s choose &lt;code class=&quot;highlighter-rouge&quot;&gt;setTargetAtTime&lt;/code&gt; because we want to go all the way down to zero and because we are not too worried about getting there at a super precise time. As long as the fade-out time is fast enough to be imperceptible but slow enough to remove the click, we will be happy.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-settargetattime-to-remove-the-click&quot;&gt;Using setTargetAtTime to remove the click&lt;/h3&gt;
+
+&lt;p&gt;Before trying out &lt;code class=&quot;highlighter-rouge&quot;&gt;setTargetAtTime&lt;/code&gt; to get rid of the ugly click, we must be of a couple gotchas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We must choose a decay time after which the gain value will decrease about 2/3rds. After a bit of experimenting, I found out that a decay time of 15 milliseconds gives the impression of being immediate but at the same time removes the click. Remember: Web Audio uses seconds instead of milliseconds!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;AudioContext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createOscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createGain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;destination&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;stopButton&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addEventListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'click'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setTargetAtTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.015&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;button class=&quot;button stop-button&quot; id=&quot;2-stop-button&quot;&gt;&lt;/button&gt;
+&lt;button class=&quot;button play-button&quot; id=&quot;2-play-button&quot;&gt;&lt;/button&gt;
+&lt;script&gt;
+	var gainNode;
+	var secondIsPlaying;
+	(function() {
+		document.getElementById('2-play-button').addEventListener('click', function() {
+			if(secondIsPlaying) return;
+			gainNode = context.createGain();
+			oscillator = context.createOscillator();
+			oscillator.connect(gainNode);
+			gainNode.connect(context.destination);
+			oscillator.start();
+			secondIsPlaying = true;
+		}, false);
+		document.getElementById('2-stop-button').addEventListener('click', function() {
+			if (!secondIsPlaying) return;
+			gainNode.gain.setTargetAtTime(0, context.currentTime, 0.015);
+			setTimeout(function() {
+				oscillator.stop();
+				secondIsPlaying = false;
+			}, 40);
+		}, false);		
+	})();
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s no more click. We are all happy.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-exponentialramptovalueattime-to-remove-the-click&quot;&gt;Using exponentialRampToValueAtTime to remove the click&lt;/h3&gt;
+
+&lt;p&gt;Since we are at it, let’s see how it would’ve turned out using &lt;code class=&quot;highlighter-rouge&quot;&gt;exponentialRampToValueAtTime&lt;/code&gt; - which I found to be a bit trickier.&lt;/p&gt;
+
+&lt;p&gt;One gotcha is this part of the Web Audio specification:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(exponentialRampToValueAtTime) Schedules an exponential continuous change in parameter value &lt;strong&gt;from the previous scheduled parameter value&lt;/strong&gt; to the given value.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;From the previous scheduled parameter value&lt;/em&gt; means that you must first set the audioParam with an automation method before using the ramping function. This usually means using &lt;code class=&quot;highlighter-rouge&quot;&gt;setValueAtTime()&lt;/code&gt; instead of setting the audioParam value directly (in other words, don’t do this: &lt;code class=&quot;highlighter-rouge&quot;&gt;gainNode.gain.value = someValue&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;Another gotcha also described in the spec:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is an error if either V0 or V1 is not strictly positive. This also implies &lt;strong&gt;an exponential ramp to 0 is not possible.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So we must choose a tiny value, but not zero. As mentioned earlier, we can’t ramp to zero. Also, this time we will use 30 milliseconds as the time for the ramp to occur (this is the total transition time, not the decay time used in &lt;code class=&quot;highlighter-rouge&quot;&gt;setTargetAtTime&lt;/code&gt;).&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;AudioContext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createOscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createGain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;destination&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;oscillator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;stopButton&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addEventListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'click'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// Important! Setting a scheduled parameter value&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setValueAtTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; 
+
+    &lt;span class=&quot;nx&quot;&gt;gainNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exponentialRampToValueAtTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.0001&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.03&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;button class=&quot;button stop-button&quot; id=&quot;3-stop-button&quot;&gt;&lt;/button&gt;
+&lt;button class=&quot;button play-button&quot; id=&quot;3-play-button&quot;&gt;&lt;/button&gt;
+&lt;script&gt;
+	var gainNode;
+	var thirdIsPlaying;
+	(function() {
+		document.getElementById('3-play-button').addEventListener('click', function() {
+			if(thirdIsPlaying) return;
+			gainNode = context.createGain();
+			oscillator = context.createOscillator();
+			oscillator.connect(gainNode);
+			gainNode.connect(context.destination);
+			oscillator.start();
+			thirdIsPlaying = true;
+		}, false);
+		document.getElementById('3-stop-button').addEventListener('click', function() {
+			if (!thirdIsPlaying) return;
+			gainNode.gain.setValueAtTime(gainNode.gain.value, context.currentTime);
+			gainNode.gain.exponentialRampToValueAtTime(0.0001, context.currentTime + 0.03);
+			setTimeout(function() {
+				oscillator.stop();
+				thirdIsPlaying = false;
+			}, 30);
+		}, false);		
+	})();
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Also works, we’ve gotten rid of the click.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-info&quot;&gt;More info&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.audiocheck.net/soundtests_nonlinear.php&quot;&gt;The non-linearities of the human ear&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.w3.org/TR/webaudio/#AudioParam&quot;&gt;The AudioParam interface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/setTargetAtTime&quot;&gt;Mozilla’s documentation for setTargetAtTime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/exponentialRampToValueAtTime&quot;&gt;Mozilla’s documentation for exponentialRampToValueAtTime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Web audio" />
+      
+        <category term="JS" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

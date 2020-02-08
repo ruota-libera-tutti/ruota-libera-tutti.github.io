@@ -1,9 +1,3 @@
----
-layout: error
-current: error
-title: "404 - Page Not Found"
-permalink: 404.html
----
 <!--
 This error template is used for all 404 errors, which might occur on your site.
 It's a good idea to keep this template as minimal as possible in terms of both file size and complexity.
@@ -14,25 +8,82 @@ It's a good idea to keep this template as minimal as possible in terms of both f
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>{{ page.title }}</title>
+    <title>404 - Page Not Found</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
     <!-- This tag outputs SEO meta+structured data and other important settings -->
-    {% include head.html %}
+    <meta name="description" content="Développement logiciel, web audio, et al" />
+    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="http://localhost:4000/404.html" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+     <!--title below is coming from _includes/dynamic_title-->
+    <meta property="og:site_name" content="Alejandro MG" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="404 - Page Not Found" />
+    <meta property="og:description" content="Développement logiciel, web audio, et al" />
+    <meta property="og:url" content="http://localhost:4000/404.html" />
+    <meta property="og:image" content="http://localhost:4000/assets/images/sky.jpg" />
+    <meta property="article:publisher" content="https://www.facebook.com/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="404 - Page Not Found" />
+    <meta name="twitter:description" content="Développement logiciel, web audio, et al" />
+    <meta name="twitter:url" content="http://localhost:4000/" />
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/sky.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Alejandro MG" />
+    <meta name="twitter:site" content="@alemangui" />
+    <meta name="twitter:creator" content="@alemangui" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="666" />
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Alejandro MG",
+        "logo": "http://localhost:4000/assets/images/blog-icon.png"
+    },
+    "url": "http://localhost:4000/404.html",
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://localhost:4000/assets/images/sky.jpg",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://localhost:4000/404.html"
+    },
+    "description": "Développement logiciel, web audio, et al"
+}
+    </script>
+
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="404 - Page Not Found" href="/feed.xml" />
+
 </head>
 <body class="error-template">
     <div class="site-wrapper">
 
-        <header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }})){% else %}no-cover{% endif %}">
+        <header class="site-header outer no-cover">
             <div class="inner">
                 <nav class="site-nav-center">
-                    {% if site.logo %}
-                        <a class="site-nav-logo" href="{{ site.baseurl }}"><img src="{{site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
-                    {% else %}
-                        <a class="site-nav-logo" href="{{ site.baseurl }}">{{ site.title }}</a>
-                    {% endif %}
+                    
+                        <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon.png" alt="Alejandro MG" /></a>
+                    
                 </nav>
             </div>
         </header>
@@ -43,7 +94,7 @@ It's a good idea to keep this template as minimal as possible in terms of both f
                 <section class="error-message">
                     <h1 class="error-code">404</h1>
                     <p class="error-description">Page not found</p>
-                    <a class="error-link" href="{{ site.baseurl }}">Go to the front page →</a>
+                    <a class="error-link" href="/">Go to the front page →</a>
                 </section>
             </div>
         </main>
@@ -53,7 +104,58 @@ It's a good idea to keep this template as minimal as possible in terms of both f
             <div class="inner">
                 <div class="post-feed">
                     <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-                    {%  include post-card-error.html %}
+                    
+
+
+
+    
+    
+        <article class="post-card ">
+            
+                <a class="post-card-image-link" href="/ramp-to-value">
+                    <div class="post-card-image" style="background-image: url(/assets/images/mixer.jpg)"></div>
+                </a>
+            
+            <div class="post-card-content">
+                <a class="post-card-content-link" href="/ramp-to-value">
+                    <header class="post-card-header">
+                        
+                            
+                                
+                                   <span class="post-card-tags">Web audio</span>
+                                
+                            
+                                
+                                    <span class="post-card-tags">Js</span>
+                                
+                            
+                        
+
+                        <h2 class="post-card-title">Web Audio: the ugly click and the human ear</h2>
+                    </header>
+                    <section class="post-card-excerpt">
+                        
+                            <p>
+</p>
+                        
+                    </section>
+                </a>
+                <footer class="post-card-meta">
+                    
+                        
+                    
+                    <span class="reading-time">
+                        
+                        
+                          4 min read
+                        
+                    </span>
+                </footer>
+            </div>
+        </article>
+    
+
+
                 </div>
             </div>
         </aside>
@@ -62,3 +164,4 @@ It's a good idea to keep this template as minimal as possible in terms of both f
     </div>
 </body>
 </html>
+

@@ -11,7 +11,7 @@
 
 
 
-    <title>Alejandro MG</title>
+    <title>Js - Alejandro MG</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -40,19 +40,19 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Développement logiciel, web audio, et al" />
     <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/" />
+    <link rel="canonical" href="http://localhost:4000/tag/js/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Alejandro MG" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Alejandro MG" />
+    <meta property="og:title" content="Js - Alejandro MG" />
     <meta property="og:description" content="Développement logiciel, web audio, et al" />
-    <meta property="og:url" content="http://localhost:4000/" />
+    <meta property="og:url" content="http://localhost:4000/tag/js/" />
     <meta property="og:image" content="http://localhost:4000/assets/images/sky.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Alejandro MG" />
+    <meta name="twitter:title" content="Js - Alejandro MG" />
     <meta name="twitter:description" content="Développement logiciel, web audio, et al" />
     <meta name="twitter:url" content="http://localhost:4000/" />
     <meta name="twitter:image" content="http://localhost:4000/assets/images/sky.jpg" />
@@ -72,7 +72,7 @@
         "name": "Alejandro MG",
         "logo": "http://localhost:4000/assets/images/blog-icon.png"
     },
-    "url": "http://localhost:4000/",
+    "url": "http://localhost:4000/tag/js/",
     "image": {
         "@type": "ImageObject",
         "url": "http://localhost:4000/assets/images/sky.jpg",
@@ -81,7 +81,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/"
+        "@id": "http://localhost:4000/tag/js/"
     },
     "description": "Développement logiciel, web audio, et al"
 }
@@ -96,32 +96,30 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Alejandro MG" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Tag Page" href="/feed.xml" />
 
 
 </head>
-<body class="home-template">
+<body class="tag-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
-        <!-- < default -->
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
+        <!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer " style="background-image:  url(/assets/images/sky.jpg) ">
+<!-- #tag -->
+<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
+
+
+<header class="site-header outer no-cover">
     <div class="inner">
-        <div class="site-header-content">
-            <img class="author-profile-image" src="/assets/images/alejandro.jpg" alt="Alejandro MG" />
-            <h1 class="site-title">
-                
-                    <img class="site-logo" src="/assets/images/blog-icon.png" alt="Alejandro MG"/>
-                
-            </h1>
-            <h4 class="author-bio">Développeur fullstack, photographe et musicien amateur</h4>
-        </div>
         <nav class="site-nav">
     <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="http://localhost:4000/"><img src="/assets/images/blog-icon.png" alt="Alejandro MG" /></a>
+            
         
         
             <ul class="nav" role="menu">
@@ -155,19 +153,27 @@ into the {body} of the default.hbs template -->
     </div>
 </nav>
 
+        <div class="site-header-content">
+            <h1 class="site-title">Js</h1>
+            <h2 class="site-description">
+                
+    			    A collection of 1 posts
+                
+            </h2>
+        </div>
     </div>
 </header>
+<!-- tag -->
 
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-
         <div class="post-feed">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
 
 
-    <article class="post-card home-template">
+    <article class="post-card tag-template">
         
             <a class="post-card-image-link" href="/ramp-to-value">
                 <div class="post-card-image" style="background-image: url(/assets/images/mixer.jpg)"></div>
@@ -213,7 +219,6 @@ into the {body} of the default.hbs template -->
 
 
         </div>
-
     </div>
 </main>
 

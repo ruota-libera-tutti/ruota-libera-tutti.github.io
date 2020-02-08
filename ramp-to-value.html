@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- Document Settings -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Base Meta -->
+    <!-- dynamically fixing the title for tag/author pages -->
+
+
+
+    <title>Web Audio: the ugly click and the human ear</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/syntax.css" />
+    <!-- highlight.js -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+    <style>.hljs { background: none; }
+    .site-footer-nav a::before {
+        content: None !important;
+    }
+    </style>
+
+    <!--[if IE]>
+        <style>
+            p, ol, ul{
+                width: 100%;
+            }
+            blockquote{
+                width: 100%;
+            }
+        </style>
+    <![endif]-->
+    
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <meta name="description" content="Développement logiciel, web audio, et al" />
+    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="http://localhost:4000/ramp-to-value" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+     <!--title below is coming from _includes/dynamic_title-->
+    <meta property="og:site_name" content="Alejandro MG" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Web Audio: the ugly click and the human ear" />
+    <meta property="og:description" content="Développement logiciel, web audio, et al" />
+    <meta property="og:url" content="http://localhost:4000/ramp-to-value" />
+    <meta property="og:image" content="http://localhost:4000/assets/images/mixer.jpg" />
+    <meta property="article:publisher" content="https://www.facebook.com/" />
+    <meta property="article:tag" content="Web Audio" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Web Audio: the ugly click and the human ear" />
+    <meta name="twitter:description" content="Développement logiciel, web audio, et al" />
+    <meta name="twitter:url" content="http://localhost:4000/" />
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/mixer.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Alejandro MG" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Web Audio" />
+    <meta name="twitter:site" content="@alemangui" />
+    <meta name="twitter:creator" content="@alemangui" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="666" />
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Alejandro MG",
+        "logo": "http://localhost:4000/assets/images/blog-icon.png"
+    },
+    "url": "http://localhost:4000/ramp-to-value",
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://localhost:4000/assets/images/mixer.jpg",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://localhost:4000/ramp-to-value"
+    },
+    "description": "Développement logiciel, web audio, et al"
+}
+    </script>
+
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="Web Audio: the ugly click and the human ear" href="/feed.xml" />
+
+
+</head>
+<body class="post-template">
+
+    <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+        <!-- default -->
+
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="http://localhost:4000/"><img src="/assets/images/blog-icon.png" alt="Alejandro MG" /></a>
+            
+        
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="/">Blog</a></li>
+    <li class="nav-about" role="menuitem"><a href="/about/">About Me</a></li>
+</ul>
+
+        
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+            
+            
+                <a class="social-link social-link-tw" href="https://twitter.com/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+</a>
+            
+            
+                <a class="social-link social-link-tw" href="https://linkedin.com/in/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></a>
+            
+            
+                <a class="social-link social-link-tw" href="https://github.com/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></a>
+            
+            
+                <a class="social-link social-link-tw" href="https://stackoverflow.com/users/1046444" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15 21h-10v-2h10v2zm6-11.665l-1.621-9.335-1.993.346 1.62 9.335 1.994-.346zm-5.964 6.937l-9.746-.975-.186 2.016 9.755.879.177-1.92zm.538-2.587l-9.276-2.608-.526 1.954 9.306 2.5.496-1.846zm1.204-2.413l-8.297-4.864-1.029 1.743 8.298 4.865 1.028-1.744zm1.866-1.467l-5.339-7.829-1.672 1.14 5.339 7.829 1.672-1.14zm-2.644 4.195v8h-12v-8h-2v10h16v-10h-2z"/></svg></a>
+            
+            
+                <a class="social-link social-link-tw" href="https://www.instagram.com/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a>
+            
+        </div>
+        
+    </div>
+</nav>
+
+    </div>
+</header>
+
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full  ">
+
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <time class="post-full-meta-date" datetime="26 December 2015">26 December 2015</time>
+                    
+                        <span class="date-divider">/</span>
+                        
+                            
+                               <a href='/tag/web-audio/'>WEB AUDIO</a>,
+                            
+                        
+                            
+                               <a href='/tag/js/'>JS</a>
+                            
+                        
+                    
+                </section>
+                <h1 class="post-full-title">Web Audio: the ugly click and the human ear</h1>
+            </header>
+
+            
+            <figure class="post-full-image" style="background-image: url(/assets/images/mixer.jpg)">
+            </figure>
+            
+
+            <section class="post-full-content">
+                <div class="kg-card-markdown">
+                    <style>
+.button {
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    min-width: 50px;
+    min-height: 50px;
+    border-radius: 5px;
+    position: relative;
+    -webkit-appearance: button;
+    cursor: pointer;
+    text-transform: none;
+}
+
+.stop-button {
+    background-color: rgb(178, 78, 78);
+    border-radius: 5px 0px 0px 5px;
+}
+
+.stop-button:hover {
+    background-color: rgb(200, 106, 106);
+}
+
+.stop-button:before {
+    content: "";
+    position: absolute;
+    left: 15px;
+    width: 21px;
+    height: 21px;
+    margin-top: -10px;
+    background: white;
+}
+
+.play-button {
+    background-color: rgb(103, 178, 78);
+    min-width: 100px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.play-button:hover {
+    background-color: rgb(126, 200, 101);
+}
+
+.play-button:before {
+    content: "";
+    position: absolute;
+    left: 38px;
+    border: 8px solid transparent;
+    border-width: 12px 30px;
+    border-left-color: #FFFFFF;
+    margin-top: -12px;
+    background: transparent;
+}
+</style>
+
+<p>While playing around with a Web Audio demo, I noticed a clicking sound every time a I stopped an oscillator.</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">oscillatorNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
+
+<span class="nx">oscillatorNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">);</span>
+
+<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
+<span class="nx">oscillator</span><span class="p">.</span><span class="nx">stop</span><span class="p">();</span> <span class="c1">// click!</span></code></pre></figure>
+
+<p><button class="button stop-button" id="1-stop-button"></button>
+<button class="button play-button" id="1-play-button"></button>
+<script>
+	var context = new AudioContext();
+	var oscillator;
+	var firstIsPlaying;
+	(function() {
+		document.getElementById('1-play-button').addEventListener('click', function() {
+			if(firstIsPlaying) return;
+			oscillator = context.createOscillator();
+			oscillator.connect(context.destination);
+			oscillator.start();
+			firstIsPlaying = true;
+		}, false);
+		document.getElementById('1-stop-button').addEventListener('click', function() {
+			if (!firstIsPlaying) return;
+			oscillator.stop();
+			firstIsPlaying = false;
+		}, false);		
+	})();
+</script></p>
+
+<p>As the noob I am, I wondered why this happened. Could it be an implementation problem on the browser? Not likely, since this happened in all browsers I tested.</p>
+
+<p>Turns out the click sound happens because I’m abruptingly cutting the sound wave at a point other than the natural zero crossing:</p>
+
+<p><img src="assets/images/zero-crossing-point.svg" /></p>
+
+<p>Is there a way to avoid this clicking sound then?</p>
+
+<p>We have two options:</p>
+
+<ul>
+  <li>Stopping the sound only at zero-point crossings, or</li>
+  <li>Creating a node gain to gradually decrease the gain to zero before stopping</li>
+</ul>
+
+<p>I will focus on the second option since - luckily - Web Audio API has us covered.</p>
+
+<h2 id="gradual-changes-to-an-audioparam-value">Gradual changes to an audioParam value</h2>
+
+<h3 id="exponential-vs-linear">Exponential vs linear</h3>
+
+<p>There are several Web Audio functions that can gradually change an audioParam:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">linearRampToValueAtTime</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">endTime</span><span class="p">);</span> <span class="c1">// linear</span>
+<span class="nx">exponentialRampToValueAtTime</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">endTime</span><span class="p">);</span> <span class="c1">// exponential</span>
+<span class="nx">setTargetAtTime</span><span class="p">(</span><span class="nx">target</span><span class="p">,</span> <span class="nx">startTime</span><span class="p">,</span> <span class="nx">timeConstant</span><span class="p">);</span> <span class="c1">// exponential</span></code></pre></figure>
+
+<p>One difference between them is the easing function that is used to change the audio param value; either linear (left) or exponential (right).</p>
+
+<p><img src="assets/images/exponential-linear-curves.svg" /></p>
+
+<p>Mozilla has a piece of advise to those unsure of which one to use:</p>
+
+<blockquote>
+  <p>Exponential ramps are considered more useful when changing frequencies or playback rates than linear ramps because of the way the human ear works.</p>
+</blockquote>
+
+<p>And they are right: the human ear perceives sound on a logarithmic principle. An A3 note is a frequency of 220Hz, whereas A4 is 440Hz and A5 is 880Hz. Loudness also works this way: a tenfold increase in sound power could be described as being twice as loud. Hence, using an exponential gain decrease will be perceived as linear by the human ear.</p>
+
+<h3 id="exponentialramptovalueattime-vs-settargetattime">exponentialRampToValueAtTime vs setTargetAtTime</h3>
+
+<p>We will choose and exponential way of gradually decreasing the gain. This leaves us with <code class="highlighter-rouge">exponentialRampToValueAtTime</code> vs <code class="highlighter-rouge">setTargetAtTime</code>. Some difference between them are:</p>
+
+<ul>
+  <li>
+    <p><code class="highlighter-rouge">exponentialRampToValueAtTime</code> will get to the value precisely at the time specified. However, using this function, an exponential ramp to zero <a href="https://webaudio.github.io/web-audio-api/#widl-AudioParam-exponentialRampToValueAtTime-AudioParam-float-value-double-endTime">is not possible</a> because of the math used to calculate the values over time.</p>
+  </li>
+  <li>
+    <p><code class="highlighter-rouge">setTargetAtTime</code> exponentially moves towards the value given by the target parameter, but instead of specifying an end time, we give the function an exponential decay rate after which the value will decrease about 2/3rds. This means we can ask the function to go all the way down to zero. Theoretically it will never really reach zero since it will be exponentially decaying, but in real life it <em>will</em> as soon as the value is too small to be represented with a float.</p>
+  </li>
+</ul>
+
+<p>Let’s choose <code class="highlighter-rouge">setTargetAtTime</code> because we want to go all the way down to zero and because we are not too worried about getting there at a super precise time. As long as the fade-out time is fast enough to be imperceptible but slow enough to remove the click, we will be happy.</p>
+
+<h3 id="using-settargetattime-to-remove-the-click">Using setTargetAtTime to remove the click</h3>
+
+<p>Before trying out <code class="highlighter-rouge">setTargetAtTime</code> to get rid of the ugly click, we must be of a couple gotchas:</p>
+
+<ul>
+  <li>We must choose a decay time after which the gain value will decrease about 2/3rds. After a bit of experimenting, I found out that a decay time of 15 milliseconds gives the impression of being immediate but at the same time removes the click. Remember: Web Audio uses seconds instead of milliseconds!</li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">oscillator</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">gainNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createGain</span><span class="p">();</span>
+
+<span class="nx">oscillator</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">);</span>
+<span class="nx">gainNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">)</span>
+<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
+
+<span class="nx">stopButton</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'click'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">setTargetAtTime</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span><span class="p">,</span> <span class="mf">0.015</span><span class="p">);</span>
+<span class="p">});</span></code></pre></figure>
+
+<p><button class="button stop-button" id="2-stop-button"></button>
+<button class="button play-button" id="2-play-button"></button>
+<script>
+	var gainNode;
+	var secondIsPlaying;
+	(function() {
+		document.getElementById('2-play-button').addEventListener('click', function() {
+			if(secondIsPlaying) return;
+			gainNode = context.createGain();
+			oscillator = context.createOscillator();
+			oscillator.connect(gainNode);
+			gainNode.connect(context.destination);
+			oscillator.start();
+			secondIsPlaying = true;
+		}, false);
+		document.getElementById('2-stop-button').addEventListener('click', function() {
+			if (!secondIsPlaying) return;
+			gainNode.gain.setTargetAtTime(0, context.currentTime, 0.015);
+			setTimeout(function() {
+				oscillator.stop();
+				secondIsPlaying = false;
+			}, 40);
+		}, false);		
+	})();
+</script></p>
+
+<p>There’s no more click. We are all happy.</p>
+
+<h3 id="using-exponentialramptovalueattime-to-remove-the-click">Using exponentialRampToValueAtTime to remove the click</h3>
+
+<p>Since we are at it, let’s see how it would’ve turned out using <code class="highlighter-rouge">exponentialRampToValueAtTime</code> - which I found to be a bit trickier.</p>
+
+<p>One gotcha is this part of the Web Audio specification:</p>
+
+<blockquote>
+  <p>(exponentialRampToValueAtTime) Schedules an exponential continuous change in parameter value <strong>from the previous scheduled parameter value</strong> to the given value.</p>
+</blockquote>
+
+<p><em>From the previous scheduled parameter value</em> means that you must first set the audioParam with an automation method before using the ramping function. This usually means using <code class="highlighter-rouge">setValueAtTime()</code> instead of setting the audioParam value directly (in other words, don’t do this: <code class="highlighter-rouge">gainNode.gain.value = someValue</code>).</p>
+
+<p>Another gotcha also described in the spec:</p>
+
+<blockquote>
+  <p>It is an error if either V0 or V1 is not strictly positive. This also implies <strong>an exponential ramp to 0 is not possible.</strong></p>
+</blockquote>
+
+<p>So we must choose a tiny value, but not zero. As mentioned earlier, we can’t ramp to zero. Also, this time we will use 30 milliseconds as the time for the ramp to occur (this is the total transition time, not the decay time used in <code class="highlighter-rouge">setTargetAtTime</code>).</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">oscillator</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">gainNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createGain</span><span class="p">();</span>
+
+<span class="nx">oscillator</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">);</span>
+<span class="nx">gainNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">)</span>
+
+<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
+
+<span class="nx">stopButton</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'click'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+
+    <span class="c1">// Important! Setting a scheduled parameter value</span>
+    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">setValueAtTime</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">value</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span><span class="p">);</span> 
+
+    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">exponentialRampToValueAtTime</span><span class="p">(</span><span class="mf">0.0001</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">+</span> <span class="mf">0.03</span><span class="p">);</span>
+<span class="p">});</span></code></pre></figure>
+
+<p><button class="button stop-button" id="3-stop-button"></button>
+<button class="button play-button" id="3-play-button"></button>
+<script>
+	var gainNode;
+	var thirdIsPlaying;
+	(function() {
+		document.getElementById('3-play-button').addEventListener('click', function() {
+			if(thirdIsPlaying) return;
+			gainNode = context.createGain();
+			oscillator = context.createOscillator();
+			oscillator.connect(gainNode);
+			gainNode.connect(context.destination);
+			oscillator.start();
+			thirdIsPlaying = true;
+		}, false);
+		document.getElementById('3-stop-button').addEventListener('click', function() {
+			if (!thirdIsPlaying) return;
+			gainNode.gain.setValueAtTime(gainNode.gain.value, context.currentTime);
+			gainNode.gain.exponentialRampToValueAtTime(0.0001, context.currentTime + 0.03);
+			setTimeout(function() {
+				oscillator.stop();
+				thirdIsPlaying = false;
+			}, 30);
+		}, false);		
+	})();
+</script></p>
+
+<p>Also works, we’ve gotten rid of the click.</p>
+
+<h2 id="more-info">More info</h2>
+
+<ul>
+  <li><a href="http://www.audiocheck.net/soundtests_nonlinear.php">The non-linearities of the human ear</a></li>
+  <li><a href="http://www.w3.org/TR/webaudio/#AudioParam">The AudioParam interface</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/setTargetAtTime">Mozilla’s documentation for setTargetAtTime</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/exponentialRampToValueAtTime">Mozilla’s documentation for exponentialRampToValueAtTime</a></li>
+</ul>
+
+
+                </div>
+            </section>
+
+            <!-- Email subscribe form at the bottom of the page -->
+            
+
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    
+                
+                <!-- /author  -->
+            </footer>
+
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = 'http://localhost:4000/';
+                            this.page.identifier = 'Alejandro MG';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://alemanguisblog.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
+            
+
+        </article>
+
+    </div>
+</main>
+
+<!-- Links to Previous/Next posts -->
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            
+                
+                
+                
+                
+            
+
+            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+            
+
+        </div>
+    </div>
+</aside>
+
+<!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
+<div class="floating-header">
+    <div class="floating-header-logo">
+        <a href="http://localhost:4000/">
+            
+                <img src="/assets/images/favicon.png" alt="Alejandro MG icon" />
+            
+            <span>Alejandro MG</span>
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">Web Audio: the ugly click and the human ear</div>
+    <div class="floating-header-share">
+        <div class="floating-header-share-label">Partagez cet article <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
+</svg>
+</div>
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Web+Audio%3A+the+ugly+click+and+the+human+ear&amp;url=https://alemangui.github.io/ramp-to-value"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+
+        </a>
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://alemangui.github.io/ramp-to-value"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+
+        </a>
+    </div>
+    <progress class="progress" value="0">
+        <div class="progress-container">
+            <span class="progress-bar"></span>
+        </div>
+    </progress>
+</div>
+
+
+<!-- /post -->
+
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+
+
+        <!-- Previous/next page links - displayed on every page -->
+        
+
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href="http://localhost:4000/">Alejandro MG</a> &copy; 2020</section>
+
+                <nav class="site-footer-nav">
+                    
+                    
+                        <a class="social-link social-link-tw" href="https://twitter.com/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+</a>
+                    
+                    
+                        <a class="social-link social-link-tw" href="https://linkedin.com/in/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></a>
+                    
+                    
+                        <a class="social-link social-link-tw" href="https://github.com/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></a>
+                    
+                    
+                        <a class="social-link social-link-tw" href="https://stackoverflow.com/users/1046444" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15 21h-10v-2h10v2zm6-11.665l-1.621-9.335-1.993.346 1.62 9.335 1.994-.346zm-5.964 6.937l-9.746-.975-.186 2.016 9.755.879.177-1.92zm.538-2.587l-9.276-2.608-.526 1.954 9.306 2.5.496-1.846zm1.204-2.413l-8.297-4.864-1.029 1.743 8.298 4.865 1.028-1.744zm1.866-1.467l-5.339-7.829-1.672 1.14 5.339 7.829 1.672-1.14zm-2.644 4.195v8h-12v-8h-2v10h16v-10h-2z"/></svg></a>
+                    
+                    
+                        <a class="social-link social-link-tw" href="https://www.instagram.com/alemangui" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a>
+                    
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- The big email subscribe modal content -->
+    
+
+    <!-- highlight.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+    <script>$(document).ready(function() {
+      $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+      });
+    });</script>
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+
+    <!-- Paginator increased to "infinit" in _config.yml -->
+    <!-- if paginator.posts  -->
+    <!-- <script>
+        var maxPages = parseInt('');
+    </script>
+    <script src="/assets/js/infinitescroll.js"></script> -->
+    <!-- /endif -->
+
+    
+
+
+    <!-- Add Google Analytics  -->
+    <!-- Google Analytics Tracking code -->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
+    
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
+</body>
+</html>
