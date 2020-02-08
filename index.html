@@ -1,190 +1,40 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Alejandro Mantecón Guillén: My personal site</title>
-        <meta name="description" content="Alejandro Mantecon Guillen">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+current: home
+class: 'home-template'
+navigation: True
+---
 
-        <link rel="stylesheet" href="./styles.css">
-        <link rel="shortcut icon" type="image/png" href="./favicon.png">
+<!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
 
-        <!--[if lt IE 9]>
-            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-            <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
-        <![endif]-->
-    </head>
-    <body>
-        <!--[if lt IE 8]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
-        <div id="header">
-
-            <a href="https://github.com/alemangui" class="social-icon icon-github"></a>
-            <a href="https://www.linkedin.com/profile/view?id=AAIAAA8l4GQBVjOkrf4EKeLLjR2KkFI6OM0NICM" class="social-icon icon-linkedin"></a>
-            <a href="https://twitter.com/alemangui" class="social-icon icon-twitter"></a>
-            <a href="http://stackoverflow.com/users/1046444/alemangui" class="social-icon icon-stackoverflow"></a>
-            <a href="https://www.flickr.com/photos/125619544@N07/" class="social-icon icon-flickr"></a>
-
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+    <div class="inner">
+        <div class="site-header-content">
+            <img class="author-profile-image" src="/assets/images/alejandro.jpg" alt="Alejandro MG" />
+            <h1 class="site-title">
+                {% if site.logo %}
+                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
+                {% else %}
+                    {{ site.title }}
+                {% endif %}
+            </h1>
+            <h4 class="author-bio">Développeur fullstack, photographe et musicien amateur</h4>
         </div>
-        <div id="summary">
-            <div id="main-image"></div>
-            <h1>Alejandro Mantecon Guillen</h1>
-            <h2>alemangui</h2>
-            <div class="divider"></div>
-            <h3>Software developer. Music and photography hobbyist.</h3>
+        {% include site-nav.html %}
+    </div>
+</header>
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card.html %}
         </div>
 
-        <div id="software" class="portfolio">
-            <h4>Software and code</h4>
-            <h5>Personal</h5>
-            <div class="grid">
-
-                <div class="grid-item">
-                    <a href="https://alemangui.github.io/pizzicato/" class="grid-item-content">
-                        <img src="img/pizzicato.jpg" alt="Pizzicato.js" />
-                        <div class="name">Pizzicato.js</div>
-                        <div class="description">An HTML5 web audio library</div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="https://alemangui.github.io/Tonalhub/" class="grid-item-content">
-                        <img src="img/tonalhub.jpg" alt="Web audio resources" />
-                        <div class="name">Tonalhub</div>
-                        <div class="description">Hear your GitHub repos sing</div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="https://github.com/alemangui/web-audio-resources" class="grid-item-content">
-                        <img src="img/web-audio-list.jpg" alt="Web audio resources" />
-                        <div class="name">Web audio resources</div>
-                        <div class="description">My curated web audio list</div>
-                    </a>
-                </div>
-            </div>
-
-            <h5>Professional</h5>
-            <div class="grid">
-                <div class="grid-item">
-                    <a href="http://www.kds.com/travel-management/" class="grid-item-content">
-                        <img src="img/neo-travel.jpg" alt="KDS Neo Travel" />
-                        <div class="name">KDS Neo Travel</div>
-                        <div class="description">Door-to-door solution by KDS</div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="http://www.kds.com/expense-management/" class="grid-item-content">
-                        <img src="img/neo-expense.jpg" alt="KDS Neo Expense" />
-                        <div class="name">KDS Neo Expense</div>
-                        <div class="description">Expense management by KDS</div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="http://www.oecd.org/internet/broadband/oecdcommunicationsoutlook2011.htm" class="grid-item-content">
-                        <img src="img/communications-outlook.jpg" alt="OECD Communications Outlook 2011" />
-                        <div class="name">OECD Communications Outlook 2011</div>
-                        <div class="description">Contribution to the publication</div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="http://apple.vshare.com/576221584.html" class="grid-item-content">
-                        <img src="img/divento-london.jpg" alt="Divento London iOS app" />
-                        <div class="name">Divento London city guite</div>
-                        <div class="description">iOS native application</div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="http://www.oecd.org/sti/ieconomy/theroleofinternetintermediariesinadvancingpublicpolicyobjectives.htm" class="grid-item-content">
-                        <img src="img/internet-intermediaries.jpg" alt="OECD Internet Intermediaries" />
-                        <div class="name">OECD Internet Intermediaries</div>
-                        <div class="description">Contribution to the publication</div>
-                    </a>
-                </div>
-
-            </div>
-        </div>
-
-        <div id="music-and-photography" class="portfolio">
-            <h4>Music and photography</h4>
-
-            <div class="grid">
-
-                <div class="grid-item">
-                    <a href="https://www.youtube.com/watch?v=QyIU21ZvZ0k" class="grid-item-content">
-                        <img src="img/change-of-gear.jpg" alt="Change of gear" />
-                        <div class="name">Change of gear</div>
-                        <div class="description"></div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="https://www.youtube.com/watch?v=fo-YDQFLHBo" class="grid-item-content">
-                        <img src="img/unstoppable-reality.jpg" alt="Unstoppable reality" />
-                        <div class="name">Unstoppable reality</div>
-                        <div class="description"></div>
-                    </a>
-                </div>
-
-                <div class="grid-item">
-                    <a href="https://www.youtube.com/watch?v=IbojVFXSzPw" class="grid-item-content">
-                        <img src="img/rainy-sunday-jam.jpg" alt="Rainy Sunday jam" />
-                        <div class="name">Rainy Sunday </div>
-                        <div class="description"></div>
-                    </a>
-                </div>
-
-                
-                <div class="grid-item">
-                    <a href="https://www.flickr.com/photos/125619544@N07/" class="grid-item-content">
-                        <img src="img/flickr.jpg" alt="Flick account" />
-                        <div class="name">Flickr page</div>
-                        <div class="description"></div>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div id="footer">
-            <div class="footer-section">
-                <div class="title">Location</div>
-                <div class="body"><span class="icon-location"></span>Paris, France</div>
-            </div>
-            <div class="footer-section" id="footer-social-media">
-                <div class="title">Elsewhere in the web</div>
-                <div class="body">
-                    <a href="https://github.com/alemangui" class="footer-social-icon icon-github"></a>
-                    <a href="https://www.linkedin.com/profile/view?id=AAIAAA8l4GQBVjOkrf4EKeLLjR2KkFI6OM0NICM" class="footer-social-icon icon-linkedin"></a>
-                    <a href="https://twitter.com/alemangui" class="footer-social-icon icon-twitter"></a>
-                    <a href="http://stackoverflow.com/users/1046444/alemangui" class="footer-social-icon icon-stackoverflow"></a>
-                    <a href="https://www.flickr.com/photos/125619544@N07/" class="footer-social-icon icon-flickr"></a>
-                </div>
-            </div>
-            <div class="footer-section">
-                <div class="title">Support these guys :)</div>
-                <div class="body"><a class="footer-external-link" href="http://www.30millionsdamis.fr/">30 millions d'amis</a> and the <a class="footer-external-link" href="http://www.spa.asso.fr/">SPA</a> are important associations for animal protection in need of support. Check them out!
-            </div>
-        </div>
-
-
-        <script type="text/javascript">
-            var _gaq = _gaq || [];
-           _gaq.push(['_setAccount', 'UA-25705162-1']);
-           _gaq.push(['_trackPageview']);
-            (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-        </script>
-    </body>
-</html>
+    </div>
+</main>

@@ -1,0 +1,39 @@
+<nav class="site-nav">
+    <div class="site-nav-left">
+        {% if page.current != 'home' and page.current != 'about' %}
+            {% if site.logo %}
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
+            {% else %}
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            {% endif %}
+        {% endif %}
+        {% if page.navigation %}
+            {% include navigation.html %}
+        {% endif %}
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+            {% if site.facebook %}
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
+            {% endif %}
+            {% if site.twitter %}
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+            {% endif %}
+            {% if site.linkedin %}
+                <a class="social-link social-link-tw" href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">{% include linkedin.html %}</a>
+            {% endif %}
+            {% if site.github %}
+                <a class="social-link social-link-tw" href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">{% include github.html %}</a>
+            {% endif %}
+            {% if site.stackoverflow %}
+                <a class="social-link social-link-tw" href="https://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank" rel="noopener">{% include stackoverflow.html %}</a>
+            {% endif %}
+            {% if site.instagram %}
+                <a class="social-link social-link-tw" href="https://www.instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% include instagram.html %}</a>
+            {% endif %}
+        </div>
+        {% if site.subscribers %}
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+        {% endif %}
+    </div>
+</nav>

@@ -1,0 +1,9 @@
+web-audio:
+  name: Web audio
+  description: The Audio API for the browser
+  cover: assets/images/mixer.jpg
+
+js:
+  name: JS
+  description: All related to Javascript
+  cover: coder-1
