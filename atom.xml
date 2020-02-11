@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>Mesurer la performance avec Locust</title>
+        
+          <description>&lt;p&gt;Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 11 Feb 2020 00:00:00 +0100</pubDate>
+        <link>
+        /locust</link>
+        <guid isPermaLink="true">/locust</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Web Audio: the ugly click and the human ear</title>
         
           <description>&lt;style&gt;

@@ -11,7 +11,7 @@
 
 
 
-    <title>Web Audio: the ugly click and the human ear</title>
+    <title>Mesurer la performance avec Locust</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -40,31 +40,34 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Développement logiciel, web audio, et al" />
     <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="/ramp-to-value" />
+    <link rel="canonical" href="/locust" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Alejandro MG" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Web Audio: the ugly click and the human ear" />
-    <meta property="og:description" content="Développement logiciel, web audio, et al" />
-    <meta property="og:url" content="/ramp-to-value" />
-    <meta property="og:image" content="/assets/images/mixer.jpg" />
+    <meta property="og:title" content="Mesurer la performance avec Locust" />
+    <meta property="og:description" content="Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement" />
+    <meta property="og:url" content="/locust" />
+    <meta property="og:image" content="/assets/images/chrono.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
-    <meta property="article:tag" content="Web Audio" />
+    <meta property="article:author" content="https://www.facebook.com/" />
+    <meta property="article:published_time" content="2020-02-11T00:00:00+01:00" />
+    <meta property="article:modified_time" content="2020-02-11T00:00:00+01:00" />
+    <meta property="article:tag" content="Développement" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Web Audio: the ugly click and the human ear" />
-    <meta name="twitter:description" content="Développement logiciel, web audio, et al" />
+    <meta name="twitter:title" content="Mesurer la performance avec Locust" />
+    <meta name="twitter:description" content="Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement" />
     <meta name="twitter:url" content="/" />
-    <meta name="twitter:image" content="/assets/images/mixer.jpg" />
+    <meta name="twitter:image" content="/assets/images/chrono.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Alejandro MG" />
     <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Web Audio" />
+    <meta name="twitter:data2" content="Développement" />
     <meta name="twitter:site" content="@alemangui" />
     <meta name="twitter:creator" content="@alemangui" />
-    <meta property="og:image:width" content="2000" />
-    <meta property="og:image:height" content="666" />
+    <meta property="og:image:width" content="1400" />
+    <meta property="og:image:height" content="933" />
 
     <script type="application/ld+json">
 {
@@ -75,23 +78,23 @@
         "name": "Alejandro MG",
         "logo": "/assets/images/blog-icon.png"
     },
-    "url": "/ramp-to-value",
+    "url": "/locust",
     "image": {
         "@type": "ImageObject",
-        "url": "/assets/images/mixer.jpg",
+        "url": "/assets/images/chrono.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "/ramp-to-value"
+        "@id": "/locust"
     },
-    "description": "Développement logiciel, web audio, et al"
+    "description": "Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement"
 }
     </script>
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Web Audio: the ugly click and the human ear" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Mesurer la performance avec Locust" href="/feed.xml" />
 
 
 </head>
@@ -158,294 +161,202 @@ into the {body} of the default.hbs template -->
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="26 December 2015">26 December 2015</time>
+                    <time class="post-full-meta-date" datetime="11 February 2020">11 February 2020</time>
                     
                         <span class="date-divider">/</span>
                         
                             
-                               <a href='/tag/web-audio/'>WEB AUDIO</a>,
+                               <a href='/tag/développement/'>DÉVELOPPEMENT</a>,
                             
                         
                             
-                               <a href='/tag/js/'>JS</a>
+                               <a href='/tag/python/'>PYTHON</a>
                             
                         
                     
                 </section>
-                <h1 class="post-full-title">Web Audio: the ugly click and the human ear</h1>
+                <h1 class="post-full-title">Mesurer la performance avec Locust</h1>
             </header>
 
             
-            <figure class="post-full-image" style="background-image: url(/assets/images/mixer.jpg)">
+            <figure class="post-full-image" style="background-image: url(/assets/images/chrono.jpg)">
             </figure>
             
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <style>
-.button {
-    border: none;
-    color: white;
-    font-weight: bold;
-    padding: 10px;
-    min-width: 50px;
-    min-height: 50px;
-    border-radius: 5px;
-    position: relative;
-    -webkit-appearance: button;
-    cursor: pointer;
-    text-transform: none;
-}
+                    <p>Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.</p>
 
-.stop-button {
-    background-color: rgb(178, 78, 78);
-    border-radius: 5px 0px 0px 5px;
-}
+<p>Les tests de charge servent à assurer que notre application réponde à nos objectifs liés au nombre d’utilisateurs simultanées et temps de réponse. C’est là que <a href="https://locust.io/">Locust</a> rentre en action : un outil pour simuler des utilisateurs virtuels et enregistrer les temps de réponses pour permettre leur analyse. Par rapport aux alternatives Locust a un grand plus : on écrit nos tests en Python pur et dur.</p>
 
-.stop-button:hover {
-    background-color: rgb(200, 106, 106);
-}
+<h2 id="préparons-le-terrain">Préparons le terrain</h2>
 
-.stop-button:before {
-    content: "";
-    position: absolute;
-    left: 15px;
-    width: 21px;
-    height: 21px;
-    margin-top: -10px;
-    background: white;
-}
+<p>Avant de jouer avec Locust, il faut bien qu’on ait quelque chose à tester. Pour le fun, nous allons faire un hello-world avec Flask.</p>
 
-.play-button {
-    background-color: rgb(103, 178, 78);
-    min-width: 100px;
-    border-radius: 0px 5px 5px 0px;
-}
+<p>Je vais d’abord démarrer un environnement virtuel avec Python 3 dans un dossier vide, suivi de l’installation de Flask avec <code class="highlighter-rouge">pip</code> :</p>
 
-.play-button:hover {
-    background-color: rgb(126, 200, 101);
-}
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">» virtualenv <span class="nt">-p</span> python3 venv
+» <span class="nb">.</span> venv/bin/activate
+» pip install flask</code></pre></figure>
 
-.play-button:before {
-    content: "";
-    position: absolute;
-    left: 38px;
-    border: 8px solid transparent;
-    border-width: 12px 30px;
-    border-left-color: #FFFFFF;
-    margin-top: -12px;
-    background: transparent;
-}
-</style>
+<p>Créons maintenant un fichier <code class="highlighter-rouge">hello.py</code> avec le code disponible dans le <a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application">site Flask</a>.</p>
 
-<p>While playing around with a Web Audio demo, I noticed a clicking sound every time a I stopped an oscillator.</p>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Flask</span>
+<span class="n">app</span> <span class="o">=</span> <span class="n">Flask</span><span class="p">(</span><span class="n">__name__</span><span class="p">)</span>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">oscillatorNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s">'/'</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+    <span class="k">return</span> <span class="s">'Hello, World!'</span></code></pre></figure>
 
-<span class="nx">oscillatorNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">);</span>
+<p>Et voilà, nous avons un endpoint sur <code class="highlighter-rouge">http://127.0.0.1:5000/</code>.</p>
 
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">stop</span><span class="p">();</span> <span class="c1">// click!</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">» <span class="nb">export </span><span class="nv">FLASK_APP</span><span class="o">=</span>hello.py<span class="p">;</span> flask run
+  <span class="k">*</span> Serving Flask app <span class="s2">"hello.py"</span>
+  <span class="k">*</span> Debug mode: off
+  <span class="k">*</span> Running on http://127.0.0.1:5000/ <span class="o">(</span>Press CTRL+C to quit<span class="o">)</span></code></pre></figure>
 
-<p><button class="button stop-button" id="1-stop-button"></button>
-<button class="button play-button" id="1-play-button"></button>
-<script>
-	var context = new AudioContext();
-	var oscillator;
-	var firstIsPlaying;
-	(function() {
-		document.getElementById('1-play-button').addEventListener('click', function() {
-			if(firstIsPlaying) return;
-			oscillator = context.createOscillator();
-			oscillator.connect(context.destination);
-			oscillator.start();
-			firstIsPlaying = true;
-		}, false);
-		document.getElementById('1-stop-button').addEventListener('click', function() {
-			if (!firstIsPlaying) return;
-			oscillator.stop();
-			firstIsPlaying = false;
-		}, false);		
-	})();
-</script></p>
+<h2 id="locust-entre-en-jeu">Locust entre en jeu</h2>
 
-<p>As the noob I am, I wondered why this happened. Could it be an implementation problem on the browser? Not likely, since this happened in all browsers I tested.</p>
+<p>Locust permet de simuler de milliers d’utilisateurs simultanés sur notre app. Derrière le rideau, il crée un processus léger via gevent (plus précisément un <a href="http://www.gevent.org/api/gevent.greenlet.html">greenlet</a>) par utilisateur simulé. Ce choix technique permet de simuler un grand nombre d’usagers sur une seule machine.</p>
 
-<p>Turns out the click sound happens because I’m abruptingly cutting the sound wave at a point other than the natural zero crossing:</p>
+<p>Commençons par créer un fichier <code class="highlighter-rouge">locustfile.py</code>. Ce fichier servira pour décrire les tests de charge.</p>
 
-<p><img src="assets/images/zero-crossing-point.svg" /></p>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">locust</span> <span class="kn">import</span> <span class="n">HttpLocust</span><span class="p">,</span> <span class="n">TaskSet</span><span class="p">,</span> <span class="n">task</span><span class="p">,</span> <span class="n">between</span>
 
-<p>Is there a way to avoid this clicking sound then?</p>
+<span class="k">class</span> <span class="nc">UserBehaviour</span><span class="p">(</span><span class="n">TaskSet</span><span class="p">):</span>
+    <span class="nd">@task</span>
+    <span class="k">def</span> <span class="nf">index</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">"/"</span><span class="p">)</span>
 
-<p>We have two options:</p>
+<span class="k">class</span> <span class="nc">WebsiteUser</span><span class="p">(</span><span class="n">HttpLocust</span><span class="p">):</span>
+    <span class="n">task_set</span> <span class="o">=</span> <span class="n">UserBehaviour</span>
+    <span class="n">wait_time</span> <span class="o">=</span> <span class="n">between</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">9</span><span class="p">)</span></code></pre></figure>
 
+<p>La class <code class="highlighter-rouge">UserBehaviour</code> nous permet de définir l’activité que les usagers vont mener. Dans notre cas il y a un seul et unique endpoint à la racine qu’on represente ici avec la fonction <code class="highlighter-rouge">index</code> décoré avec <code class="highlighter-rouge">@task</code> pour indiquer à Locust qu’il s’agit d’une tâche que les utilisateurs vont effectuer.</p>
+
+<p>La class <code class="highlighter-rouge">WebsiteUser</code> represente l’utilisateur lui même. On spécifie la <code class="highlighter-rouge">task_set</code> qu’il réalisera ainsi que le temps qu’il attend entre chaque tâche - entre cinq et neuf secondes dans notre cas.</p>
+
+<p>Si vous avez nommé ce fichier <code class="highlighter-rouge">locustfile.py</code> il suffit de taper <code class="highlighter-rouge">locust</code> dans la console pour tout démarrer. Si vous l’avez nommé différemment il faudra ajouter <code class="highlighter-rouge">-f &lt;&lt;path-to-file&gt;&gt;</code></p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">» locust
+   <span class="o">[</span>&lt;date&gt;] /INFO/locust.main: Starting web monitor at http://<span class="k">*</span>:8089
+   <span class="o">[</span>&lt;date&gt;] /INFO/locust.main: Starting Locust 0.14.4</code></pre></figure>
+
+<p>Locust a mis en place l’interface web sur <code class="highlighter-rouge">http://localhost:8089</code>. Cette interface nous permet de spécifier le nombre d’usagers à simuler, le taux de création de ces utilisateurs et l’URL de l’application à tester. Démarrons nos tests avec 100 utilisateurs avec un taux de croissance de dix par seconde. Vu que notre hello-world Flask tourne toujours sur le port <code class="highlighter-rouge">:5000</code> on peut le remplir comme cela :</p>
+
+<p><img src="assets/images/locust-1.jpg" /></p>
+
+<p>Après avoir appuyé sur le bouton <em>start swarming</em> le test se met en œuvre. Dans l’entête de la page on trouve le nombre d’utilisateurs simultanées, les requêtes par seconde (RPS) et le pourcentage d’échec. Plus bas, dans la table on peut aussi connaître le temps de réponse de notre application.</p>
+
+<p>Notez aussi les onglets :</p>
 <ul>
-  <li>Stopping the sound only at zero-point crossings, or</li>
-  <li>Creating a node gain to gradually decrease the gain to zero before stopping</li>
+  <li><em>Charts</em> contient des visualisations concernant les temps de réponse, les requêtes par seconde et le nombre d’usagers,</li>
+  <li><em>Failures</em> et <em>Exceptions</em> donne davantage d’information sur les problèmes rencontrés lors du test, et</li>
+  <li><em>Download Data</em> permet de télécharger les données bruts en CSV.</li>
 </ul>
 
-<p>I will focus on the second option since - luckily - Web Audio API has us covered.</p>
+<p><img src="assets/images/locust-2.jpg" /></p>
 
-<h2 id="gradual-changes-to-an-audioparam-value">Gradual changes to an audioParam value</h2>
+<h2 id="plus-dendpoints">Plus d’endpoints</h2>
 
-<h3 id="exponential-vs-linear">Exponential vs linear</h3>
+<p>Dans la vie réelle on voudra tester des applications qui ont plus d’un endpoint. Par exemple, on peut avoir de comptes utilisateur (et donc un <code class="highlighter-rouge">/login</code> et <code class="highlighter-rouge">/logout</code>). Puis on pourrait aussi mettre à disposition un endpoint pour paramétrer le compte (<code class="highlighter-rouge">/account</code>) ainsi qu’un autre pour accéder au panier d’achat (<code class="highlighter-rouge">/cart</code>).</p>
 
-<p>There are several Web Audio functions that can gradually change an audioParam:</p>
+<p>Ajoutons ces nouvelles routes à notre app Flask sur <code class="highlighter-rouge">hello.py</code> :</p>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">linearRampToValueAtTime</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">endTime</span><span class="p">);</span> <span class="c1">// linear</span>
-<span class="nx">exponentialRampToValueAtTime</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">endTime</span><span class="p">);</span> <span class="c1">// exponential</span>
-<span class="nx">setTargetAtTime</span><span class="p">(</span><span class="nx">target</span><span class="p">,</span> <span class="nx">startTime</span><span class="p">,</span> <span class="nx">timeConstant</span><span class="p">);</span> <span class="c1">// exponential</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Flask</span>
+<span class="n">app</span> <span class="o">=</span> <span class="n">Flask</span><span class="p">(</span><span class="n">__name__</span><span class="p">)</span>
 
-<p>One difference between them is the easing function that is used to change the audio param value; either linear (left) or exponential (right).</p>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s">'/'</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">home</span><span class="p">():</span>
+    <span class="k">return</span> <span class="s">'Home'</span>
 
-<p><img src="assets/images/exponential-linear-curves.svg" /></p>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s">'/login'</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">home</span><span class="p">():</span>
+    <span class="k">return</span> <span class="s">'Login'</span>
 
-<p>Mozilla has a piece of advise to those unsure of which one to use:</p>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s">'/logout'</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">home</span><span class="p">():</span>
+    <span class="k">return</span> <span class="s">'Logout'</span>
 
-<blockquote>
-  <p>Exponential ramps are considered more useful when changing frequencies or playback rates than linear ramps because of the way the human ear works.</p>
-</blockquote>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s">'/account'</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">home</span><span class="p">():</span>
+    <span class="k">return</span> <span class="s">'Account'</span>
 
-<p>And they are right: the human ear perceives sound on a logarithmic principle. An A3 note is a frequency of 220Hz, whereas A4 is 440Hz and A5 is 880Hz. Loudness also works this way: a tenfold increase in sound power could be described as being twice as loud. Hence, using an exponential gain decrease will be perceived as linear by the human ear.</p>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s">'/cart'</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">home</span><span class="p">():</span>
+    <span class="k">return</span> <span class="s">'Cart'</span></code></pre></figure>
 
-<h3 id="exponentialramptovalueattime-vs-settargetattime">exponentialRampToValueAtTime vs setTargetAtTime</h3>
+<h3 id="authentification">Authentification</h3>
 
-<p>We will choose and exponential way of gradually decreasing the gain. This leaves us with <code class="highlighter-rouge">exponentialRampToValueAtTime</code> vs <code class="highlighter-rouge">setTargetAtTime</code>. Some difference between them are:</p>
+<p>Cette fois-ci nos utilisateurs doivent s’identifier avant d’accéder aux autres pages. De plus, ils fermeront leur session après avoir fini. Les fonctions <code class="highlighter-rouge">on_start</code> et <code class="highlighter-rouge">on_stop</code> sont appelées avant l’exécution de la première tâche et après la fin du TaskSet respectivement. C’est donc idéal pour placer l’authentification :</p>
 
-<ul>
-  <li>
-    <p><code class="highlighter-rouge">exponentialRampToValueAtTime</code> will get to the value precisely at the time specified. However, using this function, an exponential ramp to zero <a href="https://webaudio.github.io/web-audio-api/#widl-AudioParam-exponentialRampToValueAtTime-AudioParam-float-value-double-endTime">is not possible</a> because of the math used to calculate the values over time.</p>
-  </li>
-  <li>
-    <p><code class="highlighter-rouge">setTargetAtTime</code> exponentially moves towards the value given by the target parameter, but instead of specifying an end time, we give the function an exponential decay rate after which the value will decrease about 2/3rds. This means we can ask the function to go all the way down to zero. Theoretically it will never really reach zero since it will be exponentially decaying, but in real life it <em>will</em> as soon as the value is too small to be represented with a float.</p>
-  </li>
-</ul>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="o">...</span>
+<span class="k">class</span> <span class="nc">UserBehaviour</span><span class="p">(</span><span class="n">TaskSet</span><span class="p">):</span>
 
-<p>Let’s choose <code class="highlighter-rouge">setTargetAtTime</code> because we want to go all the way down to zero and because we are not too worried about getting there at a super precise time. As long as the fade-out time is fast enough to be imperceptible but slow enough to remove the click, we will be happy.</p>
+    <span class="k">def</span> <span class="nf">on_start</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'/login'</span><span class="p">)</span>
 
-<h3 id="using-settargetattime-to-remove-the-click">Using setTargetAtTime to remove the click</h3>
+    <span class="k">def</span> <span class="nf">on_stop</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'/logout'</span><span class="p">)</span>
+<span class="o">...</span></code></pre></figure>
 
-<p>Before trying out <code class="highlighter-rouge">setTargetAtTime</code> to get rid of the ugly click, we must be of a couple gotchas:</p>
+<h3 id="comportement-des-usagers">Comportement des usagers</h3>
 
-<ul>
-  <li>We must choose a decay time after which the gain value will decrease about 2/3rds. After a bit of experimenting, I found out that a decay time of 15 milliseconds gives the impression of being immediate but at the same time removes the click. Remember: Web Audio uses seconds instead of milliseconds!</li>
-</ul>
+<p>Vu le nombre des pages dans notre app, ce serait utile de paramétrer <code class="highlighter-rouge">UserBehaviour</code> pour que les pages ne soient pas toutes visitées pareil. Nous pouvons nous attendre à que la page d’accueil (<code class="highlighter-rouge">/</code>) soit souvent visité. D’un autre côté, du fait que les utilisateurs ne paramètrent pas leur compte tous les jours, <code class="highlighter-rouge">/account</code> ne sera pas un passage obligé pour tous. Finalement, le panier d’achat (<code class="highlighter-rouge">/cart</code>) se situe un peu au milieu en terme des visites.</p>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">oscillator</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">gainNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createGain</span><span class="p">();</span>
+<p>Pour ce faire on s’appuiera sur le décorateur <code class="highlighter-rouge">@task</code>, plus précisément sur son paramètre facultatif entier qui répresente le poids, çad la probabilité qu’un utilisateur choisisse la tâche en question pour son action suivante. Une tâche <code class="highlighter-rouge">@task(10)</code> a dix fois plus de probabilité d’être choisie qu’une tâche <code class="highlighter-rouge">@task(1)</code>. Nous pouvons donc récrire notre <code class="highlighter-rouge">locustfile.py</code> de la façon suivante :</p>
 
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">);</span>
-<span class="nx">gainNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">)</span>
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">locust</span> <span class="kn">import</span> <span class="n">HttpLocust</span><span class="p">,</span> <span class="n">TaskSet</span><span class="p">,</span> <span class="n">task</span><span class="p">,</span> <span class="n">between</span>
 
-<span class="nx">stopButton</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'click'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">setTargetAtTime</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span><span class="p">,</span> <span class="mf">0.015</span><span class="p">);</span>
-<span class="p">});</span></code></pre></figure>
+<span class="k">class</span> <span class="nc">UserBehaviour</span><span class="p">(</span><span class="n">TaskSet</span><span class="p">):</span>
 
-<p><button class="button stop-button" id="2-stop-button"></button>
-<button class="button play-button" id="2-play-button"></button>
-<script>
-	var gainNode;
-	var secondIsPlaying;
-	(function() {
-		document.getElementById('2-play-button').addEventListener('click', function() {
-			if(secondIsPlaying) return;
-			gainNode = context.createGain();
-			oscillator = context.createOscillator();
-			oscillator.connect(gainNode);
-			gainNode.connect(context.destination);
-			oscillator.start();
-			secondIsPlaying = true;
-		}, false);
-		document.getElementById('2-stop-button').addEventListener('click', function() {
-			if (!secondIsPlaying) return;
-			gainNode.gain.setTargetAtTime(0, context.currentTime, 0.015);
-			setTimeout(function() {
-				oscillator.stop();
-				secondIsPlaying = false;
-			}, 40);
-		}, false);		
-	})();
-</script></p>
+    <span class="k">def</span> <span class="nf">on_start</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'/login'</span><span class="p">)</span>
 
-<p>There’s no more click. We are all happy.</p>
+    <span class="k">def</span> <span class="nf">on_stop</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'/logout'</span><span class="p">)</span>
 
-<h3 id="using-exponentialramptovalueattime-to-remove-the-click">Using exponentialRampToValueAtTime to remove the click</h3>
+    <span class="nd">@task</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+    <span class="k">def</span> <span class="nf">index</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">"/"</span><span class="p">)</span>
 
-<p>Since we are at it, let’s see how it would’ve turned out using <code class="highlighter-rouge">exponentialRampToValueAtTime</code> - which I found to be a bit trickier.</p>
+    <span class="nd">@task</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+    <span class="k">def</span> <span class="nf">cart</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">"/cart"</span><span class="p">)</span>
 
-<p>One gotcha is this part of the Web Audio specification:</p>
+    <span class="nd">@task</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="k">def</span> <span class="nf">account</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">"/account"</span><span class="p">)</span>
 
-<blockquote>
-  <p>(exponentialRampToValueAtTime) Schedules an exponential continuous change in parameter value <strong>from the previous scheduled parameter value</strong> to the given value.</p>
-</blockquote>
+<span class="k">class</span> <span class="nc">WebsiteUser</span><span class="p">(</span><span class="n">HttpLocust</span><span class="p">):</span>
+    <span class="n">task_set</span> <span class="o">=</span> <span class="n">UserBehaviour</span>
+    <span class="n">wait_time</span> <span class="o">=</span> <span class="n">between</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">9</span><span class="p">)</span></code></pre></figure>
 
-<p><em>From the previous scheduled parameter value</em> means that you must first set the audioParam with an automation method before using the ramping function. This usually means using <code class="highlighter-rouge">setValueAtTime()</code> instead of setting the audioParam value directly (in other words, don’t do this: <code class="highlighter-rouge">gainNode.gain.value = someValue</code>).</p>
+<p>Si on applique les mêmes paramètres que lors du dernier test, on obtient ces résultats :</p>
 
-<p>Another gotcha also described in the spec:</p>
+<p><img src="assets/images/locust-3.jpg" /></p>
 
-<blockquote>
-  <p>It is an error if either V0 or V1 is not strictly positive. This also implies <strong>an exponential ramp to 0 is not possible.</strong></p>
-</blockquote>
+<p>On constate que chacun des 100 utilisateurs s’est identifié et a fini par fermer sa session. Le poids qu’on a assigné aux tâches a bien été respectés : la page d’accueil a été visité autour de dix fois plus que celle du paramétrage du compte et deux fois plus que celle du panier d’achat.</p>
 
-<p>So we must choose a tiny value, but not zero. As mentioned earlier, we can’t ramp to zero. Also, this time we will use 30 milliseconds as the time for the ramp to occur (this is the total transition time, not the decay time used in <code class="highlighter-rouge">setTargetAtTime</code>).</p>
+<h2 id="locust-en-mode-distribuée">Locust en mode distribuée</h2>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">oscillator</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">gainNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createGain</span><span class="p">();</span>
+<p>Si nos besoins de simulation sont trop importants pour être faits sur une seule machine, Locust permet d’exécuter les tests de façon distribuée. Il suffit de créer une instance Locust <em>master</em> (avec l’option <code class="highlighter-rouge">-master</code>) à laquelle on ajoutera des noeuds créés avec l’option <code class="highlighter-rouge">slave</code> et <code class="highlighter-rouge">---master-host</code> pour indiquer où se trouve l’instance maître.</p>
 
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">);</span>
-<span class="nx">gainNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">)</span>
+<p>Sur une machine on ferait :</p>
 
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">locust <span class="nt">-f</span> mon_locustfile.py <span class="nt">--master</span></code></pre></figure>
 
-<span class="nx">stopButton</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'click'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+<p>Et on ajouterait des noeuds avec :</p>
 
-    <span class="c1">// Important! Setting a scheduled parameter value</span>
-    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">setValueAtTime</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">value</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span><span class="p">);</span> 
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">locust <span class="nt">-f</span> mon_locustfile.py <span class="nt">--slave</span> <span class="nt">--master-host</span><span class="o">=</span>192.168.0.14</code></pre></figure>
 
-    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">exponentialRampToValueAtTime</span><span class="p">(</span><span class="mf">0.0001</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">+</span> <span class="mf">0.03</span><span class="p">);</span>
-<span class="p">});</span></code></pre></figure>
+<h2 id="autres-outils-de-test-de-charge">Autres outils de test de charge</h2>
 
-<p><button class="button stop-button" id="3-stop-button"></button>
-<button class="button play-button" id="3-play-button"></button>
-<script>
-	var gainNode;
-	var thirdIsPlaying;
-	(function() {
-		document.getElementById('3-play-button').addEventListener('click', function() {
-			if(thirdIsPlaying) return;
-			gainNode = context.createGain();
-			oscillator = context.createOscillator();
-			oscillator.connect(gainNode);
-			gainNode.connect(context.destination);
-			oscillator.start();
-			thirdIsPlaying = true;
-		}, false);
-		document.getElementById('3-stop-button').addEventListener('click', function() {
-			if (!thirdIsPlaying) return;
-			gainNode.gain.setValueAtTime(gainNode.gain.value, context.currentTime);
-			gainNode.gain.exponentialRampToValueAtTime(0.0001, context.currentTime + 0.03);
-			setTimeout(function() {
-				oscillator.stop();
-				thirdIsPlaying = false;
-			}, 30);
-		}, false);		
-	})();
-</script></p>
+<h3 id="jmeter">JMeter</h3>
+<p><a href="https://jmeter.apache.org/">JMeter</a> est basé sur Java et contient une interface graphique pour décrire nos tests, contrairement à Locust où on se sert du code Python. Je ne trouve pas leur UI très ergonomique : les cas d’usage de base sont plutôt difficiles à effectuer et souvent nécessitent des plugins externes pour fonctionner.</p>
 
-<p>Also works, we’ve gotten rid of the click.</p>
-
-<h2 id="more-info">More info</h2>
-
-<ul>
-  <li><a href="http://www.audiocheck.net/soundtests_nonlinear.php">The non-linearities of the human ear</a></li>
-  <li><a href="http://www.w3.org/TR/webaudio/#AudioParam">The AudioParam interface</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/setTargetAtTime">Mozilla’s documentation for setTargetAtTime</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/exponentialRampToValueAtTime">Mozilla’s documentation for exponentialRampToValueAtTime</a></li>
-</ul>
+<h3 id="tsung">Tsung</h3>
+<p><a href="http://tsung.erlang-projects.org/">Tsung</a> est basé sur Erlang et la machine virtuelle BEAM, un très bon choix pour une application basé sur des processus légers concurrents. Par contre, Tsung a besoin d’un fichier xml cauchemardesque pour décrire les tests. De plus, le projet a l’air plutôt dormant depuis un an.</p>
 
 
                 </div>
@@ -502,30 +413,33 @@ into the {body} of the default.hbs template -->
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+            
                 
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/locust">
-                <div class="post-card-image" style="background-image: url(/assets/images/chrono.jpg)"></div>
+            <a class="post-card-image-link" href="/ramp-to-value">
+                <div class="post-card-image" style="background-image: url(/assets/images/mixer.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/locust">
+            <a class="post-card-content-link" href="/ramp-to-value">
                 <header class="post-card-header">
                     
                         
                             
-                               <span class="post-card-tags">Développement</span>
+                               <span class="post-card-tags">Web audio</span>
                             
                         
                             
-                                <span class="post-card-tags">Python</span>
+                                <span class="post-card-tags">Js</span>
                             
                         
                     
 
-                    <h2 class="post-card-title">Mesurer la performance avec Locust</h2>
+                    <h2 class="post-card-title">Web Audio: the ugly click and the human ear</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -549,9 +463,6 @@ into the {body} of the default.hbs template -->
 
             
 
-            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
-            
-
         </div>
     </div>
 </aside>
@@ -567,18 +478,18 @@ into the {body} of the default.hbs template -->
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">Web Audio: the ugly click and the human ear</div>
+    <div class="floating-header-title">Mesurer la performance avec Locust</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Partagez cet article <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Web+Audio%3A+the+ugly+click+and+the+human+ear&amp;url=https://alemangui.github.io/ramp-to-value"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Mesurer+la+performance+avec+Locust&amp;url=https://alemangui.github.io/locust"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://alemangui.github.io/ramp-to-value"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://alemangui.github.io/locust"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 
