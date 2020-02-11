@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://alemangui.github.io/tag/d%C3%A9veloppement/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-02-11T21:42:52+01:00</updated>
+  <updated>2020-02-11T23:02:16+01:00</updated>
   <id>http://alemangui.github.io/tag/d%C3%A9veloppement/feed.xml</id>
 
   
@@ -39,7 +39,7 @@
       <id>http://alemangui.github.io/locust</id>
       <content type="html" xml:base="http://alemangui.github.io/locust">&lt;p&gt;Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.&lt;/p&gt;
 
-&lt;p&gt;Les tests de charge servent à assurer que notre application réponde à nos objectifs liés au nombre d’utilisateurs simultanées et temps de réponse. C’est là que &lt;a href=&quot;https://locust.io/&quot;&gt;Locust&lt;/a&gt; rentre en action : un outil pour simuler des utilisateurs virtuels et enregistrer les temps de réponses pour permettre leur analyse. Par rapport aux alternatives Locust a un grand plus : on écrit nos tests en Python pur et dur.&lt;/p&gt;
+&lt;p&gt;Les tests de charge servent à assurer que notre application réponde à nos objectifs liés au nombre d’utilisateurs simultanées et temps de réponse. C’est là que &lt;a href=&quot;https://locust.io/&quot;&gt;Locust&lt;/a&gt; rentre en action : un outil pour simuler des utilisateurs virtuels et permettre leur analyse. Par rapport aux alternatives Locust a un grand plus : on écrit nos tests en Python pur et dur.&lt;/p&gt;
 
 &lt;h2 id=&quot;préparons-le-terrain&quot;&gt;Préparons le terrain&lt;/h2&gt;
 
@@ -154,7 +154,7 @@
 
 &lt;h3 id=&quot;comportement-des-usagers&quot;&gt;Comportement des usagers&lt;/h3&gt;
 
-&lt;p&gt;Vu le nombre des pages dans notre app, ce serait utile de paramétrer &lt;code class=&quot;highlighter-rouge&quot;&gt;UserBehaviour&lt;/code&gt; pour que les pages ne soient pas toutes visitées pareil. Nous pouvons nous attendre à que la page d’accueil (&lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;) soit souvent visité. D’un autre côté, du fait que les utilisateurs ne paramètrent pas leur compte tous les jours, &lt;code class=&quot;highlighter-rouge&quot;&gt;/account&lt;/code&gt; ne sera pas un passage obligé pour tous. Finalement, le panier d’achat (&lt;code class=&quot;highlighter-rouge&quot;&gt;/cart&lt;/code&gt;) se situe un peu au milieu en terme des visites.&lt;/p&gt;
+&lt;p&gt;Vu le nombre des pages dans notre app, ce serait utile de paramétrer &lt;code class=&quot;highlighter-rouge&quot;&gt;UserBehaviour&lt;/code&gt; pour que les pages ne soient pas toutes visitées pareil. Nous pouvons nous attendre à que la page d’accueil (&lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;) soit souvent visité. D’un autre côté, du fait que les utilisateurs ne paramètrent pas leur compte tous les jours, &lt;code class=&quot;highlighter-rouge&quot;&gt;/account&lt;/code&gt; ne sera pas un passage obligé pour tous. Finalement, le panier d’achat (&lt;code class=&quot;highlighter-rouge&quot;&gt;/cart&lt;/code&gt;) se situe un peu au milieu en terme d’affluence.&lt;/p&gt;
 
 &lt;p&gt;Pour ce faire on s’appuiera sur le décorateur &lt;code class=&quot;highlighter-rouge&quot;&gt;@task&lt;/code&gt;, plus précisément sur son paramètre facultatif entier qui répresente le poids, çad la probabilité qu’un utilisateur choisisse la tâche en question pour son action suivante. Une tâche &lt;code class=&quot;highlighter-rouge&quot;&gt;@task(10)&lt;/code&gt; a dix fois plus de probabilité d’être choisie qu’une tâche &lt;code class=&quot;highlighter-rouge&quot;&gt;@task(1)&lt;/code&gt;. Nous pouvons donc récrire notre &lt;code class=&quot;highlighter-rouge&quot;&gt;locustfile.py&lt;/code&gt; de la façon suivante :&lt;/p&gt;
 
@@ -188,7 +188,7 @@
 
 &lt;p&gt;&lt;img src=&quot;assets/images/locust-3.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;On constate que chacun des 100 utilisateurs s’est identifié et a fini par fermer sa session. Le poids qu’on a assigné aux tâches a bien été respectés : la page d’accueil a été visité autour de dix fois plus que celle du paramétrage du compte et deux fois plus que celle du panier d’achat.&lt;/p&gt;
+&lt;p&gt;On constate que chacun des 100 utilisateurs s’est identifié et a fini par fermer sa session. Le poids qu’on a assigné aux tâches a bien été respecté : la page d’accueil a été visité autour de dix fois plus que celle de paramétrage du compte et deux fois plus que le panier d’achat.&lt;/p&gt;
 
 &lt;h2 id=&quot;locust-en-mode-distribuée&quot;&gt;Locust en mode distribuée&lt;/h2&gt;
 
@@ -202,12 +202,16 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;locust &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; mon_locustfile.py &lt;span class=&quot;nt&quot;&gt;--slave&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--master-host&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;192.168.0.14&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;autres-outils-de-test-de-charge&quot;&gt;Autres outils de test de charge&lt;/h2&gt;
+&lt;h2 id=&quot;en-conclusion&quot;&gt;En conclusion&lt;/h2&gt;
 
-&lt;h3 id=&quot;jmeter&quot;&gt;JMeter&lt;/h3&gt;
+&lt;p&gt;Locust met à disposition des outils simples et puissants pour mesurer le comportement d’un système en fonction de la charge d’utilisateurs simultanés. La courbe d’apprentissage est particulièrement rapide, la documentation est claire et la flexibilité apportée par le choix de Python pour décrire les tests offre des vastes possibilités pour des cas spéciaux. L’interface graphique est plutôt basique, mais les données bruts sont disponibles pour ceux qui ont besoin de les traiter davantage.&lt;/p&gt;
+
+&lt;p&gt;J’ai mis en place Locust pour mon projet actuel et je ne peux que le recommander.&lt;/p&gt;
+
+&lt;h3 id=&quot;comparaison-avec-jmeter&quot;&gt;Comparaison avec JMeter&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://jmeter.apache.org/&quot;&gt;JMeter&lt;/a&gt; est basé sur Java et contient une interface graphique pour décrire nos tests, contrairement à Locust où on se sert du code Python. Je ne trouve pas leur UI très ergonomique : les cas d’usage de base sont plutôt difficiles à effectuer et souvent nécessitent des plugins externes pour fonctionner.&lt;/p&gt;
 
-&lt;h3 id=&quot;tsung&quot;&gt;Tsung&lt;/h3&gt;
+&lt;h3 id=&quot;comparaison-avec-tsung&quot;&gt;Comparaison avec Tsung&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://tsung.erlang-projects.org/&quot;&gt;Tsung&lt;/a&gt; est basé sur Erlang et la machine virtuelle BEAM, un très bon choix pour une application basé sur des processus légers concurrents. Par contre, Tsung a besoin d’un fichier xml cauchemardesque pour décrire les tests. De plus, le projet a l’air plutôt dormant depuis un an.&lt;/p&gt;</content>
 
       
