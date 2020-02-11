@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/tag/d%C3%A9veloppement/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-02-11T21:04:15+01:00</updated>
-  <id>/tag/d%C3%A9veloppement/feed.xml</id>
+  <link href="http://alemangui.github.io/tag/d%C3%A9veloppement/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-02-11T21:42:52+01:00</updated>
+  <id>http://alemangui.github.io/tag/d%C3%A9veloppement/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Mesurer la performance avec Locust</title>
-      <link href="/locust" rel="alternate" type="text/html" title="Mesurer la performance avec Locust" />
+      <link href="http://alemangui.github.io/locust" rel="alternate" type="text/html" title="Mesurer la performance avec Locust" />
       <published>2020-02-11T00:00:00+01:00</published>
       <updated>2020-02-11T00:00:00+01:00</updated>
-      <id>/locust</id>
-      <content type="html" xml:base="/locust">&lt;p&gt;Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.&lt;/p&gt;
+      <id>http://alemangui.github.io/locust</id>
+      <content type="html" xml:base="http://alemangui.github.io/locust">&lt;p&gt;Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.&lt;/p&gt;
 
 &lt;p&gt;Les tests de charge servent à assurer que notre application réponde à nos objectifs liés au nombre d’utilisateurs simultanées et temps de réponse. C’est là que &lt;a href=&quot;https://locust.io/&quot;&gt;Locust&lt;/a&gt; rentre en action : un outil pour simuler des utilisateurs virtuels et enregistrer les temps de réponses pour permettre leur analyse. Par rapport aux alternatives Locust a un grand plus : on écrit nos tests en Python pur et dur.&lt;/p&gt;
 

@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>Développement logiciel, web audio, et al</description>
     <link>
-    </link>
+    http://alemangui.github.io</link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Tue, 11 Feb 2020 00:00:00 +0100</pubDate>
         <link>
-        /locust</link>
-        <guid isPermaLink="true">/locust</guid>
+        http://alemangui.github.io/locust</link>
+        <guid isPermaLink="true">http://alemangui.github.io/locust</guid>
       </item>
       
     
@@ -45,8 +45,8 @@
         
         <pubDate>Sat, 26 Dec 2015 00:00:00 +0100</pubDate>
         <link>
-        /ramp-to-value</link>
-        <guid isPermaLink="true">/ramp-to-value</guid>
+        http://alemangui.github.io/ramp-to-value</link>
+        <guid isPermaLink="true">http://alemangui.github.io/ramp-to-value</guid>
       </item>
       
     
