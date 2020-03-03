@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://alemangui.github.io/tag/technologie/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-02-26T23:50:21+01:00</updated>
+  <updated>2020-03-03T20:15:48+01:00</updated>
   <id>http://alemangui.github.io/tag/technologie/feed.xml</id>
 
   
@@ -45,7 +45,7 @@
 
 &lt;p&gt;Pour les appareils électroniques le bilan est lourd. Les minéraux et métaux qui les composent proviennent d’une exploitation minière souvent pointée du doigt pour leurs pratiques polluantes, conditions déplorables pour les employées et &lt;a href=&quot;http://www.leparisien.fr/economie/cobalt-apple-microsoft-ou-google-accuses-de-profiter-du-travail-des-enfants-17-12-2019-8219259.php&quot;&gt;travail des enfants&lt;/a&gt;. Les composants sont manufacturés aux &lt;a href=&quot;https://www.lifewire.com/where-is-the-iphone-made-1999503&quot;&gt;quatre coins du monde&lt;/a&gt; et doivent être transportés plusieurs fois jusqu’au client final, ajoutant à l’empreinte carbone de l’appareil. Finalement, les déchets électroniques - qui d’ailleurs sont les déchets avec &lt;a href=&quot;http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf&quot;&gt;le plus grand taux de croissance au monde&lt;/a&gt; - sont envoyés dans des pays en voie de développement pour être traités manuellement malgré les éléments toxiques qu’ils contiennent.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/electronic_waste.jpg&quot; style=&quot;max-width: 850px;width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/electronic_waste.jpg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;Image d’Andrew McConnell. Copyright: Panos Pictures&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Plus généralement, les associations de protection du consommateur maintiennent qu’une fois l’appareil vendu, il n’appartient plus au constructeur, mais à l’acheteur. Libre à lui de faire ce qu’il veut avec. Les efforts pour empêcher les utilisateurs d’ouvrir, réparer et remplacer des pièces de leurs propres appareils entrent en conflit avec cette notion d’appartenance et créent un précédent dangereux. Le parallèle avec l’industrie automobile est souvent évoqué : ce serait impensable que Peugeot empêche l’utilisation des pièces détachées, s’oppose aux services offerts par des garagistes indépendants, ou rende impossible la personnalisation des voitures vendues.&lt;/p&gt;
@@ -62,7 +62,7 @@
 
 &lt;p&gt;Ça n’a pas toujours été comme ça. Au début des années 2000, l’iBook (ancêtre du Macbook) avait un clavier détachable à la main qui permettait d’accéder à l’emplacement de la mémoire RAM. Ce composant est important pour la vitesse de l’ordinateur et permet de faire tourner plusieurs applications en même temps. À cette époque, augmenter la mémoire pour donner un coup de neuf à un iBook prenait environ une minute et ne nécessitait pas d’outils particuliers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/ibook.jpg&quot; style=&quot;max-width: 850px;width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/ibook.jpg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;From &lt;a href=&quot;https://www.macrepaircentral.us/ibook-g4-14-inch-early-2004/procedure-nik.html&quot;&gt;Mac Repair Central&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;des-composants-soudés&quot;&gt;Des composants soudés&lt;/h6&gt;
@@ -71,7 +71,7 @@
 
 &lt;p&gt;Aujourd’hui, la totalité des ordinateurs portables d’Apple ont la mémoire RAM, le processeur et le disque dur soudés, rendant ainsi impossible leur mise à jour. La faille d’un composant induit souvent à l’achat d’un nouvel ordinateur, menant d’autres composants en parfait état à la poubelle. iFixit - la plateforme phare en termes de réparation et économie circulaire - leur donne un &lt;a href=&quot;https://www.ifixit.com/Teardown/MacBook+Pro+16-Inch+2019+Teardown/128106#teardownConclusion&quot;&gt;score de 1/10&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/ifixit-macbook.jpg&quot; style=&quot;max-width: 850px;width: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/ifixit-macbook.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;bouton-daccueil&quot;&gt;Bouton d’accueil&lt;/h6&gt;
 
@@ -83,7 +83,7 @@
 
 &lt;p&gt;De nos jours, tous les produits Apple utilisent cette vis non standard. Heureusement, en 2011 iFixit a mis au marché le “&lt;a href=&quot;https://eustore.ifixit.com/en/Parts/iPhone-Parts/iPhone-4S/iPhone-4-4S-Liberation-Kit.html&quot;&gt;iPhone liberation kit&lt;/a&gt;” qui inclut un tournevis &lt;em&gt;pentalobe&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/pentalobe.jpg&quot; style=&quot;max-width: 850px;width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/pentalobe.jpg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)&lt;/small&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;obsolescence-programmée&quot;&gt;Obsolescence programmée&lt;/h3&gt;
@@ -105,7 +105,7 @@
 
 &lt;p&gt;Plusieurs gouvernements ont entamé des investigations à ce sujet. En Italie, 10 millions d’amende en &lt;a href=&quot;https://slice42.com/iphone/2018/10/batterygate-10-millions-damende-pour-apple-en-italie-75502/&quot;&gt;ont été infligés&lt;/a&gt; en 2018 contre Apple. En 2020, année d’écriture de ce post, la firme de la pomme a été condamnée à &lt;a href=&quot;https://www.nouvelobs.com/societe/20200207.OBS24521/iphones-brides-apple-condamne-a-25-millions-d-euros-d-amende.html&quot;&gt;25 millions d’euros d’amende&lt;/a&gt; en France. Cependant, ces montants restent minuscules par rapport au profit qu’Apple a pu en tirer de ces pratiques.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/dgccrf.jpeg&quot; style=&quot;max-width: 850px;width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/dgccrf.jpeg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;En France, la &lt;a href=&quot;https://www.economie.gouv.fr/dgccrf&quot;&gt;DGCCRF&lt;/a&gt; a annoncé l’amende de 25 millions d’euros le 7 février 2020&lt;/small&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;la-prise-casque&quot;&gt;La prise casque&lt;/h6&gt;
@@ -132,7 +132,7 @@
 
 &lt;p&gt;Aux États-Unis, un projet de loi nommé &lt;em&gt;Fair Repair Act&lt;/em&gt; a vu le jour dans l’état de New York en 2015. Il exige aux fabricants de mettre à disposition du public des informations de réparation de leurs appareils ainsi que de vendre des pièces détachées pour faciliter la réparation. Apple n’a pas tardé à engager le cabinet de lobbying Roffe Group pour convaincre les législateurs de faire marche arrière. Ces efforts ont porté ses fruits : le Sénat de New York n’a pas réussi à faire passer le Fair Repair Act. Massachusetts et la Californie ont aussi échoué face au lobbying anti-réparation qui défendait sa position en affirmant que &lt;a href=&quot;https://www.zdnet.fr/actualites/la-raison-stupide-d-apple-pour-essayer-d-empecher-la-reparation-de-son-iphone-39884271.htm&quot;&gt;les consommateurs pourraient se blesser&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/repair-protest.jpeg&quot; style=&quot;max-width: 850px;width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/repair-protest.jpeg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;© Kyle Wiens, iFixit.com&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Au Canada, le parlement d’Ontario a également présenté un projet de loi pro-réparation en février 2019. Celui-ci aurait permis la vente des pièces originales détachées aux consommateurs (par exemple, des écrans iPhone) pour encourager la remise en état des appareils électroniques. Apple, via l’&lt;em&gt;Electronics Product Stewardship Canada&lt;/em&gt; a aussi réussi à &lt;a href=&quot;https://appleinsider.com/articles/19/05/03/apple-tech-companies-successfully-lobby-to-kill-ontario-right-to-repair-bill&quot;&gt;mettre fin à cette initiative&lt;/a&gt;.&lt;/p&gt;
@@ -170,7 +170,7 @@
 
 &lt;p&gt;Les alternatives existent aussi pour ceux qui ont besoin des produits Apple. Des sites comme &lt;a href=&quot;https://www.backmarket.fr/&quot;&gt;BackMarket&lt;/a&gt;, &lt;a href=&quot;https://smaaart.fr/&quot;&gt;Smaart&lt;/a&gt;, &lt;a href=&quot;https://www.rebuy.fr/&quot;&gt;Rebuy&lt;/a&gt; et &lt;a href=&quot;https://www.recommerce.com/fr/&quot;&gt;Recommerce&lt;/a&gt; permettent d’acheter des iPhones, iPads et Macs reconditionnés tout en garantissant leur qualité.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/reconditionne.jpg&quot; style=&quot;max-width: 850px; width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/reconditionne.jpg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;Reconditionnement des iPhones. Photo de Charly Triballeau-AFP&lt;/small&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;réparation-de-lexistant&quot;&gt;Réparation de l’existant&lt;/h6&gt;
@@ -181,7 +181,7 @@
 
 &lt;p&gt;L’association HOP (Halte à l’obsolescence programmée) mène plusieurs actions en faveur des consommateurs et contre des pratiques anti-réparation. En 2017 ils ont &lt;a href=&quot;https://www.halteobsolescence.org/hop-porte-plainte-contre-apple-obsolescence-programmee/&quot;&gt;porté plainte contre Apple&lt;/a&gt; suite aux révélations des techniques visant à ralentir les iPhones. L’association a plaidé pour la réversibilité des mises à jour ainsi que l’amovibilité des batteries lors d’une audition par le Sénat en 2017. Pour faire un don &lt;a href=&quot;https://www.halteobsolescence.org/faire-un-don/&quot;&gt;c’est par ici&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/hop.jpg&quot; style=&quot;max-height: 350px; width: auto;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/hop.jpg&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;&lt;a href=&quot;https://www.halteobsolescence.org/&quot;&gt;HOP - Halte à l’obsolescence programmée&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;quitter-apple&quot;&gt;Quitter Apple&lt;/h6&gt;
