@@ -11,7 +11,7 @@
 
 
 
-    <title>Web Audio: the ugly click and the human ear</title>
+    <title>Tests automatiques avec autoplay</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -40,27 +40,27 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Développement logiciel, web audio, et al" />
     <link rel="shortcut icon" href="http://alemangui.github.io/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="http://alemangui.github.io/ramp-to-value" />
+    <link rel="canonical" href="http://alemangui.github.io/tests-automatiques-avec-autoplay" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Alejandro MG" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Web Audio: the ugly click and the human ear" />
+    <meta property="og:title" content="Tests automatiques avec autoplay" />
     <meta property="og:description" content="Développement logiciel, web audio, et al" />
-    <meta property="og:url" content="http://alemangui.github.io/ramp-to-value" />
-    <meta property="og:image" content="http://alemangui.github.io/assets/images/mixer.jpg" />
+    <meta property="og:url" content="http://alemangui.github.io/tests-automatiques-avec-autoplay" />
+    <meta property="og:image" content="http://alemangui.github.io/assets/images/devs-back.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
-    <meta property="article:tag" content="Web Audio" />
+    <meta property="article:tag" content="Développement" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Web Audio: the ugly click and the human ear" />
+    <meta name="twitter:title" content="Tests automatiques avec autoplay" />
     <meta name="twitter:description" content="Développement logiciel, web audio, et al" />
     <meta name="twitter:url" content="http://alemangui.github.io/" />
-    <meta name="twitter:image" content="http://alemangui.github.io/assets/images/mixer.jpg" />
+    <meta name="twitter:image" content="http://alemangui.github.io/assets/images/devs-back.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Alejandro MG" />
     <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Web Audio" />
+    <meta name="twitter:data2" content="Développement" />
     <meta name="twitter:site" content="@alemangui" />
     <meta name="twitter:creator" content="@alemangui" />
     <meta property="og:image:width" content="2000" />
@@ -75,23 +75,23 @@
         "name": "Alejandro MG",
         "logo": "http://alemangui.github.io/assets/images/blog-icon.png"
     },
-    "url": "http://alemangui.github.io/ramp-to-value",
+    "url": "http://alemangui.github.io/tests-automatiques-avec-autoplay",
     "image": {
         "@type": "ImageObject",
-        "url": "http://alemangui.github.io/assets/images/mixer.jpg",
+        "url": "http://alemangui.github.io/assets/images/devs-back.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://alemangui.github.io/ramp-to-value"
+        "@id": "http://alemangui.github.io/tests-automatiques-avec-autoplay"
     },
     "description": "Développement logiciel, web audio, et al"
 }
     </script>
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Web Audio: the ugly click and the human ear" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Tests automatiques avec autoplay" href="/feed.xml" />
 
 
 </head>
@@ -163,12 +163,12 @@ into the {body} of the default.hbs template -->
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="26 December 2015">26 December 2015</time>
+                    <time class="post-full-meta-date" datetime="25 March 2020">25 March 2020</time>
                     
                         <span class="date-divider">/</span>
                         
                             
-                               <a href='/tag/web-audio/'>WEB AUDIO</a>,
+                               <a href='/tag/développement/'>DÉVELOPPEMENT</a>,
                             
                         
                             
@@ -177,281 +177,106 @@ into the {body} of the default.hbs template -->
                         
                     
                 </section>
-                <h1 class="post-full-title">Web Audio: the ugly click and the human ear</h1>
+                <h1 class="post-full-title">Tests automatiques avec autoplay</h1>
             </header>
 
             
-            <figure class="post-full-image" style="background-image: url(/assets/images/mixer.jpg)">
+            <figure class="post-full-image" style="background-image: url(/assets/images/devs-back.jpg)">
             </figure>
             
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <style>
-.button {
-    border: none;
-    color: white;
-    font-weight: bold;
-    padding: 10px;
-    min-width: 50px;
-    min-height: 50px;
-    border-radius: 5px;
-    position: relative;
-    -webkit-appearance: button;
-    cursor: pointer;
-    text-transform: none;
-}
+                    <p>Depuis 2017, les différents navigateurs implémentent des fonctionnalités permettant de bloquer le son qui démarre automatiquement. Ceci n’a rien d’étonnant : on a tous vécu la nuisance des vidéos en autoplay qui se cachent parmi les nombreux onglets du navigateur. Néanmoins, pour les développeurs qui se basent de façon légitime sur l’autoplay (notamment pour des jeux vidéos ou applications multimédia), ces restrictions peuvent causer des difficultés.</p>
 
-.stop-button {
-    background-color: rgb(178, 78, 78);
-    border-radius: 5px 0px 0px 5px;
-}
+<h2 id="les-tests-chez-pizzicato-js">Les tests chez Pizzicato JS</h2>
 
-.stop-button:hover {
-    background-color: rgb(200, 106, 106);
-}
+<p>J’ai rencontré un de ces problèmes dans le cadre du développement de <a href="https://alemangui.github.io/pizzicato/">Pizzicato JS</a>, une librairie visant à simplifier la création et manipulation du son dans le navigateur (<a href="github.com/alemangui/pizzicato/">code source ouvert</a>). Pizzicato compte une batterie de tests automatiques interagissant avec l’API WebAudio. Ces tests sont exécutés en Chrome depuis Travis CI à chaque nouveau commit.</p>
 
-.stop-button:before {
-    content: "";
-    position: absolute;
-    left: 15px;
-    width: 21px;
-    height: 21px;
-    margin-top: -10px;
-    background: white;
-}
+<p>Avec les versions récentes de Chrome, les tests qui dépendent du son échouent systématiquement :</p>
 
-.play-button {
-    background-color: rgb(103, 178, 78);
-    min-width: 100px;
-    border-radius: 0px 5px 5px 0px;
-}
+<p><img src="assets/images/failed-build.jpg" /></p>
 
-.play-button:hover {
-    background-color: rgb(126, 200, 101);
-}
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">Chrome 80.0.3987 <span class="o">(</span>Linux 0.0.0<span class="o">)</span> Sound actions should trigger <span class="s1">'end'</span> when buffer ended FAILED
+	Expected spy endCallback to have been called.
+	    at tests/Sound.test.js:270:26
 
-.play-button:before {
-    content: "";
-    position: absolute;
-    left: 38px;
-    border: 8px solid transparent;
-    border-width: 12px 30px;
-    border-left-color: #FFFFFF;
-    margin-top: -12px;
-    background: transparent;
-}
-</style>
+Chrome 80.0.3987 <span class="o">(</span>Linux 0.0.0<span class="o">)</span>: Executed 118 of 144 <span class="o">(</span>1 FAILED<span class="o">)</span> <span class="o">(</span>0 secs / 2.516 secs<span class="o">)</span>
 
-<p>While playing around with a Web Audio demo, I noticed a clicking sound every time a I stopped an oscillator.</p>
+Chrome 80.0.3987 <span class="o">(</span>Linux 0.0.0<span class="o">)</span> Sound actions should offset upon playing when specified FAILED
+	Expected spy endCallback to have been called.
+	    at tests/Sound.test.js:287:26
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">oscillatorNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
+Chrome 80.0.3987 <span class="o">(</span>Linux 0.0.0<span class="o">)</span>: Executed 119 of 144 <span class="o">(</span>2 FAILED<span class="o">)</span> <span class="o">(</span>0 secs / 4.527 secs<span class="o">)</span></code></pre></figure>
 
-<span class="nx">oscillatorNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">);</span>
+<h2 id="la-politique-autoplay-de-chrome">La politique Autoplay de Chrome</h2>
 
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">stop</span><span class="p">();</span> <span class="c1">// click!</span></code></pre></figure>
+<p>Cet échec n’est pas un mystère : les tests vont à l’encontre de la politique autoplay de Chrome : pas d’audio sans interaction utilisateur. Or, dans un contexte ou les tests automatiques se déroulent dans un processus virtuel au sein de Travis CI, l’interaction utilisateur est impossible.</p>
 
-<p><button class="button stop-button" id="1-stop-button"></button>
-<button class="button play-button" id="1-play-button"></button>
-<script>
-	var context = new AudioContext();
-	var oscillator;
-	var firstIsPlaying;
-	(function() {
-		document.getElementById('1-play-button').addEventListener('click', function() {
-			if(firstIsPlaying) return;
-			oscillator = context.createOscillator();
-			oscillator.connect(context.destination);
-			oscillator.start();
-			firstIsPlaying = true;
-		}, false);
-		document.getElementById('1-stop-button').addEventListener('click', function() {
-			if (!firstIsPlaying) return;
-			oscillator.stop();
-			firstIsPlaying = false;
-		}, false);		
-	})();
-</script></p>
+<p>Heureusement, on peut lancer Chrome avec une option spéciale pour lui demander de désactiver cette politique :</p>
 
-<p>Could it be an implementation problem on the browser? Not likely, since this happened in all browsers I tested.</p>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">Chrome <span class="nt">--autoplay-policy</span><span class="o">=</span>no-user-gesture-required<span class="s1">'</span></code></pre></figure>
 
-<p>Turns out the click sound happens because I’m abruptingly cutting the sound wave at a point other than the natural zero crossing:</p>
+<p>Pour intégrer ceci dans Pizzicato, il suffit de modifier le <a href="https://github.com/alemangui/pizzicato/blob/master/karma.conf.js">fichier de configuration de Karma</a>. Au moment de définir les <code class="highlighter-rouge">customLaunchers</code> nous pouvons aussi profiter pour passer des arguments additionnels.</p>
 
-<p><img src="assets/images/zero-crossing-point.svg" /></p>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">customLaunchers</span><span class="p">:</span> <span class="p">{</span>
+    <span class="nl">Chrome_travis_ci</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nl">base</span><span class="p">:</span> <span class="s1">'Chrome'</span><span class="p">,</span>
+        <span class="nx">flags</span><span class="p">:</span> <span class="p">[</span>
+            <span class="s1">'--no-sandbox'</span><span class="p">,</span>
+            <span class="s1">'--autoplay-policy=no-user-gesture-required'</span>
+        <span class="p">]</span>
+    <span class="p">}</span>
+<span class="p">},</span></code></pre></figure>
 
-<p>Is there a way to avoid this clicking sound then?</p>
+<p>TravisCI est vert à nouveau.</p>
 
-<p>We have two options:</p>
+<p><img src="assets/images/successful-build.jpg" /></p>
 
+<h2 id="et-dans-la-vraie-vie-">Et dans la vraie vie ?</h2>
+
+<p>Comprendre les conditions qui mènent les navigateurs à bloquer le contenu audio est utile pour que nos utilisateurs puissent profiter du web sans devoir bidouiller des options obscures dans la ligne de commande.</p>
+
+<h3 id="chrome">Chrome</h3>
+
+<p>Dans Chrome, l’autoplay en muet (volume 0) est permis - d’où les boutons “Tap to unmute” qui apparaissent un peu partout. Sinon, il faut impérativement un de ces scénarios :</p>
 <ul>
-  <li>Stopping the sound only at zero-point crossings, or</li>
-  <li>Creating a node gain to gradually decrease the gain to zero before stopping</li>
+  <li>l’utilisateur a interagit avec la page (par ex. en clickant quelque part),</li>
+  <li>l’utilisateur a ajouté le site dans son écran d’accueil ou l’a installé en tant que Progressive Web App, ou</li>
+  <li>le site a un <em>Media Engagement Index</em> (MEI) suffisant.</li>
 </ul>
 
-<p>I will focus on the second option since - luckily - Web Audio API has us covered.</p>
+<p>Ce dernier point peut paraître un peu obscur. Le MEI tente de mesurer à quel point l’usager est habitué à consommer de l’audio/vidéo sur un site particulier. Pour ce faire, Chrome fait le calcul du ratio des visites totales contre les visites incluant une consommation média considéré comme suffisante (çad plus de sept secondes, audio non-muet, onglet actif et taille d’écran supérieure à 200x140).</p>
 
-<h2 id="gradual-changes-to-an-audioparam-value">Gradual changes to an audioParam value</h2>
+<p>Pour les utilisateurs de Chrome, ces stats sont visibles sur <a href="chrome://media-engagement">chrome://media-engagement</a>.</p>
 
-<h3 id="exponential-vs-linear">Exponential vs linear</h3>
+<p><img src="assets/images/mei.jpg" /></p>
 
-<p>There are several Web Audio functions that can gradually change an audioParam:</p>
+<h3 id="firefox">Firefox</h3>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">linearRampToValueAtTime</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">endTime</span><span class="p">);</span> <span class="c1">// linear</span>
-<span class="nx">exponentialRampToValueAtTime</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">endTime</span><span class="p">);</span> <span class="c1">// exponential</span>
-<span class="nx">setTargetAtTime</span><span class="p">(</span><span class="nx">target</span><span class="p">,</span> <span class="nx">startTime</span><span class="p">,</span> <span class="nx">timeConstant</span><span class="p">);</span> <span class="c1">// exponential</span></code></pre></figure>
+<p>Les règles de Firefox sont similaires à celles de Chrome : l’audio en muet est permis et l’interaction utilisateur est requise pour tout ce qui est audible.</p>
 
-<p>One difference between them is the easing function that is used to change the audio param value; either linear (left) or exponential (right).</p>
+<p>De plus, Firefox permet l’autoplay si l’utilisateur a déjà donné la permission au site d’accéder à la camera ou le micro. Ceci s’avère utile pour les sites de vidéo-conférence.</p>
 
-<p><img src="assets/images/exponential-linear-curves.svg" /></p>
+<p>En ce qui concerne les sites “de confiance” Firefox opte pour une approche plus direct. Lorsqu’un site avec autoplay est bloqué, une icône apparaît dans la barre URL. L’usager peut clicker dessus et manuellement indiquer que le site peut faire de l’autoplay sans que le navigateur s’en mêle.</p>
 
-<p>Mozilla has a piece of advise to those unsure of which one to use:</p>
+<p><img src="assets/images/autoplay-ff.jpg" />
+<small class="caption">Image de <a href="https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/">Mozilla</a></small></p>
 
-<blockquote>
-  <p>Exponential ramps are considered more useful when changing frequencies or playback rates than linear ramps because of the way the human ear works.</p>
-</blockquote>
+<h2 id="ce-nest-pas-fini">Ce n’est pas fini</h2>
 
-<p>And they are right: the human ear perceives sound on a logarithmic principle. An A3 note is a frequency of 220Hz, whereas A4 is 440Hz and A5 is 880Hz. Loudness also works this way: a tenfold increase in sound power could be described as being twice as loud. Hence, using an exponential gain decrease will be perceived as linear by the human ear.</p>
+<p>Les règles autour de l’audio et vidéo sur les navigateurs vont encore évoluer de façon importante dans les années qui viennent. Des discussions autour de l’étendue des restrictions autoplay <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1420389">se déroulent encore</a>. D’un côté, démarrer des vidéos automatiquement, même sans audio, consomme des données des forfaits potentiellement limités. D’un autre, <a href="https://www.bleepingcomputer.com/news/google/google-fixes-issue-that-broke-millions-of-web-based-games-in-chrome/">plein des applications multimédia</a> dépendent de cette fonctionnalité. En tant que développeurs, il faudra suivre de près cette évolution.</p>
 
-<h3 id="exponentialramptovalueattime-vs-settargetattime">exponentialRampToValueAtTime vs setTargetAtTime</h3>
+<h2 id="en-savoir-plus">En savoir plus</h2>
 
-<p>We will choose and exponential way of gradually decreasing the gain. This leaves us with <code class="highlighter-rouge">exponentialRampToValueAtTime</code> vs <code class="highlighter-rouge">setTargetAtTime</code>. Some difference between them are:</p>
+<p>Malheureusement, la plupart de la documentation autour des politiques autoplay des navigateurs est exclusivement en anglais. Voici quelques exemples :</p>
 
 <ul>
-  <li>
-    <p><code class="highlighter-rouge">exponentialRampToValueAtTime</code> will get to the value precisely at the time specified. However, using this function, an exponential ramp to zero <a href="https://webaudio.github.io/web-audio-api/#widl-AudioParam-exponentialRampToValueAtTime-AudioParam-float-value-double-endTime">is not possible</a> because of the math used to calculate the values over time.</p>
-  </li>
-  <li>
-    <p><code class="highlighter-rouge">setTargetAtTime</code> exponentially moves towards the value given by the target parameter, but instead of specifying an end time, we give the function an exponential decay rate after which the value will decrease about 2/3rds. This means we can ask the function to go all the way down to zero. Theoretically it will never really reach zero since it will be exponentially decaying, but in real life it <em>will</em> as soon as the value is too small to be represented with a float.</p>
-  </li>
+  <li>Détails sur la <a href="https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#mei">politique autoplay Chrome</a></li>
+  <li>Article de Chris Pearce concernant <a href="https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/">l’autoplay sur Firefox</a></li>
+  <li>Article de Kevin Decker sur <a href="https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/">l’autoplay sur Safari</a></li>
+  <li>Documentation de la politique <a href="https://docs.microsoft.com/fr-fr/microsoft-edge/dev-guide/browser-features/autoplay-policies">autoplay sur Edge</a></li>
 </ul>
-
-<p>Let’s choose <code class="highlighter-rouge">setTargetAtTime</code> because we want to go all the way down to zero and because we are not too worried about getting there at a super precise time. As long as the fade-out time is fast enough to be imperceptible but slow enough to remove the click, we will be happy.</p>
-
-<h3 id="using-settargetattime-to-remove-the-click">Using setTargetAtTime to remove the click</h3>
-
-<p>Before trying out <code class="highlighter-rouge">setTargetAtTime</code> to get rid of the ugly click, we must be of a couple gotchas:</p>
-
-<ul>
-  <li>We must choose a decay time after which the gain value will decrease about 2/3rds. After a bit of experimenting, I found out that a decay time of 15 milliseconds gives the impression of being immediate but at the same time removes the click. Remember: Web Audio uses seconds instead of milliseconds!</li>
-</ul>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">oscillator</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">gainNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createGain</span><span class="p">();</span>
-
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">);</span>
-<span class="nx">gainNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">)</span>
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
-
-<span class="nx">stopButton</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'click'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">setTargetAtTime</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span><span class="p">,</span> <span class="mf">0.015</span><span class="p">);</span>
-<span class="p">});</span></code></pre></figure>
-
-<p><button class="button stop-button" id="2-stop-button"></button>
-<button class="button play-button" id="2-play-button"></button>
-<script>
-	var gainNode;
-	var secondIsPlaying;
-	(function() {
-		document.getElementById('2-play-button').addEventListener('click', function() {
-			if(secondIsPlaying) return;
-			gainNode = context.createGain();
-			oscillator = context.createOscillator();
-			oscillator.connect(gainNode);
-			gainNode.connect(context.destination);
-			oscillator.start();
-			secondIsPlaying = true;
-		}, false);
-		document.getElementById('2-stop-button').addEventListener('click', function() {
-			if (!secondIsPlaying) return;
-			gainNode.gain.setTargetAtTime(0, context.currentTime, 0.015);
-			setTimeout(function() {
-				oscillator.stop();
-				secondIsPlaying = false;
-			}, 40);
-		}, false);		
-	})();
-</script></p>
-
-<p>There’s no more click. We are all happy.</p>
-
-<h3 id="using-exponentialramptovalueattime-to-remove-the-click">Using exponentialRampToValueAtTime to remove the click</h3>
-
-<p>Since we are at it, let’s see how it would’ve turned out using <code class="highlighter-rouge">exponentialRampToValueAtTime</code> - which I found to be a bit trickier.</p>
-
-<p>One gotcha is this part of the Web Audio specification:</p>
-
-<blockquote>
-  <p>(exponentialRampToValueAtTime) Schedules an exponential continuous change in parameter value <strong>from the previous scheduled parameter value</strong> to the given value.</p>
-</blockquote>
-
-<p><em>From the previous scheduled parameter value</em> means that you must first set the audioParam with an automation method before using the ramping function. This usually means using <code class="highlighter-rouge">setValueAtTime()</code> instead of setting the audioParam value directly (in other words, don’t do this: <code class="highlighter-rouge">gainNode.gain.value = someValue</code>).</p>
-
-<p>Another gotcha also described in the spec:</p>
-
-<blockquote>
-  <p>It is an error if either V0 or V1 is not strictly positive. This also implies <strong>an exponential ramp to 0 is not possible.</strong></p>
-</blockquote>
-
-<p>So we must choose a tiny value, but not zero. As mentioned earlier, we can’t ramp to zero. Also, this time we will use 30 milliseconds as the time for the ramp to occur (this is the total transition time, not the decay time used in <code class="highlighter-rouge">setTargetAtTime</code>).</p>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AudioContext</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">oscillator</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createOscillator</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">gainNode</span> <span class="o">=</span> <span class="nx">context</span><span class="p">.</span><span class="nx">createGain</span><span class="p">();</span>
-
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">);</span>
-<span class="nx">gainNode</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">context</span><span class="p">.</span><span class="nx">destination</span><span class="p">)</span>
-
-<span class="nx">oscillator</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
-
-<span class="nx">stopButton</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'click'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-
-    <span class="c1">// Important! Setting a scheduled parameter value</span>
-    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">setValueAtTime</span><span class="p">(</span><span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">value</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span><span class="p">);</span> 
-
-    <span class="nx">gainNode</span><span class="p">.</span><span class="nx">gain</span><span class="p">.</span><span class="nx">exponentialRampToValueAtTime</span><span class="p">(</span><span class="mf">0.0001</span><span class="p">,</span> <span class="nx">context</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">+</span> <span class="mf">0.03</span><span class="p">);</span>
-<span class="p">});</span></code></pre></figure>
-
-<p><button class="button stop-button" id="3-stop-button"></button>
-<button class="button play-button" id="3-play-button"></button>
-<script>
-	var gainNode;
-	var thirdIsPlaying;
-	(function() {
-		document.getElementById('3-play-button').addEventListener('click', function() {
-			if(thirdIsPlaying) return;
-			gainNode = context.createGain();
-			oscillator = context.createOscillator();
-			oscillator.connect(gainNode);
-			gainNode.connect(context.destination);
-			oscillator.start();
-			thirdIsPlaying = true;
-		}, false);
-		document.getElementById('3-stop-button').addEventListener('click', function() {
-			if (!thirdIsPlaying) return;
-			gainNode.gain.setValueAtTime(gainNode.gain.value, context.currentTime);
-			gainNode.gain.exponentialRampToValueAtTime(0.0001, context.currentTime + 0.03);
-			setTimeout(function() {
-				oscillator.stop();
-				thirdIsPlaying = false;
-			}, 30);
-		}, false);		
-	})();
-</script></p>
-
-<p>Also works, we’ve gotten rid of the click.</p>
-
-<h2 id="more-info">More info</h2>
-
-<ul>
-  <li><a href="http://www.audiocheck.net/soundtests_nonlinear.php">The non-linearities of the human ear</a></li>
-  <li><a href="http://www.w3.org/TR/webaudio/#AudioParam">The AudioParam interface</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/setTargetAtTime">Mozilla’s documentation for setTargetAtTime</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioParam/exponentialRampToValueAtTime">Mozilla’s documentation for exponentialRampToValueAtTime</a></li>
-</ul>
-
 
                 </div>
             </section>
@@ -476,8 +301,8 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'http://alemangui.github.io/ramp-to-value';
-                            this.page.identifier = '/ramp-to-value';
+                            this.page.url = 'http://alemangui.github.io/tests-automatiques-avec-autoplay';
+                            this.page.identifier = '/tests-automatiques-avec-autoplay';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
@@ -503,34 +328,82 @@ into the {body} of the default.hbs template -->
                 
                 
                 
+                    <article class="read-next-card"
+                        
+                            style="background-image: url(/assets/images/dark-sand.jpg)"
+                        
+                    >
+                        <header class="read-next-card-header">
+                            <small class="read-next-card-header-sitetitle">&mdash; Alejandro MG &mdash;</small>
+                            
+                                <h3 class="read-next-card-header-title"><a href="/tag/développement/">Développement</a></h3>
+                            
+                        </header>
+                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+</div>
+                        <div class="read-next-card-content">
+                            <ul>
+                                
+                                
+                                  
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/locust">Mesurer la performance avec Locust</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                            </ul>
+                        </div>
+                        <footer class="read-next-card-footer">
+                            <a href="/tag/développement/">
+                                
+                                    See all 1 posts  →
+                                
+                            </a>
+                        </footer>
+                    </article>
+                
             
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
             
                 
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/locust">
-                <div class="post-card-image" style="background-image: url(/assets/images/chrono.jpg)"></div>
+            <a class="post-card-image-link" href="/apple-et-le-droit-a-la-reparation">
+                <div class="post-card-image" style="background-image: url(/assets/images/repair.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/locust">
+            <a class="post-card-content-link" href="/apple-et-le-droit-a-la-reparation">
                 <header class="post-card-header">
                     
                         
                             
-                               <span class="post-card-tags">Développement</span>
+                               <span class="post-card-tags">Société</span>
                             
                         
                             
-                                <span class="post-card-tags">Python</span>
+                                <span class="post-card-tags">Environnement</span>
                             
                         
                     
 
-                    <h2 class="post-card-title">Mesurer la performance avec Locust</h2>
+                    <h2 class="post-card-title">Apple et le droit à la réparation</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -554,9 +427,6 @@ into the {body} of the default.hbs template -->
 
             
 
-            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
-            
-
         </div>
     </div>
 </aside>
@@ -572,18 +442,18 @@ into the {body} of the default.hbs template -->
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">Web Audio: the ugly click and the human ear</div>
+    <div class="floating-header-title">Tests automatiques avec autoplay</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Partagez cet article <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Web+Audio%3A+the+ugly+click+and+the+human+ear&amp;url=https://alemangui.github.io/ramp-to-value"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Tests+automatiques+avec+autoplay&amp;url=https://alemangui.github.io/tests-automatiques-avec-autoplay"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://alemangui.github.io/ramp-to-value"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://alemangui.github.io/tests-automatiques-avec-autoplay"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 

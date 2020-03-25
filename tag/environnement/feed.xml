@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://alemangui.github.io/tag/technologie/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://alemangui.github.io/tag/environnement/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-03-24T14:31:27+01:00</updated>
-  <id>http://alemangui.github.io/tag/technologie/feed.xml</id>
+  <updated>2020-03-25T10:45:00+01:00</updated>
+  <id>http://alemangui.github.io/tag/environnement/feed.xml</id>
 
   
   
@@ -46,7 +46,7 @@
 &lt;p&gt;Pour les appareils électroniques le bilan est lourd. Les minéraux et métaux qui les composent proviennent d’une exploitation minière souvent pointée du doigt pour leurs pratiques polluantes, conditions déplorables pour les employées et &lt;a href=&quot;http://www.leparisien.fr/economie/cobalt-apple-microsoft-ou-google-accuses-de-profiter-du-travail-des-enfants-17-12-2019-8219259.php&quot;&gt;travail des enfants&lt;/a&gt;. Les composants sont manufacturés aux &lt;a href=&quot;https://www.lifewire.com/where-is-the-iphone-made-1999503&quot;&gt;quatre coins du monde&lt;/a&gt; et doivent être transportés plusieurs fois jusqu’au client final, ajoutant à l’empreinte carbone de l’appareil. Finalement, les déchets électroniques - qui d’ailleurs sont les déchets avec &lt;a href=&quot;http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf&quot;&gt;le plus grand taux de croissance au monde&lt;/a&gt; - sont envoyés dans des pays en voie de développement pour être traités manuellement malgré les éléments toxiques qu’ils contiennent.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/electronic_waste.jpg&quot; /&gt;
-&lt;small class=&quot;caption&quot;&gt;Image d’Andrew McConnell. Copyright: Panos Pictures&lt;/small&gt;&lt;/p&gt;
+&lt;small class=&quot;caption&quot;&gt;Image d’Andrew McConnell. Copyright : Panos Pictures&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Plus généralement, les associations de protection du consommateur maintiennent qu’une fois l’appareil vendu, il n’appartient plus au constructeur, mais à l’acheteur. Libre à lui de faire ce qu’il veut avec. Les efforts pour empêcher les utilisateurs d’ouvrir, réparer et remplacer des pièces de leurs propres appareils entrent en conflit avec cette notion d’appartenance et créent un précédent dangereux. Le parallèle avec l’industrie automobile est souvent évoqué : ce serait impensable que Peugeot empêche l’utilisation des pièces détachées, s’oppose aux services offerts par des garagistes indépendants, ou rende impossible la personnalisation des voitures vendues.&lt;/p&gt;
 
@@ -216,13 +216,13 @@
       
 
       
-        <category term="Technologie" />
+        <category term="Société" />
       
-        <category term="Apple" />
+        <category term="Environnement" />
       
 
       
-        <summary type="html">De nos jours, la sensibilité des consommateurs à l’égard des questions écologiques et sociales pèse lourd dans la balance en faveur de la réparation et contre l’achat du nouveau. Néanmoins, Apple - une marque souvent perçue comme étant en phase avec son temps - continue de ferrailler contre les initiatives de remise en état de leurs produits.</summary>
+        <summary type="html">La réparation - perçue comme un obstacle au profit par Apple - présente des nombreuses avantages au niveau individuel, sociétal et écologique. Le changement est possible, mais comment ?</summary>
       
 
       

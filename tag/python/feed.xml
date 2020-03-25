@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://alemangui.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-03-24T14:31:27+01:00</updated>
+  <updated>2020-03-25T10:45:00+01:00</updated>
   <id>http://alemangui.github.io/tag/python/feed.xml</id>
 
   
@@ -235,7 +235,7 @@
       
 
       
-        <summary type="html">Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.</summary>
+        <summary type="html">Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum acceptable. Locust nous aide à faire les tests de charge nécessaires pour en être sûrs.</summary>
       
 
       

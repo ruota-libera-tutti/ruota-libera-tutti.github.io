@@ -8,11 +8,22 @@
     
       
       <item>
+        <title>Tests automatiques avec autoplay</title>
+        
+          <description>Les navigateurs implémentent des fonctionnalités permettant de bloquer le contenu audio qui démarre automatiquement. Comment s'en sortir en tant que développeur ?</description>
+        
+        <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
+        <link>
+        http://alemangui.github.io/tests-automatiques-avec-autoplay</link>
+        <guid isPermaLink="true">http://alemangui.github.io/tests-automatiques-avec-autoplay</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Apple et le droit à la réparation</title>
         
-          <description>&lt;p&gt;De nos jours, la sensibilité des consommateurs à l’égard des questions écologiques et sociales pèse lourd dans la balance en faveur de la réparation et contre l’achat du nouveau. Néanmoins, Apple - une marque souvent perçue comme étant en phase avec son temps - continue de ferrailler contre les initiatives de remise en état de leurs produits.&lt;/p&gt;
-
-</description>
+          <description>La réparation - perçue comme un obstacle au profit par Apple - présente des nombreuses avantages au niveau individuel, sociétal et écologique. Le changement est possible, mais comment ?</description>
         
         <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
         <link>
@@ -25,9 +36,7 @@
       <item>
         <title>Mesurer la performance avec Locust</title>
         
-          <description>&lt;p&gt;Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum jugé comme acceptable. Ceci peut varier énormément. Google fait face à des millions d’utilisateurs et se fixe des objectifs de performance très ambitieux. D’un autre côté, un système de gestion d’inventaires d’une petite épicerie difficilement aura plus d’une poignée d’utilisateurs et n’aura pas les mêmes contraintes de temps de réponse.&lt;/p&gt;
-
-</description>
+          <description>Toute application doit pouvoir répondre à un certain nombre de requêtes sous un temps minimum acceptable. Locust nous aide à faire les tests de charge nécessaires pour en être sûrs.</description>
         
         <pubDate>Tue, 11 Feb 2020 00:00:00 +0100</pubDate>
         <link>
@@ -40,23 +49,7 @@
       <item>
         <title>Web Audio: the ugly click and the human ear</title>
         
-          <description>&lt;style&gt;
-.button {
-    border: none;
-    color: white;
-    font-weight: bold;
-    padding: 10px;
-    min-width: 50px;
-    min-height: 50px;
-    border-radius: 5px;
-    position: relative;
-    -webkit-appearance: button;
-    cursor: pointer;
-    text-transform: none;
-}
-
-&lt;/style&gt;
-</description>
+          <description>While playing around with a Web Audio demo, I noticed a clicking sound every time a I stopped an oscillator. Is there a way to avoid it?</description>
         
         <pubDate>Sat, 26 Dec 2015 00:00:00 +0100</pubDate>
         <link>
