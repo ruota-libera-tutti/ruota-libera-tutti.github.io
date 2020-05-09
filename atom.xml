@@ -8,6 +8,19 @@
     
       
       <item>
+        <title>Les biais de l'intelligence artificielle</title>
+        
+          <description>Cette nouvelle technologie devenue omniprésente renforce nos préjugés. Comment ne pas pérenniser nos déviations de jugement ?</description>
+        
+        <pubDate>Sat, 09 May 2020 00:00:00 +0200</pubDate>
+        <link>
+        http://alemangui.github.io/biais-intelligence-artificielle</link>
+        <guid isPermaLink="true">http://alemangui.github.io/biais-intelligence-artificielle</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Tests automatiques avec autoplay</title>
         
           <description>Les navigateurs implémentent des fonctionnalités permettant de bloquer le contenu audio qui démarre automatiquement. Comment s'en sortir en tant que développeur ?</description>
