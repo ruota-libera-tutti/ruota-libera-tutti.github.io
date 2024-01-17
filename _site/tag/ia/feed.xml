@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://alemangui.github.io/tag/ia/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-08-21T10:11:07+02:00</updated>
+  <id>http://alemangui.github.io/tag/ia/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Alejandro Mantecón Guillén | </title>
+  
+
+  
+    <subtitle>Le blog d'Alejandro Mantecón Guillén</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Les biais de l’intelligence artificielle</title>
+      <link href="http://alemangui.github.io/biais-intelligence-artificielle" rel="alternate" type="text/html" title="Les biais de l'intelligence artificielle" />
+      <published>2020-05-09T00:00:00+02:00</published>
+      <updated>2020-05-09T00:00:00+02:00</updated>
+      <id>http://alemangui.github.io/biais-intelligence-artificielle</id>
+      <content type="html" xml:base="http://alemangui.github.io/biais-intelligence-artificielle">&lt;p&gt;Le 10 mars 2016, le meilleur joueur de go du monde, Lee Sedol, affrontait AlphaGo, un programme informatique développé par Google DeepMind. S’attaquer au Go est une tâche particulièrement difficile pour l’intelligence artificielle (IA) car, à différence des échecs, les ordinateurs ne sont pas capables de calculer toutes les combinaisons possibles du jeu (plus nombreuses que le nombre d’atomes dans l’univers). Dès lors, pour s’imposer face à son rival, AlphaGo devait faire preuve d’intuition et créativité : deux qualités considérées essentiellement humaines.&lt;/p&gt;
+
+&lt;p&gt;Au bout d’une heure et demie de jeu, lors du 37ème tour, AlphaGo joue un coup déconcertant : la position O10. &lt;a href=&quot;https://youtu.be/l-GsfyVCBu0?t=4692&quot;&gt;Les commentateurs&lt;/a&gt; envisagent la possibilité qu’il s’agisse d’une erreur. Les spécialistes  ont du mal à croire cette décision amplement considérée comme mauvaise. Néanmoins, après trois heures et demie de jeu, AlphaGo bat Lee Sedol, confirmant ainsi le génie derrière ce mouvement. Le coup 37 est rentré dans la liste des moments phares de l’IA, prouvant sa capacité à développer une créativité dépassant celle de son homologue humain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/commentary_go.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;Les commentateurs du match entre Lee Sedol et AlphaGo surpris par le mouvement 37 &lt;a href=&quot;https://www.youtube.com/watch?v=l-GsfyVCBu0&amp;amp;feature=youtu.be&amp;amp;t=4692&quot;&gt;Vidéo&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Cette aptitude a propulsé l’IA vers de nombreux domaines. Le &lt;a href=&quot;https://www.credigo.fr/actualites/ia-intelligence-artificielle-et-secteur-bancaire.html&quot;&gt;secteur bancaire&lt;/a&gt; l’utilise pour évaluer le risque d’accorder un crédit. L’industrie médicale investit dans des &lt;a href=&quot;https://deepmind.com/blog/announcements/deepmind-health-joins-google-health&quot;&gt;systèmes aidant la détection des maladies&lt;/a&gt;. Des &lt;a href=&quot;https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2019/12/27112019-EC-Item-3-Briefing-Note-NDAS-MSV.pdf&quot;&gt;systèmes de renseignement policier&lt;/a&gt; basés sur l’IA voient le jour. Dans le domaine militaire, une véritable course aux &lt;a href=&quot;https://globalnews.ca/news/4125382/google-pentagon-ai-project-maven/&quot;&gt;armements basés sur l’IA&lt;/a&gt; se déroule en ce moment. Mais aussi en &lt;a href=&quot;https://www.justice-predictive.com/index.php/2-non-categorise/24-justice-predictive-de-l-idee-a-la-realite&quot;&gt;droit&lt;/a&gt;, &lt;a href=&quot;https://www.decision-achats.fr/Thematique/it-digital-1233/Breves/intelligence-artificielle-impose-dans-secteur-logistique-330491.htm&quot;&gt;logistique&lt;/a&gt;, &lt;a href=&quot;https://www.meta-media.fr/2019/05/23/lintelligence-artificielle-est-une-alliee-pour-la-presse-et-les-journalistes.html&quot;&gt;journalisme&lt;/a&gt; et même &lt;a href=&quot;https://fr.wikipedia.org/wiki/Portrait_d%27Edmond_de_Belamy&quot;&gt;art&lt;/a&gt;, l’IA est un bon élève devenu omniprésente.&lt;/p&gt;
+
+&lt;p&gt;Néanmoins, éduquer une machine n’est pas chose aisée et les enseignants chargés de cette tâche sommes nous tous. Nous, qui sommes si prônes à une multitude d’irrationalités. Nous, qui entretenons des dogmes remarquablement résistants aux faits qui les contredisent. Nous qui, en délégant tant d’aspects de nos vies aux nouvelles technologies, prenons le risque de pérenniser nos biais.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;L'ordinateur a appris à partir des humains comment discriminer, et il a fait le travail avec une efficacité à couper le souffle&lt;/p&gt;
+&lt;cite&gt;- Cathy O'Neil &lt;a href=&quot;https://weaponsofmathdestructionbook.com/&quot;&gt;« Weapons of Math Destruction »&lt;/a&gt;&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;une-ia-peut-elle-discriminer-&quot;&gt;Une IA peut-elle discriminer ?&lt;/h2&gt;
+
+&lt;h3 id=&quot;microsoft-tay&quot;&gt;Microsoft Tay&lt;/h3&gt;
+
+&lt;p&gt;En mars 2016, Microsoft a mis sur Twitter un agent conversationnel basé sur l’IA appelé Tay. Tay avait comme objectif de développer son langage à la suite des discussions avec des êtres humains.&lt;/p&gt;
+
+&lt;p&gt;Après seulement 24 heures, Tay tenait des propos racistes, misogynes et négationnistes tellement graves que &lt;a href=&quot;https://www.20minutes.fr/high-tech/1813579-20160325-microsoft-debranche-robot-devenu-fou-interrompre-tweets-racistes-pro-nazis&quot;&gt;Microsoft a dû la débrancher&lt;/a&gt;. Après quelques ajustements, une deuxième tentative a été faite une semaine plus tard avec le même résultat. Microsoft a jeté l’éponge dénonçant un “effort coordonné de plusieurs utilisateurs pour abuser des compétences de Tay”.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Tay&amp;quot; went from &amp;quot;humans are super cool&amp;quot; to full nazi in &amp;lt;24 hrs and I&amp;#39;m not at all concerned about the future of AI &lt;a href=&quot;https://t.co/xuGi1u9S1A&quot;&gt;pic.twitter.com/xuGi1u9S1A&lt;/a&gt;&lt;/p&gt;&amp;mdash; gerry (@geraldmellor) &lt;a href=&quot;https://twitter.com/geraldmellor/status/712880710328139776?ref_src=twsrc%5Etfw&quot;&gt;March 24, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La nature des propos de Tay ne laissent personne indifférent. Néanmoins, on peut probablement se dire que l’impact de cet agent conversationnel n’est pas immense. Après tout, en ce qui concerne les comptes tenant des propos inacceptables, Twitter n’en est pas à un près.&lt;/p&gt;
+
+&lt;p&gt;En revanche, des biais présents dans des domaines tels que le recrutement ou le droit pénal peuvent avoir un impact immense dans la vie des gens et en conséquence dans notre société tout entière.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-systèmes-de-recrutement&quot;&gt;Les systèmes de recrutement&lt;/h3&gt;
+
+&lt;p&gt;En 2014, Amazon a conçu en secret une IA visant à automatiser la sélection des CVs pour fluidifier leurs processus RH. Pour apprendre, le système s’est basé sur dix ans de données de recrutement dans un environnement majoritairement masculin. Ainsi, il n’est pas surprenant que l’IA déduise que les candidats masculins étaient préférables. L’IA pénalisait même l’utilisation du mot “femme” : un CV contenant la mention d’un “club de jeu échecs pour femme” se voyait &lt;a href=&quot;http://www.slate.fr/story/168413/amazon-abandonne-intelligence-artificielle-sexiste&quot;&gt;déprécier automatiquement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Malgré des modifications apportées pour contrer ce biais, le projet a fini par être abandonné par crainte que d’autres moyens de discrimination soient adoptés.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/amazon-recruitment.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazon est loin d’être la seule entreprise dans ce cas de figure. Hilton (169.000 employés), Delta (86.564) et Goldman Sachs (36.600) font aussi appel à ces technologies pour automatiser une partie de leur processus d’embauche. Des fois, des étapes de &lt;a href=&quot;https://skillroads.com/blog/ai-and-facial-recognition-are-game-changers-for-recruitment&quot;&gt;reconnaissance faciale ou auditive&lt;/a&gt; peuvent faire partie du processus, ouvrant la porte à davantage d’axes discriminatoires. Ces systèmes étant des boîtes noires, certaines ONGs s’inquiètent sur la difficulté de poursuivre un employeur pour discrimination à la suite d’une embauche automatisé.&lt;/p&gt;
+
+&lt;h3 id=&quot;le-domaine-pénal-laissé-aux-ias&quot;&gt;Le domaine pénal laissé aux IAs&lt;/h3&gt;
+
+&lt;p&gt;En avril 2017, &lt;a href=&quot;https://www.lebigdata.fr/compas-algorithme-prison-0305&quot;&gt;Eric L. Loomis a été condamné&lt;/a&gt; à six ans de prison aux États-Unis par l’algorithme &lt;a href=&quot;https://en.wikipedia.org/wiki/COMPAS_(software)&quot;&gt;Compas&lt;/a&gt;. L’IA a déterminé que l’individu présentait un risque élevé de récidive. Développé par une entreprise privée et protégé sous le secret commercial, personne n’est autorisé à examiner le processus par lequel l’algorithme est arrivé à cette conclusion.&lt;/p&gt;
+
+&lt;p&gt;Les données d’entraînement pour Compas sont particulièrement inquiétants. Aux États-Unis, les Afro-Américains représentent 13 % de la population et constituent néanmoins &lt;a href=&quot;https://en.wikipedia.org/wiki/Incarceration_in_the_United_States&quot;&gt;40 % des incarcérés&lt;/a&gt;. De plus, à crimes et délits égaux, les noirs sont bien plus souvent condamnés que les blancs. Dans &lt;a href=&quot;https://fr.wikipedia.org/wiki/Capital_et_Id%C3%A9ologie&quot;&gt;Capital et Idéologie&lt;/a&gt;, Thomas Piketty relève qu’environ 5 % des hommes adultes noirs sont en prison aux États-Unis, soit un taux comparable à celui l’ensemble de la population en URSS en 1953, à la mort de Staline.&lt;/p&gt;
+
+&lt;p&gt;Sans grande surprise, les préjuges raciaux existants ont été renforcés : Compas considère qu’un homme noir sans antécédents a deux fois plus de chances de commettre un nouveau délit qu’un blanc ayant déjà un casier judiciaire.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/pro-publica.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;&lt;a href=&quot;https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&quot;&gt;L’investigation menée par Julia Angwin&lt;/a&gt; met en évidence les biais de l’IA Compas&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour jeter de l’huile sur le feu, en adoptant ces biais, Compas est devenu très peu fiable. Une &lt;a href=&quot;https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&quot;&gt;investigation menée par Julia Angwin&lt;/a&gt; et publié par ProPublica montre que seulement 20 % des personnes considérées en risque de récidive finissaient par commettre un nouveau crime. Des &lt;a href=&quot;https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/pour-predire-la-recidive-l-interet-limite-des-algorithmes_120238&quot;&gt;chercheurs de Dartmouth College&lt;/a&gt; ont mené une expérience prouvant que les prédictions fournies par Compas n’étaient pas meilleures que celles faites par des personnes sans formation juridique.&lt;/p&gt;
+
+&lt;p&gt;Malgré ceci, des initiatives similaires ont apparu ces dernières années ailleurs dans le monde, comme la &lt;a href=&quot;https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-848035-police-britannique-travaille-ia-devancer-crime.html&quot;&gt;National Data Analytics Solution&lt;/a&gt; (NDAS) en Grande Bretagne.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-liste-est-longue&quot;&gt;La liste est longue&lt;/h3&gt;
+
+&lt;p&gt;Énumérer tous les cas où la vie des gens se voit affectée par des algorithmes biaisés est une tâche d’envergure qui dépasse la portée de cet article. Des &lt;a href=&quot;https://www.lemonde.fr/pixels/article/2017/04/25/l-application-a-succes-faceapp-qui-rend-les-gens-sexys-accusee-de-racisme_5117244_4408996.html&quot;&gt;applications qui éclairaient les visages&lt;/a&gt; pour les “rendre plus beaux” suite à un manque de diversité dans les données d’entraînement, des algorithmes qui &lt;a href=&quot;https://theconversation.com/did-artificial-intelligence-deny-you-credit-73259&quot;&gt;refusent des prêts bancaires&lt;/a&gt; sans pouvoir justifier leur décision, des &lt;a href=&quot;https://www.marianne.net/monde/au-pays-bas-la-justice-met-un-coup-d-arret-au-flicage-technologique-des-pauvres&quot;&gt;systèmes de détection de fraude&lt;/a&gt; aux aides sociales qui défavorisent les populations les plus pauvres : la liste est décidément trop longue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/faceapp.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot; style=&quot;margin-top: 10px;&quot;&gt;FaceApp décide de blanchir les photos à cause des biais dans les données d’entraînement. Image de Jessica Lea / DFID / CC BY 2.0&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quest-ce-quon-peut-faire-&quot;&gt;Qu’est-ce qu’on peut faire ?&lt;/h2&gt;
+
+&lt;p&gt;Les algorithmes n’ayant pas des biais inhérents, on peut déduire que le problème n’est pas l’intelligence artificielle elle-même, mais plutôt nos données historiques. Qui plus est, en détenant une technologie capable de faire abstraction des imprécisions du cerveau humain, on a potentiellement un allié important contre la discrimination. Certes, nous l’avons plutôt transformé en outil d’exclusion, mais on peut encore ajuster le guidon.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Grossièrement, [les IA] analysent le passé pour prédire le futur. Une IA regarde toujours dans le rétroviseur. &lt;/p&gt;
+&lt;cite&gt;- Pierre Boullier, fondateur de l’école Simplon&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;la-transparence&quot;&gt;La transparence&lt;/h3&gt;
+
+&lt;p&gt;Tant que le parcours qui mène une IA à prendre une décision ne soit pas auditable, aucune partie prenante n’acceptera la responsabilité de ses effets nocifs. Tant que le fonctionnement d’un algorithme ne soit pas explicable, les ajustements nécessaires pour contrer les préjugés ne pourront pas s’effectuer. Malheureusement, la transparence est loin d’être la règle aujourd’hui.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;George Akerlof a montré que si un marché devenait opaque, il risquait de s'effondrer. C'est ce qui pourrait arriver à l'IA si on ne parvient pas à lui injecter plus de transparence.&lt;/p&gt;
+&lt;cite&gt;- Patrick Waelbroeck, professeur à Télécom ParisTech&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Plusieurs initiatives ont été créées à ce sujet. L’Union Européenne a &lt;a href=&quot;https://www.europarl.europa.eu/doceo/document/TA-8-2019-0081_FR.html&quot;&gt;adopté une résolution&lt;/a&gt; soulignant la nécessité de garantir, dès la conception, l’explicabilité des algorithmes. L’OCDE a publié des &lt;a href=&quot;https://www.oecd.org/fr/science/quarante-deux-pays-adoptent-les-nouveaux-principes-de-l-ocde-sur-l-intelligence-artificielle.htm&quot;&gt;principes sur l’IA&lt;/a&gt; établissant l’importance d’assurer la transparence des informations afin de ce que les résultats puissent être contestés. La société de recherche à but non-lucratif &lt;a href=&quot;https://openai.com/&quot;&gt;OpenAI&lt;/a&gt; a été créée pour développer de l’IA open source. Bien d’autres organisations existent aujourd’hui avec des buts similaires.&lt;/p&gt;
+
+&lt;p&gt;Quelques sous-disciplines de l’IA - tels que le deep learning et les algorithmes génétiques - sont naturellement opaques. De la recherche pour rendre ces algorithmes compréhensibles a donné naissance à la &lt;a href=&quot;https://en.wikipedia.org/wiki/Explainable_artificial_intelligence&quot;&gt;XAI&lt;/a&gt; (eXplainable Artificial Intelligence), permettant d’éliminer les obstacles techniques pour avoir des algorithmes plus justes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/elements-of-ai.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot; style=&quot;margin-top: 10px;&quot;&gt;Hanna Hagström et Teemu Ross, les concepteurs du MOOC Elements of AI. Image de Aki Rask / Reaktor&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Ces initiatives doivent être accompagnées d’une société formée aux enjeux de l’IA pour que les citoyens puissent prendre part au débat public. L’Université de Helsinki, en partenariat avec le cabinet Reaktor, a lancé la formation ouverte et gratuite &lt;a href=&quot;https://course.elementsofai.com/&quot;&gt;“Elements of AI”&lt;/a&gt; avec l’objectif de former 1 % de la population européenne aux bases de l’IA. Cette formation sera bientôt traduite dans &lt;a href=&quot;https://www.elementsofai.com/eu2019fi&quot;&gt;toutes les langues européennes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lamélioration-continue&quot;&gt;L’amélioration continue&lt;/h3&gt;
+
+&lt;p&gt;Il faut néanmoins se rendre à l’évidence : il est impossible de rendre les données impartiales. De plus, régler des paramètres une seule fois ne suffit pas. Par exemple, en enlevant le paramètre de la couleur de peau, Compas pourrait continuer à discriminer en trouvant des variables corrélés tels que l’adresse de l’accusé.&lt;/p&gt;
+
+&lt;p&gt;Il est donc important d’intégrer un processus continu d’audit et amélioration continue pour paramétrer en permanence nos systèmes. Pour Serge Abiteboul, chercheur à l’ENS Paris, ces contrôles peuvent prendre la forme des rapports chiffrés réguliers et audits du code. La chercheuse Gwendal Legrand suggère plutôt que le contrôle des algorithmes soit intégré aux algorithmes eux-mêmes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;L’enjeu est d’assigner le bon poids à chacune des variables que l’on assigne à ces données afin de produire les résultats les plus justes possibles.&lt;/p&gt;
+&lt;cite&gt;- Pierre Boullier, fondateur de l’école Simplon&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Des actions allant dans cette direction commencent à apparaître. À Toulouse, la startup &lt;a href=&quot;http://fdu-label.com/fr/&quot;&gt;Maathics&lt;/a&gt; a été crée pour détecter, quantifier et corriger les sources de discrimination dans les algorithmes. Elle permet aux entreprises de se certifier Fair Data Use : un label qui assure un audit périodique pour repérer des failles dans les systèmes d’IA qui pourraient provoquer des discriminations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/maathics.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot; style=&quot;margin-top: 10px;&quot;&gt;Anna Choury, PDG de Maathics. Image d’&lt;a href=&quot;https://twitter.com/ioctavia/status/1044868551612542978&quot;&gt;Octavia Ivan&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;le-cadre-légal&quot;&gt;Le cadre légal&lt;/h3&gt;
+
+&lt;p&gt;Un cadre légal avec des règles précises et des conséquences réelles en cas de non-conformité est essentiel.&lt;/p&gt;
+
+&lt;p&gt;Le 5 février dernier, le tribunal de La Haye a &lt;a href=&quot;https://www.marianne.net/monde/au-pays-bas-la-justice-met-un-coup-d-arret-au-flicage-technologique-des-pauvres&quot;&gt;interdit au gouvernement hollandais d’utiliser SyRI&lt;/a&gt;, un logiciel de détection de fraude aux aides sociales. L’administration avait refusé de dévoiler le code de ce système qui défavorisait de façon disproportionnée les populations les plus pauvres. Ceci établit un précédent légal fort pour les prochaines affaires.&lt;/p&gt;
+
+&lt;p&gt;Le 19 février, la Commission Européenne a présenté sa &lt;a href=&quot;https://www.lesechos.fr/tech-medias/intelligence-artificielle/intelligence-artificielle-bruxelles-promet-un-encadrement-bien-reel-1173157&quot;&gt;stratégie pour l’intelligence artificielle&lt;/a&gt;. Une approche proportionnelle a été prise : plus l’utilisation des algorithmes sera dangereuse pour la santé, la sécurité ou les droits fondamentaux, plus les règles seront strictes. Leur &lt;a href=&quot;https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_fr.pdf&quot;&gt;livre blanc&lt;/a&gt; établit aussi que les systèmes devront “être transparents, traçables et garantir un contrôle humain”. La législation plus détaillée sera présentée fin 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/leyen.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot; style=&quot;margin-top: 10px;&quot;&gt;Ursula von der Leyen - Commission Européenne. Image de Dursun Aydemir - Agencia Anadolu&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;
+Les pouvoirs publics doivent être en mesure de tester et de certifier les données utilisées par les algorithmes pour garantir le respect des droits fondamentaux, notamment la non-discrimination.
+&lt;/p&gt;
+&lt;cite&gt;- &lt;a href=&quot;https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_fr.pdf&quot;&gt;Livre blanc&lt;/a&gt; de la Commission Européenne sur l'intelligence artificielle&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cette réglementation s’ajoutera au Règlement Européen sur la Protection des données à caractère personnel (&lt;a href=&quot;https://www.cnil.fr/fr/reglement-europeen-protection-donnees&quot;&gt;RGPD&lt;/a&gt;), ainsi que la loi Informatique et Libertés (&lt;a href=&quot;https://www.cnil.fr/fr/la-loi-informatique-et-libertes&quot;&gt;LIL&lt;/a&gt;). Ces lois européennes imposent déjà des restrictions telles que le principe de minimisation (les données personnelles doivent se limiter à ce qui est strictement nécessaire) et ceux d’explicabilité et d’intelligibilité des algorithmes.&lt;/p&gt;
+
+&lt;h2 id=&quot;ce-nest-pas-trop-tard&quot;&gt;Ce n’est pas trop tard&lt;/h2&gt;
+
+&lt;p&gt;L’intelligence artificielle a le potentiel de devenir soit un allié de poids pour l’humanité soit un outil dangereux et discriminatoire. Nous vivons un moment crucial où l’on est encore en mesure de choisir, en tant que société, quel chemin sera pris.&lt;/p&gt;
+
+&lt;p&gt;L’implication citoyenne, par le biais du support aux organisations, la prise de connaissance dans le sujet et l’exercice du droit de vote est essentiel pour prendre cette décision. Ne laissons pas l’apathie le faire à notre place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/protest-ia.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot; style=&quot;margin-top: 10px;&quot;&gt;Photo prise par Waldemar Brandt, Unsplash&lt;/small&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Société" />
+      
+        <category term="IA" />
+      
+
+      
+        <summary type="html">Cette nouvelle technologie devenue omniprésente renforce nos préjugés. Comment ne pas pérenniser nos déviations de jugement ?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

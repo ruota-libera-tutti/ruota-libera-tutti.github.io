@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://alemangui.github.io/tag/environnement/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://alemangui.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-08-21T10:11:07+02:00</updated>
+  <id>http://alemangui.github.io/tag/environnement/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Alejandro Mantecón Guillén | </title>
+  
+
+  
+    <subtitle>Le blog d'Alejandro Mantecón Guillén</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Apple et le droit à la réparation</title>
+      <link href="http://alemangui.github.io/apple-et-le-droit-a-la-reparation" rel="alternate" type="text/html" title="Apple et le droit à la réparation" />
+      <published>2020-02-26T00:00:00+01:00</published>
+      <updated>2020-02-26T00:00:00+01:00</updated>
+      <id>http://alemangui.github.io/apple-et-le-droit-a-la-reparation</id>
+      <content type="html" xml:base="http://alemangui.github.io/apple-et-le-droit-a-la-reparation">&lt;p&gt;De nos jours, la sensibilité des consommateurs à l’égard des questions écologiques et sociales pèse lourd dans la balance en faveur de la réparation et contre l’achat du nouveau. Néanmoins, Apple - une marque souvent perçue comme étant en phase avec son temps - continue de ferrailler contre les initiatives de remise en état de leurs produits.&lt;/p&gt;
+
+&lt;h2 id=&quot;pourquoi-réparer-&quot;&gt;Pourquoi réparer ?&lt;/h2&gt;
+
+&lt;p&gt;Prolonger la durée de vie des objets présente des nombreuses avantages au niveau individuel, sociétal et écologique. Réparer s’avère moins coûteux que racheter un produit neuf, contribue à l’économie local en faisant appel à des artisans et techniciens de proximité, et permet de diminuer notre empreinte écologique. Ce dernier point concerne non seulement les déchets, mais aussi les ressources utilisées lors de la production et le transport de nouveaux produits.&lt;/p&gt;
+
+&lt;p&gt;Pour les appareils électroniques le bilan est lourd. Les minéraux et métaux qui les composent proviennent d’une exploitation minière souvent pointée du doigt pour leurs pratiques polluantes, conditions déplorables pour les employées et &lt;a href=&quot;http://www.leparisien.fr/economie/cobalt-apple-microsoft-ou-google-accuses-de-profiter-du-travail-des-enfants-17-12-2019-8219259.php&quot;&gt;travail des enfants&lt;/a&gt;. Les composants sont manufacturés aux &lt;a href=&quot;https://www.lifewire.com/where-is-the-iphone-made-1999503&quot;&gt;quatre coins du monde&lt;/a&gt; et doivent être transportés plusieurs fois jusqu’au client final, ajoutant à l’empreinte carbone de l’appareil. Finalement, les déchets électroniques - qui d’ailleurs sont les déchets avec &lt;a href=&quot;http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf&quot;&gt;le plus grand taux de croissance au monde&lt;/a&gt; - sont envoyés dans des pays en voie de développement pour être traités manuellement malgré les éléments toxiques qu’ils contiennent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/electronic_waste.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;Image d’Andrew McConnell. Copyright : Panos Pictures&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Plus généralement, les associations de protection du consommateur maintiennent qu’une fois l’appareil vendu, il n’appartient plus au constructeur, mais à l’acheteur. Libre à lui de faire ce qu’il veut avec. Les efforts pour empêcher les utilisateurs d’ouvrir, réparer et remplacer des pièces de leurs propres appareils entrent en conflit avec cette notion d’appartenance et créent un précédent dangereux. Le parallèle avec l’industrie automobile est souvent évoqué : ce serait impensable que Peugeot empêche l’utilisation des pièces détachées, s’oppose aux services offerts par des garagistes indépendants, ou rende impossible la personnalisation des voitures vendues.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-croisade-dapple&quot;&gt;La croisade d’Apple&lt;/h2&gt;
+
+&lt;p&gt;Le choix de se focaliser sur Apple pour cet article est dû à l’immense portée de ses actions. En 2019, Apple devient la première boîte à atteindre le cap de 1.000.000.000.000 USD (un “trillion” pour les Américains, un billion les Français) de capitalisation boursière. C’est un montant stratosphérique : deux fois le PIB de la Suède et cinq fois le budget santé de la France. C’est plus que LLVH, L’Oréal, Sanofi, Airbus et Vinci &lt;em&gt;ensemble&lt;/em&gt;. Apple dispose donc des moyens pour établir une forte influence partout dans le monde.&lt;/p&gt;
+
+&lt;p&gt;De plus, la firme de Cupertino perçoit la réparation de leurs produits comme un obstacle au profit. Tim Cook a même écrit dans une &lt;a href=&quot;https://www.vice.com/en_us/article/zmd9a5/tim-cook-to-investors-people-bought-fewer-new-iphones-because-they-repaired-their-old-ones&quot;&gt;lettre aux investisseurs&lt;/a&gt; en 2019 que la diminution des ventes de l’iPhone est en partie dû aux clients qui remplacent la batterie. Apple a plusieurs cordes à son arc quand il s’agit de bloquer les tentatives de réparation : du design de leurs produits jusqu’aux menaces légales en passant par des verrous software, lobbying politique et surfacturation des réparations officielles, entre autres.&lt;/p&gt;
+
+&lt;h3 id=&quot;des-produits-difficiles-à-réparer&quot;&gt;Des produits difficiles à réparer&lt;/h3&gt;
+
+&lt;p&gt;Un des mécanismes pour empêcher les utilisateurs de réparer c’est de concevoir les produits de façon à rendre cette tâche de plus en plus compliqué.&lt;/p&gt;
+
+&lt;p&gt;Ça n’a pas toujours été comme ça. Au début des années 2000, l’iBook (ancêtre du Macbook) avait un clavier détachable à la main qui permettait d’accéder à l’emplacement de la mémoire RAM. Ce composant est important pour la vitesse de l’ordinateur et permet de faire tourner plusieurs applications en même temps. À cette époque, augmenter la mémoire pour donner un coup de neuf à un iBook prenait environ une minute et ne nécessitait pas d’outils particuliers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ibook.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;From &lt;a href=&quot;https://www.macrepaircentral.us/ibook-g4-14-inch-early-2004/procedure-nik.html&quot;&gt;Mac Repair Central&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;des-composants-soudés&quot;&gt;Des composants soudés&lt;/h6&gt;
+
+&lt;p&gt;En 2008 Apple annonce le Macbook Air, le premier ordinateur portable de la gamme avec la mémoire soudée - et donc impossible à augmenter. Cette tendance a continué avec les lancements de produits subséquents.&lt;/p&gt;
+
+&lt;p&gt;Aujourd’hui, la totalité des ordinateurs portables d’Apple ont la mémoire RAM, le processeur et le disque dur soudés, rendant ainsi impossible leur mise à jour. La faille d’un composant induit souvent à l’achat d’un nouvel ordinateur, menant d’autres composants en parfait état à la poubelle. iFixit - la plateforme phare en termes de réparation et économie circulaire - leur donne un &lt;a href=&quot;https://www.ifixit.com/Teardown/MacBook+Pro+16-Inch+2019+Teardown/128106#teardownConclusion&quot;&gt;score de 1/10&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ifixit-macbook.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;bouton-daccueil&quot;&gt;Bouton d’accueil&lt;/h6&gt;
+
+&lt;p&gt;Avec l’arrivée des iPhone 7 et 7 Plus, on a vu apparaître les boutons d’accueil “virtuels” : une surface fixe qui donne la sensation de clic quand on appuie dessus. Apple a profité de l’occasion pour mettre en place un système de blocage en cas de tentative de remplacement. Même en installant une nouvelle pièce originale le téléphone refusera de l’adopter. Il faut noter d’ailleurs qu’il ne s’agit pas d’une contrainte physique, ce comportement a été programmée volontairement dans iOS. D’un point de vue sécurité c’est compréhensible qu’on désactive le TouchID, mais rien n’obligeait Apple à empêcher la réparation du bouton lui-même. En cas de problème les consommateurs sont &lt;a href=&quot;https://www.igen.fr/iphone/2017/04/seule-apple-peut-remplacer-le-bouton-daccueil-des-iphone-7-99404&quot;&gt;obligés de passer par Apple&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h6 id=&quot;la-vis-pentalobe&quot;&gt;La vis pentalobe&lt;/h6&gt;
+
+&lt;p&gt;Apple a aussi décidé de rendre leurs vises incompatibles avec les tournevis standard pour empêcher les utilisateurs d’ouvrir leurs propres appareils. Apple, comme la plupart des acteurs du marché, utilisait des vises standard Phillips. Néanmoins, en 2009 la gamme commence progressivement à adopter la vis &lt;em&gt;pentalobe&lt;/em&gt; qui ne s’accorde pas avec les tournevis existants. En 2010, les magasins Apple ont commencé à remplacer les vises standards des produits en réparation avec les nouvelles vises, ceci &lt;a href=&quot;https://www.reuters.com/article/us-apple-screws/apple-tightens-the-screws-on-iphone-4-sources-idUSTRE70K0BO20110121#wtsHylj4edrFHWBD.97&quot;&gt;sans informer les clients&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;De nos jours, tous les produits Apple utilisent cette vis non standard. Heureusement, en 2011 iFixit a mis au marché le “&lt;a href=&quot;https://eustore.ifixit.com/en/Parts/iPhone-Parts/iPhone-4S/iPhone-4-4S-Liberation-Kit.html&quot;&gt;iPhone liberation kit&lt;/a&gt;” qui inclut un tournevis &lt;em&gt;pentalobe&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/pentalobe.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)&lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;obsolescence-programmée&quot;&gt;Obsolescence programmée&lt;/h3&gt;
+
+&lt;p&gt;Apple se trouve souvent au milieu des scandales liés à l’obsolescence programmée. À plusieurs reprises, des investigations ont été lancées pour déterminer si la firme de la pomme vise à réduire délibérément la durée de vie des produits pour en augmenter le taux de remplacement. Il faut noter qu’en France l’obsolescence programmée &lt;a href=&quot;https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&amp;amp;idArticle=LEGIARTI000032222841&amp;amp;dateTexte=&amp;amp;categorieLien=cid&quot;&gt;est un délit&lt;/a&gt; depuis 2015.&lt;/p&gt;
+
+&lt;h6 id=&quot;les-iphones-bridés&quot;&gt;Les iPhones bridés&lt;/h6&gt;
+
+&lt;p&gt;Un des cas les plus relayé par les médias est celui des mises à jour iOS qui ralentissent délibérément les iPhones. Apple a fini par admettre les accusations en les justifiant par un souci d’économie de batterie des anciens modèles. Néanmoins, le manque de transparence soulève des soupçons d’obsolescence programmée : les effets des mises à jour n’ont pas été communiqués et les utilisateurs se trouvaient avec des téléphones très lents sans en connaître la cause.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/iphone-waste.jpeg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;© Shutterstock&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Déjà en 2013, Catherine Rampbell, journaliste du New York Times, &lt;a href=&quot;https://www.nytimes.com/2013/11/03/magazine/why-apple-wants-to-bust-your-iphone.html?ref=magazine&amp;amp;_r=0&quot;&gt;écrit un article&lt;/a&gt; concernant le bridage volontaire de l’iPhone 4 lors de la mise à jour iOS 7. Ses options : payer $79 pour un remplacement de batterie ou mettre $20 de plus pour un nouvel iPhone 5C. Au moment ou l’article est sorti, plusieurs personnes voyaient une &lt;a href=&quot;https://gizmodo.com/no-apples-not-trying-to-bust-your-phone-1453999009&quot;&gt;théorie du complot&lt;/a&gt; plutôt qu’une initiative volontaire de la part d’Apple.&lt;/p&gt;
+
+&lt;p&gt;En 2016, des &lt;a href=&quot;https://consomac.fr/news-7787-ios-le-bridage-volontaire-de-l-iphone-6s-se-confirme.html&quot;&gt;articles prouvant ce bridage intentionnel&lt;/a&gt; ont vu le jour grâce au travail de John Poole, fondateur de Geekbench. En même temps, le mécontentement de la part des clients commençait à &lt;a href=&quot;https://actions.sumofus.org/a/apple-arretez-d-imposer-des-mises-a-niveau-qui-bousillent-les-plus-anciens-modeles-d-iphone-et-d-ipad?sp_ref=227560679.99.173827.f.549302.2&amp;amp;source=fb&quot;&gt;se faire entendre&lt;/a&gt;. Apple décide alors de sortir du silence pour essayer de limiter les dégâts.&lt;/p&gt;
+
+&lt;p&gt;2017 démarre avec une &lt;a href=&quot;https://consomac.fr/news-7798-apple-reconnait-brider-ses-anciens-modeles-d-iphone.html&quot;&gt;déclaration officielle d’Apple&lt;/a&gt; où ils reconnaissent avoir bridé la puissance de ses anciens téléphones. La justification : il faut limiter les pics de puissance des anciennes batteries pour éviter que les iPhones s’éteignent soudainement. Si c’est donc pour la bonne cause, pourquoi l’absence de communication ? En omettant cette information les utilisateurs frustrés sont souvent poussés à l’achat d’un nouveau produit ou au remplacement hors-garantie de la batterie.&lt;/p&gt;
+
+&lt;p&gt;Plusieurs gouvernements ont entamé des investigations à ce sujet. En Italie, 10 millions d’amende en &lt;a href=&quot;https://slice42.com/iphone/2018/10/batterygate-10-millions-damende-pour-apple-en-italie-75502/&quot;&gt;ont été infligés&lt;/a&gt; en 2018 contre Apple. En 2020, année d’écriture de ce post, la firme de la pomme a été condamnée à &lt;a href=&quot;https://www.nouvelobs.com/societe/20200207.OBS24521/iphones-brides-apple-condamne-a-25-millions-d-euros-d-amende.html&quot;&gt;25 millions d’euros d’amende&lt;/a&gt; en France. Cependant, ces montants restent minuscules par rapport au profit qu’Apple a pu en tirer de ces pratiques.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/dgccrf.jpeg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;En France, la &lt;a href=&quot;https://www.economie.gouv.fr/dgccrf&quot;&gt;DGCCRF&lt;/a&gt; a annoncé l’amende de 25 millions d’euros le 7 février 2020&lt;/small&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;la-prise-casque&quot;&gt;La prise casque&lt;/h6&gt;
+
+&lt;p&gt;L’omission de la prise casque 3.5mm dans les smartphones Apple n’a pas laissé l’opinion publique indifférente. L’abandon d’une prise standard, ouverte et utilisée par des millions d’appareils depuis autour de cent ans en faveur d’une alternative propriétaire et fermée (le port Lightning) a suscité une &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2016/6/21/11991302/iphone-no-headphone-jack-user-hostile-stupid&quot;&gt;vague de critiques&lt;/a&gt;. La justification employée par Phil Schiller, chef marketing Apple, est aussi étonnante qu’arrogante : &lt;em&gt;“Il nous a fallu du &lt;strong&gt;&lt;a href=&quot;https://www.engadget.com/2016/09/07/courage-is-not-how-you-sell-iphones/&quot;&gt;courage&lt;/a&gt;&lt;/strong&gt; pour proposer ce que nous considérons comme meilleur pour l’utilisateur”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Even Mandela learned new things about courage today… &lt;a href=&quot;https://twitter.com/hashtag/AppleEvent?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#AppleEvent&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/iPhone7?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#iPhone7&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/AirPods?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#AirPods&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/courage?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#courage&lt;/a&gt; &lt;a href=&quot;https://t.co/rOImiooOkB&quot;&gt;pic.twitter.com/rOImiooOkB&lt;/a&gt;&lt;/p&gt;&amp;mdash; ♏️ℹ️ⓔⓂ️⭕️ (@miemo) &lt;a href=&quot;https://twitter.com/miemo/status/773639495178674178?ref_src=twsrc%5Etfw&quot;&gt;September 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Parmi les plusieurs désavantages de cette tournure, l’&lt;a href=&quot;https://www.sylvaingingrasdemers.com/ecologie-ecouteurs-bluetooth-aberration/&quot;&gt;impact écologique&lt;/a&gt; saute aux yeux. L’incitation à acquérir des casques sans fil qui fonctionnent sur batterie entraîne forcément un bilan écologique plus lourd. Les mines de lithium nécessaires pour leur fabrication impactent fortement l’environnement en &lt;a href=&quot;https://www.enviro2b.com/2019/01/09/le-cout-environnemental-de-notre-dependance-aux-batteries-au-lithium/&quot;&gt;polluant les fleuves&lt;/a&gt; et en &lt;a href=&quot;https://reporterre.net/Corruption-pollution-consommation-les-ravages-du-lithium-en-Argentine&quot;&gt;menaçant des écosystèmes&lt;/a&gt; qui avaient jusqu’à là échappé l’impact humain. De plus, la batterie raccourci considérablement la durée de vie des casques sans-fil par rapport aux casques câblés, contribuant davantage au problème des déchets électroniques. Toujours est-il que pour Apple, rien de mieux pour augmenter ses recettes (rappelons-nous que la firme a acquis la &lt;a href=&quot;https://www.lemonde.fr/technologies/article/2014/05/28/apple-confirme-le-rachat-de-beats-electronics-pour-3-milliards-de-dollars_4428338_651865.html&quot;&gt;marque de casques audio Beats en 2013&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/lithium-protest.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;Manifestations contre les mines de lithium à Kangding. &lt;a href=&quot;https://ejatlas.org/conflict/a-sudden-mass-death-of-fish-in-the-lichu-river-in-minyak-lhagang-dartsedo-county-in-karze-prefecture&quot;&gt;EJ Atlas&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;L’innovation ne justifie pas, en 2016, de ne pas réfléchir aux impacts de ses décisions.
+&lt;cite&gt;— &lt;a href=&quot;https://www.01net.com/actualites/pourquoi-apple-a-tort-de-supprimer-la-prise-jack-de-son-iphone-7-1036881.html&quot;&gt;Adrian Branco&lt;/a&gt;&lt;/cite&gt;
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;resistance-à-la-législation&quot;&gt;Resistance à la législation&lt;/h3&gt;
+
+&lt;p&gt;L’influence d’Apple s’exerce aussi dans l’&lt;a href=&quot;https://www.challenges.fr/high-tech/batailles-d-influence-avec-les-grandes-puissances_689450&quot;&gt;écosystème gouvernemental&lt;/a&gt;, où des équipes de lobbyistes accréditées, fédérations, avocats et consultants se battent pour que les lois s’accordent aux intérêts de la firme. Ceci ne va pas toujours de la main avec les priorités sociétales : une meilleure protection des données, un système de taxation plus juste et la protection à l’environnement.&lt;/p&gt;
+
+&lt;p&gt;Aux États-Unis, un projet de loi nommé &lt;em&gt;Fair Repair Act&lt;/em&gt; a vu le jour dans l’état de New York en 2015. Il exige aux fabricants de mettre à disposition du public des informations de réparation de leurs appareils ainsi que de vendre des pièces détachées pour faciliter la réparation. Apple n’a pas tardé à engager le cabinet de lobbying Roffe Group pour convaincre les législateurs de faire marche arrière. Ces efforts ont porté ses fruits : le Sénat de New York n’a pas réussi à faire passer le Fair Repair Act. Massachusetts et la Californie ont aussi échoué face au lobbying anti-réparation qui défendait sa position en affirmant que &lt;a href=&quot;https://www.zdnet.fr/actualites/la-raison-stupide-d-apple-pour-essayer-d-empecher-la-reparation-de-son-iphone-39884271.htm&quot;&gt;les consommateurs pourraient se blesser&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/repair-protest.jpeg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;© Kyle Wiens, iFixit.com&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Au Canada, le parlement d’Ontario a également présenté un projet de loi pro-réparation en février 2019. Celui-ci aurait permis la vente des pièces originales détachées aux consommateurs (par exemple, des écrans iPhone) pour encourager la remise en état des appareils électroniques. Apple, via l’&lt;em&gt;Electronics Product Stewardship Canada&lt;/em&gt; a aussi réussi à &lt;a href=&quot;https://appleinsider.com/articles/19/05/03/apple-tech-companies-successfully-lobby-to-kill-ontario-right-to-repair-bill&quot;&gt;mettre fin à cette initiative&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Au jour d’écriture de ce post, Apple ne fournit aucune pièce ou manuels de réparation en dehors de son réseau officiel.&lt;/p&gt;
+
+&lt;h6 id=&quot;lunion-européenne-et-la-garantie-obligatoire&quot;&gt;L’Union Européenne et la garantie obligatoire&lt;/h6&gt;
+
+&lt;p&gt;La lutte n’est pas finie même quand des lois de protection au consommateur sont promulguées. En 1999, l’Union Européenne a adopté la directive &lt;a href=&quot;http://admi.net/eur/loi/leg_euro/fr_399L0044.html&quot;&gt;1999/44/CE&lt;/a&gt; obligeant les vendeurs à offrir une garantie de réparation ou remplacement de deux ans minimum. Apple a décidé de &lt;a href=&quot;https://www.numerama.com/magazine/22072-apple-et-sa-garantie-d-un-an-violation-du-droit-europeen.html&quot;&gt;faire croire aux consommateurs&lt;/a&gt; que la garantie de base dure un an pour rendre l’“AppleCare Protection Plan” plus attractif. Suite à une mise en cause en Europe, &lt;a href=&quot;https://www.01net.com/actualites/apple-applique-la-garantie-legale-de-deux-ans-sur-ses-produits-597537.html&quot;&gt;Apple a du bien clarifier&lt;/a&gt; que la garantie minimale est de deux ans. Le gouvernement italien a imposé &lt;a href=&quot;https://www.linformaticien.com/actualites/id/22851/l-italie-condamne-apple-a-une-amende-de-900000-euros.aspx&quot;&gt;900000 euros d’amende&lt;/a&gt; à Apple pour ce mauvais tour.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/garantie-un-an.png&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;Site d’Apple malgré la directive Européenne étendant la garantie à deux ans.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;attaques-aux-indépendants&quot;&gt;Attaques aux indépendants&lt;/h3&gt;
+
+&lt;p&gt;Malgré les efforts d’Apple, des réparateurs indépendants font le maximum pour faire durer ces produits. Ceci n’est pas sans conséquences : les querelles entre l’entreprise de Cupertino et les micro-entreprises prêtes à effectuer des réparations sont fréquentes. Le rapport de force n’est pas du tout le même, forçant plusieurs techniciens à mettre la clé sous la porte.&lt;/p&gt;
+
+&lt;p&gt;La vidéo ci-dessous présente une &lt;a href=&quot;https://ici.radio-canada.ca/nouvelle/1131105/technologie-apple-reparation-prix-restriction-accusation&quot;&gt;enquête faite par la chaîne américaine CBC news&lt;/a&gt;. À l’aide d’une caméra cachée, un consommateur se rend à l’Apple store pour faire réparer l’écran de son Macbook. Le coût : 1200 dollars. L’employée ne s’attarde pas à rappeler le prix d’un nouvel ordinateur, qui n’est pas loin de celui de la réparation. Le consommateur se rend ensuite au petit magasin de réparation de Louis Rossmann (non agrée par Apple). Rossmann identifie le problème : une broche courbée qui n’établissait plus de contact, facilement réglable à l’aide d’une pince. La manipulation étant trop petite pour charger quoi que ce soit, le Macbook est réparé pour zéro dollars.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/o2_SZ4tfLns?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;La suite n’a pas été facile pour Rossmann, qui anime aussi une chaîne YouTube sur la réparation. Quelques jours après sa participation dans l’enquête CBC, la douane américaine - en liaison avec Apple - lui a &lt;a href=&quot;https://www.iphoneincanada.ca/news/nyc-repair-tech-apple-customs-seize-batteries/&quot;&gt;confisqué un colis contenant des batteries originales MacBook&lt;/a&gt;. Rossmann n’est pas un inconnu des services légaux Apple, &lt;a href=&quot;https://www.ifixit.com/News/8210/rossmann-repair-legal-threat&quot;&gt;qui l’avaient déjà menacé auparavant&lt;/a&gt; suite aux vidéos où il explique comment réparer des produits électroniques. D’autres micro-entrepreneurs, tels que &lt;a href=&quot;https://www.vice.com/en_us/article/evk4wk/dhs-seizes-iphone-screens-jessa-jones&quot;&gt;Jessa Jones&lt;/a&gt; et &lt;a href=&quot;https://www.fudzilla.com/news/48835-apple-continues-repair-witchhunt&quot;&gt;Henrik Huseby&lt;/a&gt;, ont aussi eu affaire à Cupertino, principalement au sujet des pièces utilisées pour les réparations.&lt;/p&gt;
+
+&lt;h3 id=&quot;des-réparateurs-indépendants-certifiés-par-apple-&quot;&gt;Des réparateurs indépendants certifiés par Apple ?&lt;/h3&gt;
+
+&lt;p&gt;Sous la pression du mouvement pour le droit à la réparation, Apple a annoncé en 2019 un &lt;a href=&quot;https://support.apple.com/irp-program&quot;&gt;programme de certification&lt;/a&gt; pour les réparateurs indépendants. Ceux qui participent auraient aussi l’opportunité d’acheter des pièces détachées officielles. Ce programme a néanmoins connu une opposition considérable à cause du &lt;a href=&quot;https://www.vice.com/en_us/article/qjdjnv/apples-independent-repair-program-is-invasive-to-shops-and-their-customers-contract-shows&quot;&gt;contrat à signer&lt;/a&gt; par les entreprises voulant se certifier : Apple les oblige à partager toutes les informations de leurs clients avec eux, impose des audits surprises même cinq ans après une éventuelle sortie du programme, établi des amendes excessives en cas de désobéissance, et demande aux clients de signer un document déclarant que la réparation ne sera pas reconnue par Apple. Il va sans dire que ce n’est pas la joie dans la communauté des réparateurs.&lt;/p&gt;
+
+&lt;h2 id=&quot;le-changement-est-possible-mais-comment-&quot;&gt;Le changement est possible, mais comment ?&lt;/h2&gt;
+
+&lt;h6 id=&quot;diffusion&quot;&gt;Diffusion&lt;/h6&gt;
+
+&lt;p&gt;La stratégie marketing d’Apple est très sensible à l’opinion publique. Apple tente de se positionner comme une marque branchée, créative, jeune et dans l’air du temps. Relayer des articles concernant leurs pratiques anti-réparation et leurs répercussions environnementales peut aider. Ce ne serait pas la première fois : la campagne “&lt;a href=&quot;https://wayback.archive-it.org/9650/20191124022806/http://p3-raw.greenpeace.org/international/en/news/features/greening-of-apple-310507/&quot;&gt;Green my Apple&lt;/a&gt;” de Greenpeace a provoqué un virage vers des pratiques plus vertes à Cupertino, et la lettre ouverte de JANA concernant &lt;a href=&quot;https://www.wsj.com/articles/iphones-and-children-are-a-toxic-pair-say-two-big-apple-investors-1515358834&quot;&gt;l’addiction aux smartphones&lt;/a&gt; a abouti dans l’implémentation de la fonctionnalité “Screen Time” sur iOS.&lt;/p&gt;
+
+&lt;h6 id=&quot;achat-du-matériel-reconditionné&quot;&gt;Achat du matériel reconditionné&lt;/h6&gt;
+
+&lt;p&gt;Les alternatives existent aussi pour ceux qui ont besoin des produits Apple. Des sites comme &lt;a href=&quot;https://www.backmarket.fr/&quot;&gt;BackMarket&lt;/a&gt;, &lt;a href=&quot;https://smaaart.fr/&quot;&gt;Smaart&lt;/a&gt;, &lt;a href=&quot;https://www.rebuy.fr/&quot;&gt;Rebuy&lt;/a&gt; et &lt;a href=&quot;https://www.recommerce.com/fr/&quot;&gt;Recommerce&lt;/a&gt; permettent d’acheter des iPhones, iPads et Macs reconditionnés tout en garantissant leur qualité.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/reconditionne.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;Reconditionnement des iPhones. Photo de Charly Triballeau-AFP&lt;/small&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;réparation-de-lexistant&quot;&gt;Réparation de l’existant&lt;/h6&gt;
+
+&lt;p&gt;Suite à la réticence des services officiels de réparation Apple et aux contraintes auxquelles les boutiques agrées sont soumises, il est toujours utile de regarder du côté des réparateurs indépendants non-agrées. Des magasins comme &lt;a href=&quot;https://specialmac.fr/&quot;&gt;MacBoutic&lt;/a&gt; à Lyon, &lt;a href=&quot;https://www.macinfo.fr/&quot;&gt;MacInfo&lt;/a&gt; à Paris ou &lt;a href=&quot;https://www.atelierexpress.com/&quot;&gt;Atelier Express&lt;/a&gt; à Marseille offrent des services à un prix raisonnable qui permettent d’allonger la durée de vie de votre appareil.&lt;/p&gt;
+
+&lt;h6 id=&quot;soutien-aux-associations&quot;&gt;Soutien aux associations&lt;/h6&gt;
+
+&lt;p&gt;L’association HOP (Halte à l’obsolescence programmée) mène plusieurs actions en faveur des consommateurs et contre des pratiques anti-réparation. En 2017 ils ont &lt;a href=&quot;https://www.halteobsolescence.org/hop-porte-plainte-contre-apple-obsolescence-programmee/&quot;&gt;porté plainte contre Apple&lt;/a&gt; suite aux révélations des techniques visant à ralentir les iPhones. L’association a plaidé pour la réversibilité des mises à jour ainsi que l’amovibilité des batteries lors d’une audition par le Sénat en 2017. Pour faire un don &lt;a href=&quot;https://www.halteobsolescence.org/faire-un-don/&quot;&gt;c’est par ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hop.jpg&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;&lt;a href=&quot;https://www.halteobsolescence.org/&quot;&gt;HOP - Halte à l’obsolescence programmée&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;quitter-apple&quot;&gt;Quitter Apple&lt;/h6&gt;
+
+&lt;p&gt;Il existe aussi des alternatives aux iPhones qui affichent une bien meilleure réparabilité. &lt;a href=&quot;https://www.fairphone.com/fr/&quot;&gt;Fairphone&lt;/a&gt; est une entreprise sociale basée aux Pays-Bas qui fabrique des smartphones éthiques et modulaires basés sur Android. Le Faiphone est le seul téléphone à avoir obtenu l’indice maximal de réparabilité : 10/10 sur la plateforme iFixIt. Les matériaux utilisés sont recyclés et équitables (l’or est même certifié FairTrade).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/fairphone.jpg&quot; style=&quot;max-height: 350px; width: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Côté ordinateurs, abandonner OS X pour un système d’exploitation performant, respectueux de la vie privée et réparable est aussi possible. Linux a longtemps désintéressé les moins technophiles à cause de sa technicité perçue comme trop élevée. Néanmoins, dans les dernieres années plusieurs distributions (par ex, &lt;a href=&quot;https://elementary.io/&quot;&gt;Elementary OS&lt;/a&gt;, &lt;a href=&quot;https://ubuntu.com/desktop/features&quot;&gt;Ubuntu&lt;/a&gt; ou &lt;a href=&quot;https://getfedora.org/&quot;&gt;Fedora&lt;/a&gt;) ont fait des avancées en matière d’ergonomie et design et se positionnent aujourd’hui comme des alternatives aux systèmes commerciales. De plus, OS X et Windows ont subi plusieurs critiques suite au traitement des données personnelles et au faible support d’ancien matériel, ce qui pousse de plus en plus de consommateurs vers des distributions Linux.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/elementary.jpg&quot; style=&quot;max-height: 350px; width: auto;&quot; /&gt;
+&lt;small class=&quot;caption&quot;&gt;&lt;a href=&quot;https://elementary.io/&quot;&gt;Elementary OS&lt;/a&gt;, une distribution Linux.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;think-different&quot;&gt;&lt;em&gt;Think Different&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;En 1997 Apple a présenté sa campagne publicitaire “Think Different”, &lt;em&gt;Pensez Différent&lt;/em&gt; en français - faute grammaticale assumée. Le slogan a été utilisé dans un &lt;a href=&quot;https://www.youtube.com/watch?v=sz9_mwgkvAQ&quot;&gt;spot publicitaire&lt;/a&gt; ou Steve Jobs récite “Here’s to the crazy ones” de Bob Siltanen avec des images des personnalités célèbres tels qu’Albert Einstein, John Lennon et Martin Luther King. Apple se voulait être un des rebelles et désadaptés qui changent le monde.&lt;/p&gt;
+
+&lt;p&gt;En 2020, face à la crise climatique et l’irresponsabilité d’Apple, il est temps - plus que jamais - de penser &lt;em&gt;différemment&lt;/em&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Société" />
+      
+        <category term="Environnement" />
+      
+
+      
+        <summary type="html">La réparation - perçue comme un obstacle au profit par Apple - présente des nombreuses avantages au niveau individuel, sociétal et écologique. Le changement est possible, mais comment ?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
