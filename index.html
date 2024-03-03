@@ -10,6 +10,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Quicksand:bold,semibold|Figtree:regular,medium,semibold"
     />
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <style>
       body {
         font-family: "Figtree", sans-serif;
@@ -20,9 +21,11 @@
         font-family: "Quicksand", sans-serif;
         font-weight: bold;
       }
+      a {
+        text-decoration: underline !important;
+        color: #116785 !important;
+      }
     </style>
-
-    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <script>
       tailwind.config = {
         theme: {
@@ -42,7 +45,7 @@
   </head>
   <body>
     <div
-      class="h-40 sm:h-52 lg:h-80 xl:h-96 bg-[url('/assets/images/rlt-background.jpg')] bg-cover bg-no-repeat bg-center"
+      class="h-40 sm:h-52 lg:h-72 xl:h-80 bg-[url('/assets/images/rlt-background.jpg')] bg-cover bg-no-repeat bg-center"
     ></div>
     <div>
       <img
@@ -54,7 +57,7 @@
       <h1 class="font-bold text-2xl sm:text-3xl text-center text-rltblue">
         Ruota Libera Tutti
       </h1>
-      <p class="mt-6 sm:mt-10">
+      <p class="mt-4 sm:mt-6">
         Ruota Libera Tutti è un Progetto Sociale di inclusione e promozione del
         benessere attraverso la bicicletta. Abbiamo iniziato nel 2022 uniti
         dalla passione per la bicicletta e dalla intenzione di renderla per
@@ -62,15 +65,15 @@
       </p>
       <div class="grid grid-cols-3 gap-4 sm:gap-6 mt-10">
         <div
-          class="col-span-3 sm:col-span-1 rounded-md overflow-hidden border-slate-200 border"
+          class="col-span-3 sm:col-span-1 rounded-md overflow-hidden border-slate-200 border flex flex-col"
         >
           <div class="bg-gradient-to-r from-rltblue to-rltpurple h-4"></div>
           <img
             src="/assets/images/meetup.png"
-            alt="Meetup"
+            alt="meetup"
             class="mx-auto my-4"
           />
-          <p class="text-center px-2">
+          <p class="text-center px-2 grow">
             Sul nostro Meetup troverai l'informazione sugli nostri eventi
           </p>
           <a href="https://www.meetup.com/ruota-libera-tutti/">
@@ -83,15 +86,15 @@
         </div>
 
         <div
-          class="col-span-3 sm:col-span-1 rounded-md overflow-hidden border-slate-200 border"
+          class="col-span-3 sm:col-span-1 rounded-md overflow-hidden border-slate-200 border flex flex-col"
         >
           <div class="bg-gradient-to-r from-rltpurple to-rltcyan h-4"></div>
           <img
             src="/assets/images/instagram.png"
-            alt="Meetup"
+            alt="instagram"
             class="mx-auto my-4"
           />
-          <p class="text-center px-2">
+          <p class="text-center px-2 grow">
             Seguici su Instagram per rimanere aggiornato sul nostro progetto
           </p>
           <a href="https://www.instagram.com/ruotaliberatutti/">
@@ -104,15 +107,15 @@
         </div>
 
         <div
-          class="col-span-3 sm:col-span-1 rounded-md overflow-hidden border-slate-200 border"
+          class="col-span-3 sm:col-span-1 rounded-md overflow-hidden border-slate-200 border flex flex-col"
         >
           <div class="bg-gradient-to-r from-rltcyan to-rltblue h-4"></div>
           <img
             src="/assets/images/whatsapp.png"
-            alt="Meetup"
+            alt="whatsapp"
             class="mx-auto my-4"
           />
-          <p class="text-center px-2">
+          <p class="text-center px-2 grow">
             Iscriviti al nostro canale Whatsapp per ricevere tutte le notizie in
             tempo reale
           </p>
@@ -125,17 +128,113 @@
           </a>
         </div>
       </div>
+      <h2 class="text-center text-2xl font-bold mt-10 mb-8" id="faq">FAQ</h2>
+      <h3 class="text-xl mt-6 mb-4">
+        Come posso restare aggiornatə sulle attività di Ruota Libera Tutti?
+      </h3>
+      <p>
+        Puoi seguirci sul notro gruppo
+        <a
+          href="https://chat.whatsapp.com/L0AhkPWrf7PKQyTK6Fuf16"
+          rel="noopener"
+          >Whatsapp</a
+        >, <a href="https://t.me/+AL4jH8qfp3djYjU0" rel="noopener">Telegram</a>,
+        o sui canali social
+        <a href="https://www.instagram.com/ruotaliberatutti/" rel="noopener"
+          >Instagram</a
+        >, e
+        <a href="https://www.meetup.com/ruota-libera-tutti/" rel="noopener"
+          >Meetup</a
+        >
+        per rimanere aggiornato su tutti gli eventi, le iniziative e le novità
+        di Ruota Libera Tutti.
+      </p>
+      <h3 class="text-xl mt-6 mb-4">
+        Chi può partecipare alle attività di Ruota Libera Tutti?
+      </h3>
+      <p>
+        Tuttə sono i benvenutə! Le nostre attività sono aperte a ciclistə di
+        ogni genere, etnia, età e livello di abilità. Vogliamo creare una
+        comunità accogliente e inclusiva per tuttə gli amanti delle due ruote.
+      </p>
+
+      <h3 class="text-xl mt-6 mb-4">
+        Devo iscrivermi per partecipare agli eventi di Ruota Libera Tutti?
+      </h3>
+      <p>
+        Non c'è bisogno né di tesseramento né di abbonamento per unirti a noi e
+        partecipare agli eventi di Ruota Libera Tutti. Invece, serve confermare
+        la tua partecipazione sul nostro
+        <a href="https://www.meetup.com/ruota-libera-tutti/" rel="noopener"
+          >Meetup</a
+        >. Questo ci aiuta a capire quante persone vengono. Sul
+        <a href="https://www.meetup.com/ruota-libera-tutti/" rel="noopener"
+          >Meetup</a
+        >
+        potete anche vedere le foto degli eventi, aggiungere un rating, e
+        contattare le altre persone della comunità.
+      </p>
+
+      <h3 class="text-xl mt-6 mb-4">
+        Gli eventi di Ruota Libera Tutti sono gratuiti?
+      </h3>
+      <p>
+        Gli eventi di Ruota Libera Tutti sono a contributo libero. Non chiediamo
+        nessuna quota fissa per partecipare. Se hai piacere di farlo, è
+        possibile fare una contribuzione libera al progetto in contanti o
+        tramite il nostro account
+        <a href="https://www.paypal.com/pools/c/9233dawi1R">Paypal</a>. Ogni
+        contributo serve per portare queste esperienze inclusive in bici a più
+        persone.
+      </p>
+      <h3 class="text-xl mt-6 mb-4">
+        Vorrei partecipare come volontario con Ruota Libera Tutti, come fare?
+      </h3>
+      <p>
+        Per diventare volontario con Ruota Libera Tutti, basta contattarci
+        direttamente qui
+        <a href="mailto:ruotaliberatutti@gmail.com"
+          >ruotaliberatutti@gmail.com</a
+        >! Accettiamo qualsiasi tipo di aiuto, che sia durante i nostri giri in
+        bici per controllare la fila, garantire la sicurezza dei partecipanti o
+        per gli incontri di ritrovo senza bici dove condividiamo questa passione
+        e organizziamo eventi. Siamo sempre alla ricerca di persone appassionate
+        e desiderose di contribuire alla nostra missione di promuovere il
+        ciclismo inclusivo e sostenibile. Non esitare a contattarci per maggiori
+        informazioni!
+      </p>
+
+      <h3 class="text-xl mt-6 mb-4">
+        Bisogna avere una bicicletta specifica per partecipare ai giri di Ruota
+        Libera Tutti?
+      </h3>
+      <p>
+        Per partecipare ai giri di Ruota Libera Tutti non è necessario avere una
+        bicicletta specifica. Va bene qualsiasi tipo di bicicletta, anche quella
+        che usi in città, vecchia, l'importante è che la bicicletta sia in buone
+        condizioni meccaniche.
+      </p>
+      <h3 class="text-xl mt-6 mb-4">Come posso contattarvi?</h3>
+      <p>
+        Puoi contattarci direttamente inviando un messaggio privato su
+        <a href="https://www.instagram.com/ruotaliberatutti/" rel="noopener"
+          >Instagram</a
+        >
+        oppure inviando una mail a
+        <a href="mailto:ruotaliberatutti@gmail.com"
+          >ruotaliberatutti@gmail.com</a
+        >. Siamo qui per rispondere alle tue domande e accogliere i tuoi
+        feedback!
+      </p>
     </div>
+
     <div>
       <!-- Previous/next page links - displayed on every page -->
 
       <!-- The footer at the very bottom of the screen -->
-      <footer
-        class="fixed bottom-0 h-16 bg-gradient-to-r from-rltblue to-rltpurple w-full"
-      >
+      <footer class="h-16 bg-gradient-to-r from-rltblue to-rltpurple w-full">
         <div class="text-slate-100 mt-4 ml-4 font-medium">
-          <a href="http://ruota-libera-tutti.github.io/">Ruota Libera Tutti</a>
-          &copy; 2024
+          Ruota Libera Tutti &copy; 2024
         </div>
       </footer>
     </div>
