@@ -1,0 +1,43 @@
+{% assign cover = site.cover %}
+{% if page.image %}
+  {% assign cover = page.image %}
+{% endif %}
+<header class="site-header large-header"{% if cover %} style="background-image: url({{ cover | relative_url }})"{% endif %}>
+  <div class="site-header-shield">
+    <div class="outer">
+      <div class="inner">
+        <div class="site-header-content">
+            <div>
+                <img
+                  src="/assets/images/rlt-logo-purple.jpg"
+                  style="width: 100px; height: 100px; border-radius: 50%; border: solid 3px white;"
+                />
+              </div>
+          <h2 class="site-title" style="font-family: 'Quicksand', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </h2>
+          {% if site.tagline %}
+            <h5 class="site-tagline">{{ site.tagline }}</h5>
+          {% endif %}
+        </div>
+        {% if site.data.navigation %}
+          <nav class="nav">
+            {% for item in site.data.navigation %}
+              <a class="nav-item {% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">
+                {{ item.title }}
+              </a>
+            {% endfor %}
+
+            <span class="social" style="font-size: 1.5em; border-left: solid 1px white; padding-left: 20px;">
+                {% for social in site.data.social %}
+                  <a href="{{ social.url }}" target="_blank">
+                    <i class="{{ social.icon | default: 'fas fa-link' }}" title="{{ social.title }}"></i>
+                  </a>
+                {% endfor %}
+              </span>
+          </nav>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</header>

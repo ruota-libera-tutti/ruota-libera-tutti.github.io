@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Settimana Europea per la mobilità sostenibile"
+date: 2024-09-22 18:30:00 +0200
+categories: altri-eventi
+excerpt: "Saremo al Mobility Village gestito dalla città metropolitana di Bologna. Veniteci a trovare!"
+cover: assets/images/events/sem_2024.png
+lang: it
+---
+
+Maggiori informazioni in arrivo a breve

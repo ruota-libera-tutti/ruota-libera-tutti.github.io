@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Dalla A alla B: GPS e tracce con Komoot"
+date: 2024-11-21 18:30:00 +0200
+categories: social-meeting
+excerpt: "Impariamo a usare il GPS e a preparare le tracce su Komoot per adattarle alle proprie necessità"
+cover: assets/images/events/komoot.jpg
+lang: it
+---
+
+Maggiori informazioni in arrivo a breve

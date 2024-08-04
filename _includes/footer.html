@@ -1,0 +1,22 @@
+<footer class="footer outer">
+    <div class="inner">
+        {% if site.description %}
+        <p >
+          {{ site.description }}
+        </p>
+        {% endif %}
+      <div class="footer-bottom">
+        {% if site.data.social %}
+          <div class="social">
+            {% for social in site.data.social %}
+              <a href="{{ social.url }}" target="_blank">
+                <i class="{{ social.icon | default: 'fas fa-link' }}" title="{{ social.title }}"></i>
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+  
+        
+      </div>
+    </div>
+  </footer>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Big guest talk"
+date: 2024-10-24 18:30:00 +0200
+categories: social-meeting
+excerpt: "Ciclo-interventi di espertǝ nel viaggiare in bici, ogni giorno e anche nel tempo libero"
+cover: assets/images/events/big-guest.jpg
+lang: it
+---
+
+Maggiori informazioni in arrivo a breve

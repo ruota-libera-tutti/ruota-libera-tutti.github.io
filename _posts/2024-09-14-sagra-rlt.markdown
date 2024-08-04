@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Sagra Ruota Libera Tutti"
+date: 2024-09-14 18:30:00 +0200
+categories: social-meeting
+excerpt: "Ritrovo post-estivo con talks e presentazione del programma autunno-inverno con immancabili birrette"
+cover: assets/images/events/sagra-rlt.jpeg
+lang: it
+---
+
+Maggiori informazioni in arrivo a breve

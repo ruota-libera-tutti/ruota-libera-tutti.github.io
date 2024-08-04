@@ -1,0 +1,74 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Ruota Libera Tutti
+tagline: Progetto Sociale di inclusione e promozione del benessere attraverso la bicicletta.
+email: ruotaliberatutti@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Ruota Libera Tutti è un Progetto Sociale di inclusione e promozione del benessere attraverso la bicicletta. 
+  Abbiamo iniziato nel 2022 uniti dalla passione per la bicicletta e dalla intenzione di renderla per tutte e tutti.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ruota-libera-tutti.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ruota-libera-tutti
+permalink: /:categories/:year/:month/:day/:title
+
+future: true
+
+categories_path: /categories/
+tags_path: /tags/
+lang: it
+
+markdown: kramdown
+highlighter: rouge
+# paginate: 20 # it will paginate after this number
+language: "it-it"
+words_per_minute: 200
+
+cover: assets/images/rlt-background.jpg
+
+# Build settings (maybe try Quartz)
+theme: jekyll-theme-quartz
+plugins:
+  - jekyll-feed
+  # - jekyll-paginate
+
+collections:
+  eventi-passati:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
