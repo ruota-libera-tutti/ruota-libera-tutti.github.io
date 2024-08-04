@@ -44,7 +44,7 @@ words_per_minute: 200
 cover: assets/images/rlt-background.jpg
 
 # Build settings (maybe try Quartz)
-theme: jekyll-theme-quartz
+# theme: jekyll-theme-quartz
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
