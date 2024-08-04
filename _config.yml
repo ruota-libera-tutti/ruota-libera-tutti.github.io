@@ -47,7 +47,10 @@ cover: assets/images/rlt-background.jpg
 theme: jekyll-theme-quartz
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   # - jekyll-paginate
+
+remote_theme: vfvong/jekyll-theme-quartz
 
 collections:
   eventi-passati:
