@@ -2,9 +2,9 @@
 layout: page
 title: Tesseramento
 ---
-Ruota Libera Tutti è da poco un'Associazione vera ee propria! 🚀 🚲
+Ruota Libera Tutti è da poco un'Associazione vera e propria! 🚀 🚲
 
-In aprile siamo diventate\i un'Associazione Sportiva Dilettantistica che si occupa di organizzare attività in bicicletta e promuoverne l'utilizzo facendone uno strumento per contrastare ogni tipo di disuguaglianza e favorendo l'inclusione sociale ([statuto de l'associazione](https://ruota-libera-tutti.github.io/assets/files/RLT-STATUTO_light.pdf)). Ci prendiamo cura di specifici attività all'aria aperta nei dintorni di Bologna e non solo e di progetti orientati all'accrescimento dell'autonomia personale, della pratica dello sport come opportunità di creazione di comunità e di fruizione consapevole, responsabile e sostenibile degli ambienti naturali, per adulti e bambini.
+In aprile siamo diventate\i un'Associazione Sportiva Dilettantistica che si occupa di organizzare attività in bicicletta e promuoverne l'utilizzo facendone uno strumento per contrastare ogni tipo di disuguaglianza e favorendo l'inclusione sociale ([statuto dell'associazione](https://ruota-libera-tutti.github.io/assets/files/RLT-STATUTO_light.pdf)). Ci prendiamo cura di specifici attività all'aria aperta nei dintorni di Bologna e non solo e di progetti orientati all'accrescimento dell'autonomia personale, della pratica dello sport come opportunità di creazione di comunità e di fruizione consapevole, responsabile e sostenibile degli ambienti naturali, per adulti e bambini.
 ✅ Come diventare socia o socio? E’ semplice!
 
 Basta compilare la [richiesta di ammissione](https://docs.google.com/document/d/1sr9tIRefqNVpkmCIrwqESdFHUEhFs748/edit?usp=sharing&ouid=104347559876622676380&rtpof=true&sd=true) come socia\o ed inviarcela firmata alla mail [ruotaliberatutti@gmail.com](https://ruota-libera-tutti.github.io/ruotaliberatutti@gmail.com), allegando anche un certificato di buona salute.
