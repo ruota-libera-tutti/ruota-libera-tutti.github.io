@@ -4,7 +4,7 @@ title: "Bike and yoga"
 date: 2024-03-23 18:30:00 +0200
 categories: social-ride
 excerpt: "Combinazione unica tra bicicletta yoga. Pratica dopo il giro in bici al Dumbo"
-cover: assets/images/events/bike-and-yoga.jpg
+cover: assets/images/events/bike-and-yoga.webp
 lang: it
 ---
 
