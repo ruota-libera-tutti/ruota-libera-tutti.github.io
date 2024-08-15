@@ -19,7 +19,7 @@ lang: it
 
 Unisciti a noi per una giornata all'insegna della bicicletta e della convivialità! Pedaleremo insieme tra i vigneti modenesi per raggiungere la Sagra del Lambrusco a Castelvetro, un evento tradizionale del nostro territorio ricco di sapori e allegria. 
 
-L'itinerario è semplice e adatto a tutti, ideale per una rilassante escursione in bicicletta. Siamo alla seconda edizione e vi possiamo garantire che l’anno scorso ci siamo divertiti tantissimo! 🌿
+L'itinerario è semplice e adatto a tuttə, ideale per una rilassante escursione in bicicletta. Siamo alla seconda edizione e ti possiamo garantire che l’anno scorso ci siamo divertiti tantissimo! 🌿
 
 ---
 
@@ -43,9 +43,8 @@ Per iscriversi, è necessario compilare il **[form di richiesta di partecipazion
 
 ❗️ L'evento è riservato ai soci dell'associazione Ruota Libera Tutti, con un contributo di 5€ a persona. 
 
-Non sei ancora socia/o? [clicca qui](/tesseramento) per effettuare il tesseramento e unirti a noi!
- 
-Inoltre, per questo evento, abbiamo deciso di rendere gratuita la partecipazione, essendo alla fine dell'anno. Dovrai solo coprire i costi di tesseramento. La conferma dell'iscrizione avverrà solo al ricevimento della nostra email di conferma. 
+Non sei ancora socia/o? [Clicca qui](/tesseramento) per effettuare il tesseramento e unirti a noi! 
+Per questo evento, abbiamo deciso di rendere gratuita la partecipazione ai nuovi soci, essendo alla fine dell'anno. Dovrai quindi solo coprire i costi di tesseramento. L'iscrizione sarà confermata solo dopo che avrai ricevuto la nostra email di conferma.
 
 🚆 Ogni partecipante è responsabile dell'acquisto dei biglietti del treno per sé e per la propria bicicletta. 
 Se è la tua prima volta con la bici in treno, non preoccuparti: siamo qui per aiutarti! Per i treni che prenderemo, basta acquistare il biglietto giornaliero per la bicicletta, che costa 3,50 euro e vale sia per l'andata che per il ritorno.
