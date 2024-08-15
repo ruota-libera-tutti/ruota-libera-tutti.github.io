@@ -9,7 +9,7 @@ lang: it
 ---
 
 **📅 Data:** Sabato 21 settembre 2024  
-**📍 Ritrovo:** Stazione Centrale di Bologna 
+**📍 Ritrovo:** Stazione Centrale di Bologna
 **🚴‍♂️ Destinazione:** Sagra del Lambrusco a Castelvetro
 **🗺️ Distanza** : 27 km / 130m di dislivello
 
