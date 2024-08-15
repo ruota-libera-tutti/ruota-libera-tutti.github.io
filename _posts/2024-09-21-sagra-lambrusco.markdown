@@ -8,9 +8,12 @@ cover: assets/images/events/castelvetro.jpg
 lang: it
 ---
 
-**📅 Data:** Sabato 21 settembre 2024  
+**📅 Data:** Sabato 21 settembre 2024 
+
 **📍 Ritrovo:** Stazione Centrale di Bologna
+
 **🚴‍♂️ Destinazione:** Sagra del Lambrusco a Castelvetro
+
 **🗺️ Distanza** : 27 km / 130m di dislivello
 
 
@@ -36,7 +39,7 @@ Ci sarà la possibilità anche per chi preferisce rimanere in zona fino al giorn
 
 L'evento è riservato ai soci dell'associazione Ruota Libera Tutti, con un contributo di 5€ a persona. Se non sei ancora socio, [cliqua qui](/tesseramento) per effettuare il tesseramento e unirti a noi! In caso in cui tu non sia ancora socia/o, siccome siamo alla fine dell’anno, abbiamo deciso di rendere gratuita la partecipazione all’evento, quindi dovrai sostenere solo i costi di tesseramento.
 
-Per iscriversi, è necessario compilare il **form di richiesta di partecipazione**. La conferma dell'iscrizione avverrà solo al ricevimento della nostra email di conferma. Ti aspettiamo per condividere una giornata indimenticabile all'insegna del divertimento e della scoperta! 
+Per iscriversi, è necessario compilare il **[form di richiesta di partecipazione](https://docs.google.com/forms/d/e/1FAIpQLSdrHPtHaF5XWy1owVzfo1jsOghzJskRgPgdXRd-bvvrQaL29A/viewform?usp=sf_link)**. La conferma dell'iscrizione avverrà solo al ricevimento della nostra email di conferma. Ti aspettiamo per condividere una giornata indimenticabile all'insegna del divertimento e della scoperta! 
 
 Ti ricordiamo che ogni partecipante è responsabile per l’acquisto dei biglietti del treno, per la persona e per la bicicletta. Nel caso in cui sia la prima volta che carichi la bici in treno, non ti preoccupare, siamo qui proprio per favorire le prime volte! Sui treni che prenderemo, è sufficiente che acquisti il biglietto giornaliero per la bicicletta che costa 3.50 euro e che vale sia per l’andata sia per il ritorno.
 
