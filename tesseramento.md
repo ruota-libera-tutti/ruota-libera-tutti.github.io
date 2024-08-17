@@ -14,12 +14,7 @@ Basta seguire questi pochi passi:
    - Allega un certificato di buona salute.
   
 2. Pagamento della Quota Associativa
-   - Effettua il pagamento della **quota associativa di 8 euro** tramite Bonifico:
-IBAN: IT20N0707236591000000743750
-Da intestare a: *Ruota Libera Tutti Asd*
-Causale: *Quota associativa 2024 nome cognome*
-
-Altri metodi: [Paypal](http://paypal.me/RLTASD), Satispay.
+   - Effettua il pagamento della **quota associativa di 8 euro** tramite bonifico (IBAN: IT20N0707236591000000743750; da intestare a: *Ruota Libera Tutti Asd*; causale: *Quota associativa 2024 tuo nome tuo cognome*). Altri metodi: [Paypal](http://paypal.me/RLTASD), Satispay.
 
 3. Ricevi la Tessera
    - Dopo aver inviato tutta la documentazione necessaria e aver effettuato il pagamento, riceverai la nostra mail di conferma e ti daremo la tua tessera di persona.
