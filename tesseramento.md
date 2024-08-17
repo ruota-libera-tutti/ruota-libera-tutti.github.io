@@ -30,8 +30,10 @@ Solo i soci possono partecipare ai social ride (uscite in bicicletta) e ai socia
 Il tesseramento è valido fino al 31.12.2024.
 È necessario tesserarsi almeno un giorno prima dell’evento.
 
-- **Convenzioni AICS**
+- **Convenzioni AICS** :
 Come sociə, potrai usufruire delle convenzioni dell'Ente Sportivo AICS. Scopri le convenzioni qui: [https://www.aics.it/convenzioni/](https://www.aics.it/convenzioni/).
 
 ## **Contattaci**
 Per qualsiasi dubbio o domanda, unisciti al nostro [gruppo Whatsapp](https://chat.whatsapp.com/L0AhkPWrf7PKQyTK6Fuf16) o scrivici a [ruotaliberatutti@gmail.com](https://ruota-libera-tutti.github.io/ruotaliberatutti@gmail.com). Siamo qui per aiutarti!
+
+
