@@ -4,7 +4,6 @@ title: Tesseramento
 ---
 # **Diventa Sociə di Ruota Libera Tutti! 🚀 🚲**
 Unisciti a noi per promuovere l'uso della bicicletta e costruire insieme una comunità più inclusiva e sostenibile!
-Ruota Libera Tutti è da poco un'Associazione vera e propria!
 
 ## **✅ Come Associarsi**
 
