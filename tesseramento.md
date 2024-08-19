@@ -11,7 +11,7 @@ Basta seguire questi pochi passi:
 1. Compila la Richiesta
    - Scarica e compila la [richiesta di ammissione](https://docs.google.com/document/d/1sr9tIRefqNVpkmCIrwqESdFHUEhFs748/edit?usp=sharing&ouid=104347559876622676380&rtpof=true&sd=true).
    - Invia la richiesta firmata a [ruotaliberatutti@gmail.com](https://ruota-libera-tutti.github.io/ruotaliberatutti@gmail.com).
-   - Allega un certificato di buona salute.
+   - Allega un certificato medico agonistico, non agonistico o di buona salute valido.
   
 2. Pagamento della Quota Associativa
    - Effettua il pagamento della **quota associativa di 8 euro** tramite bonifico (IBAN: IT20N0707236591000000743750; da intestare a: *Ruota Libera Tutti Asd*; causale: *Quota associativa 2024 tuo nome tuo cognome*).
