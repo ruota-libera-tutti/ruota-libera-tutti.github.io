@@ -25,7 +25,7 @@ L'itinerario è semplice e adatto a tuttə, ideale per una rilassante escursione
 
 ### **Come partecipare**
 
-Per iscriversi, è necessario compilare il **[form di richiesta di partecipazione](https://docs.google.com/forms/d/e/1FAIpQLSdrHPtHaF5XWy1owVzfo1jsOghzJskRgPgdXRd-bvvrQaL29A/viewform?usp=sf_link)**. 
+Per iscriverti, **[compila questo form](https://docs.google.com/forms/d/e/1FAIpQLSdrHPtHaF5XWy1owVzfo1jsOghzJskRgPgdXRd-bvvrQaL29A/viewform?usp=sf_link)**. 
 
 ❗️ L'evento è riservato ai soci dell'associazione Ruota Libera Tutti, con un contributo di 5€ a persona. 
 
