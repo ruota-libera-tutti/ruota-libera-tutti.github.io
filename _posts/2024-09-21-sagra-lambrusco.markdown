@@ -44,8 +44,9 @@ Se è la tua prima volta con la bici in treno, non preoccuparti: siamo qui per a
 **12:15** - Inizio della pedalata da Savignano Mulino, su facili percorsi gravel immersi nei vigneti modenesi
 **13:30** - Pranzo al sacco (ricordatevi di portarlo da casa!) 🍴  
 **16:00** - Arrivo a Castelvetro e partecipazione alla Sagra del Lambrusco 🍷  
-**20:01** - Rientro in bici da Castelvetro a Vignola. Con treno da Vignola a Bologna
-**21:37** - Arrivo a Bologna centrale.
+**20:00** - Rientro in bici da Castelvetro a Vignola. 
+**21:37** - Treno da Vignola a Bologna
+**22:33** - Arrivo a Bologna centrale.
 
 Ci sarà anche la possibilità, per chi preferisce, di rimanere in zona fino al giorno successivo pernottando in tenda presso una parrocchia vicina. ⛺️ Vi terremo aggiornati nei nostri canali riguardo anche questa possibilità.
 
