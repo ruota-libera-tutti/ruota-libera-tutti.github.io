@@ -48,8 +48,6 @@ Se è la tua prima volta con la bici in treno, non preoccuparti: siamo qui per a
 **21:37** - Treno da Vignola a Bologna
 **22:33** - Arrivo a Bologna centrale.
 
-Ci sarà anche la possibilità, per chi preferisce, di rimanere in zona fino al giorno successivo pernottando in tenda presso una parrocchia vicina. ⛺️ Vi terremo aggiornati nei nostri canali riguardo anche questa possibilità.
-
 ---
 
 ### **Ti aspettiamo! 🌟**
