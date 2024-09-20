@@ -36,8 +36,7 @@ Pedaleremo insieme per scoprire nuovi angoli del nostro territorio e concluderem
 - **Rientro libero a Bologna** in treno o in bici, con treni ogni 20 minuti (22 minuti di percorrenza) 🚆🚲  
 - **20:00** - Concertino "Boom Live Show" per chi resta fino a sera 🎶
 
-—--
-
+---
 **Come partecipare**
 Per iscriverti, inviaci una mail, un messaggio su WhatsApp o Instagram, oppure [compila il form](https://forms.gle/8QPTkKRwqebubqe96). Insomma facci sapere se sarai dei nostri!
 Se invece ti sei già iscritta/o ma preferisci non partecipare, nessun problema: faccelo sapere e ti restituiremo la quota di partecipazione. 🤑
