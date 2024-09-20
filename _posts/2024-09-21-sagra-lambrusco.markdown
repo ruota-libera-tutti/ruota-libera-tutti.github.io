@@ -9,8 +9,11 @@ lang: it
 ---
 
 📅 **Data:** Sabato 21 settembre 2024
+
 📍 **Ritrovo:** Stazione Centrale di Bologna
+
 🚴‍♂️ **Destinazione:** Sagra dell'Autunno a San Giovanni in Persiceto
+
 🗺️ **Distanza:** 36 km / 0m di dislivello
 
 A causa delle condizioni meteorologiche, abbiamo deciso di modificare il programma del Social Ride previsto inizialmente per la Sagra del Vino di Castelvetro. La sicurezza e la vicinanza al nostro territorio vengono prima di tutto, ma non preoccuparti, ci sarà comunque da divertirsi e da pedalare!
@@ -33,10 +36,10 @@ Pedaleremo insieme per scoprire nuovi angoli del nostro territorio e concluderem
 - **Rientro libero a Bologna** in treno o in bici, con treni ogni 20 minuti (22 minuti di percorrenza) 🚆🚲  
 - **20:00** - Concertino "Boom Live Show" per chi resta fino a sera 🎶
 
-—
+—--
 
 **Come partecipare**
-Per iscriverti, inviaci una mail, un messaggio su WhatsApp o Instagram, oppure compila il solito form. Insomma facci sapere se sarai dei nostri!
+Per iscriverti, inviaci una mail, un messaggio su WhatsApp o Instagram, oppure [compila il form](https://forms.gle/8QPTkKRwqebubqe96). Insomma facci sapere se sarai dei nostri!
 Se invece ti sei già iscritta/o ma preferisci non partecipare, nessun problema: faccelo sapere e ti restituiremo la quota di partecipazione. 🤑
 
 ❗️ L’evento è riservato ai soci dell’associazione Ruota Libera Tutti, con un contributo di 5€ a persona.
