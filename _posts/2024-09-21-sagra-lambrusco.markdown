@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sagra dell'uva e del Lambrusco a Castelvetro"
+title: "Sagra dell'Autunno a San Giovanni in Persiceto"
 date: 2024-09-21 09:00:00 +0200
 categories: social-ride
-excerpt: "Pedalata facile immersa nei vigneti modenesi, da Bologna a Castelvetro"
+excerpt: "Pedalata facile sulla ciclovia del Sole, da Bologna a San Giovanni in Persiceto"
 cover: assets/images/events/castelvetro.jpg
 lang: it
 ---
