@@ -9,7 +9,9 @@ lang: it
 ---
 
 **📅 Data:** Domenica 10 Novembre 2024
+
 **🕖 Ritrovo:** 7:20 - Stazione Centrale di Bologna
+
 **📍 Destinazione:** Parco Naturale di San Bartolo
 
 Torna la nostra **biciclettata sociale al Parco Naturale di San Bartolo!** Dopo il successo dell'anno scorso, non vediamo l’ora di condividere con voi questo luogo speciale. Pedaleremo sulla Via Panoramica, chiusa al traffico la domenica, con vista mare e natura incontaminata: un vero paradiso per i ciclisti! 🚴‍♂️🌊
@@ -18,10 +20,15 @@ NB: I nostri ride sono lenti e accessibili a tutti, per godersi il percorso senz
 
 ## 🗓️ Programma della giornata:
 7:20 - Ritrovo in stazione direttamente sul treno 3905 (partenza 7:34) per Cattolica
+
 9:30 - Partenza in bici da Cattolica verso Pesaro
+
 11:30 - Arrivo a Pesaro e pausa caffè
+
 12:00 - Ripartenza per Fano lungo la ciclabile sul mare
+
 13:30 - Pranzo: piadina, birra e, per i coraggiosi, un tuffo! 🍻🌞
+
 Il ritorno è libero, ma l’idea è tornare insieme in treno da Fano. Consigliamo un po’ di relax in spiaggia prima del rientro! 🏖️
 
 ## 🚴‍♀️ Iscrizione e dettagli:
