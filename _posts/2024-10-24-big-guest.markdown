@@ -8,8 +8,6 @@ cover: assets/images/events/big-guest.jpg
 lang: it
 ---
 
-# Social Meeting | Infinite prospettive, una sola passione: la bici!
-
 Siamo tornati a Bologna con tantissima energia dopo un’estate di sagre, giretti in bicicletta nei dintorni e un memorabile viaggio in Puglia. Ora vi invitiamo al **primo social meeting dell’autunno**, una serata speciale dedicata a chi, come noi, vive la bicicletta non solo come mezzo di trasporto, ma come uno strumento di crescita, connessione e cambiamento.
 
 **📅 Quando**: Giovedì 24 ottobre 2024
