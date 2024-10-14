@@ -14,6 +14,8 @@ lang: it
 
 **📍 Destinazione:** Parco Naturale di San Bartolo
 
+**📝 Iscrizioni:** [Clicca qui per partecipare](https://forms.gle/EdyYU8KoFeMryVNY7)
+
 Torna la nostra **biciclettata sociale al Parco Naturale di San Bartolo!** Dopo il successo dell'anno scorso, non vediamo l’ora di condividere con voi questo luogo speciale. Pedaleremo sulla Via Panoramica, chiusa al traffico la domenica, con vista mare e natura incontaminata: un vero paradiso per i ciclisti! 🚴‍♂️🌊
 
 NB: I nostri ride sono lenti e accessibili a tutti, per godersi il percorso senza fretta.
@@ -34,7 +36,7 @@ Il ritorno è libero, ma l’idea è tornare insieme in treno da Fano. Consiglia
 ## 🚴‍♀️ Iscrizione e dettagli:
 L’evento è riservato ai soci RLT, con un contributo di 5€ a persona per sostenere l’associazione.
 Non sei ancora socio? Trovi tutte le [informazioni per tesserarti qui](https://ruota-libera-tutti.github.io/tesseramento).
-Per partecipare, è obbligatoria l'iscrizione tramite questo form.
+Per partecipare, è obbligatoria l'iscrizione tramite [questo form](https://forms.gle/EdyYU8KoFeMryVNY7).
 
 ## 👉 Note:
 È possibile partecipare con **qualsiasi tipo di bici** in buone condizioni (preferibilmente con cambio).
