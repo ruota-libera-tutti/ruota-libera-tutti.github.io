@@ -4,7 +4,7 @@ title: "Social Meeting | Dalla stessa sella le prospettive sono infinite!"
 date: 2024-10-24 18:30:00 +0200
 categories: social-meeting
 excerpt: "Ciclo-interventi di espertǝ nel viaggiare in bici, ogni giorno e anche nel tempo libero"
-cover: assets/images/events/rlt-social-meeting-dumbo.jpg
+cover: assets/images/events/big-guest.jpg
 lang: it
 ---
 
