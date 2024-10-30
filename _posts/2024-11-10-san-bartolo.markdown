@@ -14,6 +14,8 @@ lang: it
 
 **📍 Destinazione:** Parco Naturale di San Bartolo
 
+**🗺️ Percorso:** Corto 24km / Lungo 41km
+
 **📝 Iscrizioni:** [Clicca qui per partecipare](https://forms.gle/EdyYU8KoFeMryVNY7)
 
 Torna la nostra **biciclettata sociale al Parco Naturale di San Bartolo!** 
