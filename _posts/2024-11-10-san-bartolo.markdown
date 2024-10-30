@@ -16,9 +16,10 @@ lang: it
 
 **📝 Iscrizioni:** [Clicca qui per partecipare](https://forms.gle/EdyYU8KoFeMryVNY7)
 
-Torna la nostra **biciclettata sociale al Parco Naturale di San Bartolo!** Dopo il successo dell'anno scorso, non vediamo l’ora di condividere con voi questo luogo speciale. Pedaleremo sulla Via Panoramica, chiusa al traffico la domenica, con vista mare e natura incontaminata: un vero paradiso per i ciclisti! 🚴‍♂️🌊
+Torna la nostra **biciclettata sociale al Parco Naturale di San Bartolo!** 
+La strada che faremo percorre tutto il Parco Naturale di San Bartolo, da Pesaro a Cattolica. Ci sono viste spaziali sul Mare Adriatico (non sembra manco sembra la Riviera Romagnola ^^). Si arriva poi giù a Cattolica, dove la piadina avrà tutto un altro sapore.  In tutto questo, non ci sarà neanche un’auto perchè la domenica mattina la strada che facciamo è dedicata completamente ai ciclisti. 🚴‍♂️🌊
 
-NB: I nostri ride sono lenti e accessibili a tutti, per godersi il percorso senza fretta.
+NB: I nostri ride sono lenti e accessibili a tutti. Lo scopo delle nostre uscite è stare bene con noi stessi, con la bici e con gli altri. Non è mai una gara. L’unica gara che ammettiamo è di birre alla fine del giro. 
 
 ## 🗓️ Programma della giornata:
 7:20 - Ritrovo in stazione a Bologna Centrale direttamente sul treno 3905 (partenza 7:34) per Pesaro
@@ -33,7 +34,7 @@ NB: I nostri ride sono lenti e accessibili a tutti, per godersi il percorso senz
 
 13:30 - Arrivo a Cattolica, piadina e birretta alla prima piadineria aperta nelle vicinanze, in spiaggia🏖️, tra Cattolica e Riccione🍻🌞
 
-Il ritorno è libero, ma l’idea è tornare insieme in treno da Fano. Consigliamo un po’ di relax in spiaggia prima del rientro! 🏖️
+Il pomeriggio è liberi tutti: chi ha voglia continua a pedalare fino a Rimini, poi si rientra insieme a Bologna in treno entro ora di cena. Chi preferisce invece può rientrare direttamente in treno dalla fermata più vicina, subito dopo pranzo.
 
 ## 🚴‍♀️ Iscrizione e dettagli:
 L’evento è riservato ai soci RLT, con un contributo di 5€ a persona per sostenere l’associazione.
