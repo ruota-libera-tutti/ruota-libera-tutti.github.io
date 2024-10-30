@@ -21,15 +21,17 @@ Torna la nostra **biciclettata sociale al Parco Naturale di San Bartolo!** Dopo 
 NB: I nostri ride sono lenti e accessibili a tutti, per godersi il percorso senza fretta.
 
 ## 🗓️ Programma della giornata:
-7:20 - Ritrovo in stazione direttamente sul treno 3905 (partenza 7:34) per Cattolica
+7:20 - Ritrovo in stazione a Bologna Centrale direttamente sul treno 3905 (partenza 7:34) per Pesaro
 
-9:30 - Partenza in bici da Cattolica verso Pesaro
+9.29 - Arrivo a Pesaro
 
-11:30 - Arrivo a Pesaro e pausa caffè
+10.00 Partenza in bici da Pesaro verso Cattolica
 
-12:00 - Ripartenza per Fano lungo la ciclabile sul mare
+11.00 - Caffettino e visita al borgo di Fiorenzuola di Focara
 
-13:30 - Pranzo: piadina, birra e, per i coraggiosi, un tuffo! 🍻🌞
+11.30 - Ripartenza per Cattolica lungo la ciclabile sul mare
+
+13:30 - Arrivo a Cattolica, piadina e birretta alla prima piadineria aperta nelle vicinanze, in spiaggia🏖️, tra Cattolica e Riccione🍻🌞
 
 Il ritorno è libero, ma l’idea è tornare insieme in treno da Fano. Consigliamo un po’ di relax in spiaggia prima del rientro! 🏖️
 
