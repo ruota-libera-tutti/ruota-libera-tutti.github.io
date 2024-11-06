@@ -36,7 +36,12 @@ NB: I nostri ride sono lenti e accessibili a tutti. Lo scopo delle nostre uscite
 
 13:30 - Arrivo a Cattolica, piadina e birretta alla prima piadineria aperta nelle vicinanze, in spiaggia🏖️, tra Cattolica e Riccione🍻🌞
 
-Il pomeriggio è liberi tutti: chi ha voglia continua a pedalare fino a Rimini, poi si rientra insieme a Bologna in treno entro ora di cena. Chi preferisce invece può rientrare direttamente in treno dalla fermata più vicina, subito dopo pranzo.
+🚆**RIENTRO LONG RIDE**\
+Vuoi continuare a pedalare?
+Arriviamo insieme fino a Rimini, da lì prenderemo il treno per ritornare a Bologna nel primo pomeriggio.
+
+🚆**RIENTRO SHORT RIDE**\
+Per chi desidera, sarà possibile rientrare dopo pranzo: ci sono treni circa ogni ora dalla stazione Cattolica-S.Giovanni-Gabicce.
 
 ## 🚴‍♀️ Iscrizione e dettagli:
 L’evento è riservato ai soci RLT, con un contributo di 5€ a persona per sostenere l’associazione.
