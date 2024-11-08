@@ -38,7 +38,7 @@ NB: I nostri ride sono lenti e accessibili a tutti. Lo scopo delle nostre uscite
 
 🚆**RIENTRO LONG RIDE**\
 Vuoi continuare a pedalare?
-Arriviamo insieme fino a Rimini, da lì prenderemo il treno per ritornare a Bologna nel primo pomeriggio.
+Arriviamo insieme fino a Rimini, da lì prenderemo il treno per ritornare a Bologna nel pomeriggio.
 
 🚆**RIENTRO SHORT RIDE**\
 Per chi desidera, sarà possibile rientrare dopo pranzo: ci sono treni circa ogni ora dalla stazione Cattolica-S.Giovanni-Gabicce.
