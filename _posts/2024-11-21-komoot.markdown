@@ -8,11 +8,12 @@ cover: assets/images/events/komoot.jpg
 lang: it
 ---
 
-Siete tuttə invitatə all'evento di Ruota Libera Tutti dedicato a chi vuole scoprire tutto su come pianificare le proprie uscite in bici con Komoot! 🚲📍
+Cosa bisogna sapere per pianificare il percorso perfetto con Komoot?
+Arriva l'evento di Ruota Libera Tutti dedicato a chi vuole scoprire tutto su come pianificare i propri viaggi in bici con Komoot! 🚲📍
 
-Questa sarà una serata interattiva dove, **tracciando un percorso in tempo reale, impareremo insieme come usare Komoot** per organizzare al meglio uscite brevi intorno alla città e avventure più lunghe, come viaggi su due ruote. 
+Sarà una serata interattiva: **insieme pianificheremo un percorso con Komoot in tempo reale** per imparare a organizzare al meglio i tour su due ruote. 
 
-Condivideremo **consigli pratici per scegliere i percorsi ideali per bici da strada, gravel o MTB**, e vedremo come utilizzare l'app per individuare fontane, superfici stradali e altri dettagli per prepararsi a ogni evenienza. Potrete seguire un vero tutorial live, fare domande e risolvere tutti i vostri dubbi su Komoot.
+Condivideremo **consigli pratici per scegliere i percorsi ideali per bici da strada, gravel o MTB**, e vedremo come utilizzare [l'app mobile e la piattaforma web di Komoot](https://www.komoot.com/it-it) per individuare elementi utili per la nostra traccia: punti di assistenza meccanica, presenza di fontane, superfici stradali e altri dettagli per prepararsi a ogni evenienza. Potrai seguire un vero tutorial live, fare domande e risolvere tutti i tuoi dubbi su come pianificare un percorso in bicicletta.
 
 📅 **Quando**: Giovedì 21 novembre 2024\
 🕖 **Orario**: dalle 18:30 alle 20:30\
@@ -22,17 +23,17 @@ Condivideremo **consigli pratici per scegliere i percorsi ideali per bici da str
 
 ## **Programma della serata**
 
-- **18:30 - Birrette di benvenuto e presentazione RLT**\
-Un momento per salutarci, iniziare a conoscerci, scambiare idee e fare un po’ di networking.
+- **18:30 - Birrette di benvenuto e presentazione Ruota Libera Tutti**\
+Un momento di networking per salutarci, scambiare idee e conoscere le attività dell'associazione Ruota Libera Tutti.
 
-- **19:00 - Tutorial live con Alejandro Guillén: come preparare una traccia su Komoot**\
-Guidati dal nostro socio Alejandro, che di tracce ne ha fatte parecchie, impareremo come preparare al meglio una traccia su Komoot. Esploreremo nel dettaglio tutte le funzionalità utili per pianificare un’uscita senza sorprese. Dal monitoraggio del tipo di strada alla ricerca di punti d'acqua, scopriremo come rendere ogni avventura sicura e ben organizzata.
+- **19:00 - Tutorial live con Alejandro Guillén: come pianificare un percorso in bicicletta su Komoot**\
+Guidati dal nostro socio Alejandro, che di percorsi in bicicletta ne ha fatti parecchi, impareremo come pianificare un percorso in bicicletta su Komoot. Esploreremo nel dettaglio tutte le funzionalità utili per preparare un’uscita senza sorprese. Dal monitoraggio del tipo di strada alla ricerca di punti d'acqua, scopriremo come rendere ogni avventura sicura e ben organizzata.
 
 - **19:30 - Laboratorio pratico: prepariamo una traccia con i nostri device!**
-Dopo l'introduzione di Alejandro, passeremo subito all’azione con un laboratorio pratico. Portate il vostro PC o tablet per un’esperienza diretta su Komoot: ci divideremo in gruppi, ognuno con l’obiettivo di pianificare un viaggio diverso. Sarà un’occasione per mettere in pratica i consigli appresi, confrontarci e scoprire i trucchi migliori per creare percorsi dettagliati e su misura. Alla fine, ogni gruppo condividerà la propria traccia e le scelte fatte per il percorso!
+Dopo l'introduzione di Alejandro, passeremo subito all’azione con un laboratorio pratico. Puoi portare il tuo PC, tablet, o usare direttamente il tuo telefono per fare un’esperienza diretta su Komoot: ci divideremo in gruppi, ognuno con l’obiettivo di pianificare un viaggio diverso. Sarà un’occasione per mettere in pratica i consigli appresi, confrontarci e scoprire i trucchi migliori per creare percorsi dettagliati e su misura. Alla fine, ogni gruppo condividerà la propria traccia e le scelte fatte per il percorso!
 
-- **20:00 - Sessione Q&A: spazio aperto ai dubbi**\
-Potrai chiedere consigli, chiarire dubbi e scambiare trucchi con altri ciclisti e appassionati.
+- **20:00 - Sessione Q&A**\
+Potrai chiedere consigli, chiarire dubbi e scambiare trucchi con tutti i partecipanti.
 
 - **20:15 - Birrette e networking**\
 Continuiamo la serata con birra, musica e un'atmosfera rilassata per fare nuove conoscenze e scambiare ispirazioni su ruote! 🍻
