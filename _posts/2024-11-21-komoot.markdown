@@ -8,11 +8,11 @@ cover: assets/images/events/komoot.jpg
 lang: it
 ---
 
-Siete tuttə invitatə all'evento di Ruota Libera TUtti dedicato a chi vuole scoprire tutto su come pianificare le proprie uscite in bici con Komoot! 🚲📍
+Siete tuttə invitatə all'evento di Ruota Libera Tutti dedicato a chi vuole scoprire tutto su come pianificare le proprie uscite in bici con Komoot! 🚲📍
 
 Questa sarà una serata interattiva dove, **tracciando un percorso in tempo reale, impareremo insieme come usare Komoot** per organizzare al meglio uscite brevi intorno alla città e avventure più lunghe, come viaggi su due ruote. 
 
-Condivideremo c**onsigli pratici per scegliere i percorsi ideali per bici da strada, gravel o MTB**, e vedremo come utilizzare l'app per individuare fontane, superfici stradali e altri dettagli per prepararsi a ogni evenienza. Potrete seguire un vero tutorial live, fare domande e risolvere tutti i vostri dubbi su Komoot.
+Condivideremo **consigli pratici per scegliere i percorsi ideali per bici da strada, gravel o MTB**, e vedremo come utilizzare l'app per individuare fontane, superfici stradali e altri dettagli per prepararsi a ogni evenienza. Potrete seguire un vero tutorial live, fare domande e risolvere tutti i vostri dubbi su Komoot.
 
 📅 **Quando**: Giovedì 21 novembre 2024\
 🕖 **Orario**: dalle 18:30 alle 20:30\
@@ -23,10 +23,13 @@ Condivideremo c**onsigli pratici per scegliere i percorsi ideali per bici da str
 ## **Programma della serata**
 
 - **18:30 - Birrette di benvenuto e presentazione RLT**\
-Un momento per iniziare a conoscerci, scambiare idee e fare un po’ di networking tra appassionati di ciclismo.
+Un momento per salutarci, iniziare a conoscerci, scambiare idee e fare un po’ di networking.
 
-- **19:00 - Tutorial live con Alejandro Guillén: Come tracciare il tuo percorso su Komoot**\
-Guidati dal nostro socio Alejandro, che di tracce ne ha fatte parecchie, impareremo come creare un percorso su Komoot nel dettaglio, esplorando tutte le funzionalità utili per pianificare un’uscita senza sorprese. Dal monitoraggio del tipo di strada alla ricerca di punti d'acqua, scopriremo come rendere ogni avventura sicura e ben organizzata.
+- **19:00 - Tutorial live con Alejandro Guillén: come preparare una traccia su Komoot**\
+Guidati dal nostro socio Alejandro, che di tracce ne ha fatte parecchie, impareremo come preparare al meglio una traccia su Komoot. Esploreremo nel dettaglio tutte le funzionalità utili per pianificare un’uscita senza sorprese. Dal monitoraggio del tipo di strada alla ricerca di punti d'acqua, scopriremo come rendere ogni avventura sicura e ben organizzata.
+
+- **19:30 - Laboratorio pratico: prepariamo una traccia con i nostri device!**
+Dopo l'introduzione di Alejandro, passeremo subito all’azione con un laboratorio pratico. Portate il vostro PC o tablet per un’esperienza diretta su Komoot: ci divideremo in gruppi, ognuno con l’obiettivo di pianificare un viaggio diverso. Sarà un’occasione per mettere in pratica i consigli appresi, confrontarci e scoprire i trucchi migliori per creare percorsi dettagliati e su misura. Alla fine, ogni gruppo condividerà la propria traccia e le scelte fatte per il percorso!
 
 - **20:00 - Sessione Q&A: spazio aperto ai dubbi**\
 Potrai chiedere consigli, chiarire dubbi e scambiare trucchi con altri ciclisti e appassionati.
