@@ -13,7 +13,7 @@ lang: it
 
 **🗺️ Percorso:** 27km | 0 dislivello | Asfalto e sterrato compatto | [Guarda la traccia qui](https://www.komoot.com/it-it/tour/1959363953?share_token=aHCD7Xl2SuigDREn6kgQjjOS6s4Y0b0UzAEH4Lijrx3lOhL16t&ref=wtd) 
 
-**📝 Iscrizioni:** [Clicca qui per partecipare]()
+**📝 Iscrizioni:** [Clicca qui per partecipare](https://forms.gle/VKwWvE2w6AMmcVXS8)
 
 E’ stato un anno pazzesco e Ruota Libera Tutti chiude il calendario 2024 con un bike tour tema natalizio nei dintorni di Ferrara, la città della bicicletta! 
 
@@ -37,7 +37,7 @@ Ogni persona è libera di organizzarsi come preferisce. Tendenzialmente ci piace
 *Per chi arriva da Bologna come noi, o da altre zone, consigliamo di viaggiare utilizzando il treno: è il mezzo più comodo, permette di caricare la bici e, soprattutto, di fare della balotta. Per l’andata, suggeriamo  di prendere il **treno RV3970 in partenza da Bologna Arcoveggio alle 09:04**, ma ogni partecipante è libera/o di arrivare come preferisce.
 
 ## 🚴‍♀️ Iscrizione e dettagli:
-L’evento è aperto a tutte e a tutti, non solo alle socie e ai soci di RLT, in via del tutto occasionale, dato che sarà il Ride di Natale! Per partecipare, è obbligatoria l’iscrizione tramite questo form.
+L’evento è aperto a tutte e a tutti, non solo alle socie e ai soci di RLT, in via del tutto occasionale, dato che sarà il Ride di Natale! [Per partecipare, è obbligatoria l’iscrizione tramite questo form](https://forms.gle/VKwWvE2w6AMmcVXS8).
 Chiediamo una donazione di 5 euro (da inviare tramite bonifico, paypal o satispay) a sostegno dei costi annuali della nostra associazione. 
 Tutty gli organizzatory RLT sono volontarie e volontari. 
 
