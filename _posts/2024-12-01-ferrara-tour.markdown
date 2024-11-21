@@ -36,14 +36,15 @@ Ogni persona è libera di organizzarsi come preferisce. Tendenzialmente ci piace
 
 *Per chi arriva da Bologna come noi, o da altre zone, consigliamo di viaggiare utilizzando il treno: è il mezzo più comodo, permette di caricare la bici e, soprattutto, di fare della balotta. Per l’andata, suggeriamo  di prendere il **treno RV3970 in partenza da Bologna Arcoveggio alle 09:04**, ma ogni partecipante è libera/o di arrivare come preferisce.
 
-## 🚴‍♀️ Iscrizione e dettagli:
+## 🚴‍♀️ Iscrizione e dettagli
 L’evento è aperto a tutte e a tutti, non solo alle socie e ai soci di RLT, in via del tutto occasionale, dato che sarà il Ride di Natale! [Per partecipare, è obbligatoria l’iscrizione tramite questo form](https://forms.gle/VKwWvE2w6AMmcVXS8).
 Chiediamo una donazione di 5 euro (da inviare tramite bonifico, paypal o satispay) a sostegno dei costi annuali della nostra associazione. 
 Tutty gli organizzatory RLT sono volontarie e volontari. 
 
 Se ancora non sei socia/o, a brevissimo apriremo il tesseramento 2025, quindi quale miglior occasione se non questa per venirci a conoscere? Intanto trovi tutte le [informazioni per tesserarti qui](https://ruota-libera-tutti.github.io/tesseramento).
 
-## 👉 Note:
+## 👉 Note
 È possibile partecipare con qualsiasi tipo di bici in buone condizioni (preferibilmente con cambio). Obbligatorio: casco e almeno una camera d’aria di scorta (siamo in città, ma sempre meglio averne). Consigliato: abbigliamento a strati e giacca antipioggia, data la stagione.
+
 Ti aspettiamo per una pedalata indimenticabile! 🚴🍂🎄
 
