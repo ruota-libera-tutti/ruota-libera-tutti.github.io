@@ -11,7 +11,8 @@ lang: it
 
 **🕖 Ritrovo:** 9:41 - Stazione Centrale di Ferrara
 
-**🗺️ Percorso:** 27km | 0 dislivello | Asfalto e sterrato compatto | [Guarda la traccia qui](https://www.komoot.com/it-it/tour/1959363953?share_token=aHCD7Xl2SuigDREn6kgQjjOS6s4Y0b0UzAEH4Lijrx3lOhL16t&ref=wtd) 
+**🗺️ Percorso:** 27km | 0 dislivello | Asfalto e sterrato compatto 
+[Guarda la traccia qui](https://www.komoot.com/it-it/tour/1959363953?share_token=aHCD7Xl2SuigDREn6kgQjjOS6s4Y0b0UzAEH4Lijrx3lOhL16t&ref=wtd) 
 
 **📝 Iscrizioni:** [Clicca qui per partecipare](https://forms.gle/VKwWvE2w6AMmcVXS8)
 
