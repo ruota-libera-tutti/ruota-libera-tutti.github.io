@@ -32,9 +32,9 @@ Ci teniamo a salutarci prima della pausa natalizia e andare insieme ai mercatini
 
 13:00 - Pranzo al sacco o presso uno dei mercatini o locali lì vicino
 
-Ogni persona è libera di organizzarsi come preferisce. Tendenzialmente ci piace pranzare insieme e consigliamo il pranzo al sacco. Per chi vorrà restare, faremo quindi due passi ai mercatini di natale per poi rientrare a Bologna in treno o con qualsiasi altro mezzo.
+🍱 **Pranzo e rientro** Ogni persona è libera di organizzarsi come preferisce. Tendenzialmente ci piace pranzare insieme e consigliamo il pranzo al sacco. Per chi vorrà restare, faremo quindi due passi ai mercatini di natale per poi rientrare a Bologna in treno o con qualsiasi altro mezzo.
 
-*Per chi arriva da Bologna come noi, o da altre zone, consigliamo di viaggiare utilizzando il treno: è il mezzo più comodo, permette di caricare la bici e, soprattutto, di fare della balotta. Per l’andata, suggeriamo  di prendere il **treno RV3970 in partenza da Bologna Arcoveggio alle 09:04**, ma ogni partecipante è libera/o di arrivare come preferisce.
+*🚆 **Andata** Per chi arriva da Bologna come noi, o da altre zone, consigliamo di viaggiare utilizzando il treno: è il mezzo più comodo, permette di caricare la bici e, soprattutto, di fare della balotta. Per l’andata, suggeriamo  di prendere il **treno RV3970 in partenza da Bologna Arcoveggio alle 09:04**, ma ogni partecipante è libera/o di arrivare come preferisce.
 
 ## 🚴‍♀️ Iscrizione e dettagli
 L’evento è aperto a tutte e a tutti, non solo alle socie e ai soci di RLT, in via del tutto occasionale, dato che sarà il Ride di Natale! [Per partecipare, è obbligatoria l’iscrizione tramite questo form](https://forms.gle/VKwWvE2w6AMmcVXS8).
