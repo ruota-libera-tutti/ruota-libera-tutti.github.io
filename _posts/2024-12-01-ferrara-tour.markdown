@@ -7,9 +7,30 @@ excerpt: "Pedalata facile per scoprire la storia di Ferrara e girare tra i merca
 cover: assets/images/events/toscana.jpeg
 lang: it
 ---
+**📅 Data:** Domenica 1 Dicembre 2024
 
-Unisciti a noi per una giornata all’insegna della scoperta di una città ricca di storia e bike-friendly come Ferrara!
+**🕖 Ritrovo:** 9:41 - Stazione Centrale di Ferrara
 
-L'1 dicembre 2024 ci aspetta un tour speciale in bici per scoprire fun facts e la storia della bellissima Ferrara, dove tutto sarà ancora più magico grazie all’atmosfera data dai mercatini natalizi.
+**🗺️ Percorso:** 27km | 0 dislivello | Asfaltato e sterrato compatto | [Guarda la traccia qui](https://www.komoot.com/it-it/tour/1959363953?share_token=aHCD7Xl2SuigDREn6kgQjjOS6s4Y0b0UzAEH4Lijrx3lOhL16t&ref=wtd) 
 
-Maggiori informazioni sul programma in arrivo.
+**📝 Iscrizioni:** [Clicca qui per partecipare]()
+
+E’ stato un anno pazzesco e Ruota Libera Tutti chiude il calendario 2024 con un bike tour tema natalizio nei dintorni di Ferrara, la città della bicicletta! 
+
+Ci teniamo a salutarci prima della pausa natalizia e andare insieme ai mercatini di natale. Sarà come sempre una pedalata molto tranquilla, tutta pianeggiante e a ritmo pacato, con zero dislivello. 
+
+## 🗓️ Programma della giornata
+9:41 - Ritrovo alla stazione di Ferrara*
+
+10.00 - Partenza in bici verso le storiche mura che circondano la città di Ferrara
+
+11.00 - Tragitto lungo il fiume Po
+
+12.00 - Pausa caffè Bar al Filo' di Francolino
+
+12:40 - Arrivo al centro di Ferrara in piazza Trieste per i mercatini di Natale
+
+13:00 - Pranzo al sacco o presso uno dei mercatini o locali lì vicino
+
+
+*Per chi arriva da Bologna come noi, o da altre zone, consigliamo di viaggiare utilizzando il treno: è il mezzo più comodo, permette di caricare la bici e, soprattutto, di fare della balotta. Per l’andata, suggeriamo  di prendere il treno RV3970 in partenza da Bologna Arcoveggio alle 09:04, ma ogni partecipante è libera/o di arrivare come preferisce.
