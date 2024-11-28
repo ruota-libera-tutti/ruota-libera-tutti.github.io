@@ -10,7 +10,7 @@ lang: it
 
 **📅 Data**: Giovedì 12 Dicembre 2024\
 **🕖 Ore**: dalle 18:30 alle 20:30\
-**📍 Dove**: DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)
+**📍 Dove**: DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
 **✍️ Iscrizioni**: L’evento è gratuito, ma i posti sono limitati! [Clicca qui per iscriverti e riservare il tuo](https://forms.gle/9YQcEidGjYrdTRxL9).
 
 Ultimo social meeting dell'anno, per farci gli auguri e appuntarci qualche buon proposito di alimentazione sportiva (così, giusto per farvi sentire in colpa prima delle abbuffate festive).
