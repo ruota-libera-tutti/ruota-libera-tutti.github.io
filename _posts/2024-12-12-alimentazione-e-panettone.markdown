@@ -21,14 +21,14 @@ Ultimo social meeting dell'anno, per farci gli auguri e appuntarci qualche buon 
 Un momento di networking per salutarci, scambiare idee e conoscere le attività dell’associazione Ruota Libera Tutti.
 
 **19:00 - Guida alimentare per i cicloturistə 🚴🥗**\
-**Bianca Furii**, dottoressa e biologa nutrizionista, ci insegna come nutrire il corpo di unə ciclista, prima, durante e dopo la pedalata: dalla composizione di un piatto bilanciato, all’organizzazione dei pasti negli allenamenti e il ruolo fondamentale dell'idratazione.
-Sarà ovviamente disponibile a rispondere a tutti vostri dubbi e domande.
+**Bianca Furii**, dottoressa e biologa nutrizionista, ci guiderà alla scoperta della giusta alimentazione per chi pedala. Impareremo come comporre un pasto equilibrato, organizzare i pasti durante gli allenamenti e l’importanza dell’idratazione prima, durante e dopo la pedalata.
+A seguire, momento Q&A per rispondere a dubbi e domande.
 
 **19:30 - Brindisi con birretta e panettone🍻🍰**\
-Per mettere in pratica esattamente l'opposto di quello che ci sarà stato appena detto da Bianca. (Disponibili come sempre opzioni analcoliche per chi è più probo/a.)
+Per mettere in pratica esattamente l'opposto, chiuderemo la serata in allegria con birra e panettone. Un’occasione per festeggiare insieme il Natale e salutare l'anno che si conclude.
 
 ## 📋 Come partecipare?
-L’evento è gratuito, ma la registrazione è obbligatoria. Clicca qui per iscriverti e assicurarti il tuo posto!
+L’evento è gratuito, ma la registrazione è obbligatoria. [Clicca qui per iscriverti e riservare il tuo posto](https://forms.gle/9YQcEidGjYrdTRxL9).
 
 ## ✨ Diventa sociə RLT
 Durante l’evento avrai anche la possibilità di diventare sociə della nostra associazione, partecipare attivamente ai futuri eventi e unirti alla nostra community!
