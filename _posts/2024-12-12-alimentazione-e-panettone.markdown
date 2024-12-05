@@ -3,7 +3,7 @@ layout: post
 title: "Alimentazione e panettone"
 date: 2024-12-12 18:30:00 +0200
 categories: social-meeting
-excerpt: "RLT Christmas Party con talk per consigliarci come, quando e cosa mangiare quando siamo in sella e fuori sella"
+excerpt: "Christmas Party con talk della nutrizionista Bianca Furii per consigliarci come nutrire il corpo prima, durante e dopo la pedalata"
 cover: assets/images/events/food.jpeg
 lang: it
 ---
