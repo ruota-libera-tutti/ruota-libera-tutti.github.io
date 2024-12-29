@@ -4,7 +4,7 @@ title: "Assemblea Soci & Kick-Off 2025"
 date: 2025-01-16 19:00:00 +0200
 categories: social-meeting
 excerpt: "Un doppio appuntamento: assemblea soci e presentazione eventi 2025. Partecipa per scoprire le novità e unirti alla nostra community!"
-cover: assets/images/events/kickoff2025.jpeg
+cover: assets/images/events/kickoff2025.jpg
 lang: it
 ---
 
