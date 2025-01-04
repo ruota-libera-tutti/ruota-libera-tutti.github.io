@@ -31,8 +31,8 @@ Un incontro aperto a tuttə, anche a chi non è ancora sociə, per:
 - Esplorare le modalità di tesseramento e i vantaggi per i soci
 - Condividere idee e iniziative per crescere insieme
 
-**20:30 - Networking e birrette 🍻**\
-Chiudiamo la serata con un momento di convivialità, per conoscerci meglio e brindare al nuovo anno.
+**20:30 - Networking, birrette e musica 🎶 🍻**\
+Chiudiamo la serata con un momento di convivialità, per conoscerci meglio e brindare al nuovo anno. Si esibirà una band ospite a sorpresa, in collaborazione con [Associazione OdV Baobab](https://www.instagram.com/associazionebaobabodv?igsh=a25vMHZvYWJ3aDIx)!
 
 ## 📋 Come partecipare?
 L’evento è gratuito, ma la registrazione è obbligatoria. [Clicca qui per iscriverti e riservare il tuo posto](https://forms.gle/NXtbvtSKN2hJDb3L8).
