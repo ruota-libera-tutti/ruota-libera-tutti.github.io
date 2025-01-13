@@ -18,7 +18,7 @@ Inizia il nuovo anno con Ruota Libera Tutti! Un’occasione speciale per ritrova
 ## Programma della serata
 
 **19:00 - Assemblea Sociə 🗓️💚**\
-Un momento fondamentale riservato a tuttə lə sociə:
+Un momento fondamentale riservato a tuttə lə sociə (ma non solo! Chiunque sia interessatə può partecipare):
 - Riepilogo delle attività svolte nel 2024
 - Condivisione del bilancio annuale
 - Spazio per idee e proposte
