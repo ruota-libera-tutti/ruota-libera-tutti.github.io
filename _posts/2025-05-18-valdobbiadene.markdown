@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Valdobbiadene, prosecco e patrimonio Unesco
-date: 2025-09-21 08:30:00 +0200
+date: 2025-05-18 08:30:00 +0200
 categories: social-ride
 excerpt: Pedalata tra le colline del Prosecco e panorami da cartolina.
 cover: assets/images/events/valdobbiadene-2025.jpeg
 lang: it
 ---
-**📅 Data e ora:** Domenica 21 Septembre 2025 - 8.30\
+**📅 Data e ora:** Domenica 18 Maggio 2025 - 8.30\
 **📍 Ritrovo:** _maggiori informazioni in arrivo_\
 **🗺️ Percorso:** _maggiori informazioni in arrivo_\
 **📝 Iscrizioni:** _maggiori informazioni in arrivo_

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Delta del Po: da Pellestrina a Venezia"
-date: 2025-06-07 8:30:00 +0200
+date: 2025-10-25 8:30:00 +0200
 categories: social-ride
 excerpt: Scopriamo il Delta del Po (patrimonio Unesco) insieme!
 cover: assets/images/events/delta-del-po-2025.jpg
 lang: it
 ---
-**📅 Data e ora:** da Sabato 7 a Domenica 8 Giugno 2025\
+**📅 Data e ora:** da Sabato 25 a Domenica 26 Ottobre 2025\
 **📍 Ritrovo:** _maggiori informazioni in arrivo_\
 **🗺️ Distanza totale da percorrere** : _maggiori informazioni in arrivo_\
 **💸 Quota di partecipazione** : _maggiori informazioni in arrivo_\

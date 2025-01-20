@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Notturna da Bologna al Mare adriatico
-date: 2025-05-18 04:00:00 +0200
+date: 2025-09-21 04:00:00 +0200
 categories: social-ride
 excerpt: Partiamo la notte tra sabato e domenica e arriviamo all'alba
 cover: assets/images/events/ravenna.jpeg
 lang: it
 ---
-**📅 Data e ora:** Domenica 18 Maggio 2025 alle 4.00 di notte\
+**📅 Data e ora:** Domenica 21 Septembre 2025 alle 4.00 di notte\
 **📍 Ritrovo:** _maggiori informazioni in arrivo_\
 **🗺️ Distanza totale da percorrere** : _maggiori informazioni in arrivo_\
 **💸 Quota di partecipazione** : _maggiori informazioni in arrivo_\
