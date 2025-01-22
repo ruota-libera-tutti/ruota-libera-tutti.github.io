@@ -9,7 +9,7 @@ lang: it
 ---
 
 **📅 Data e ora:**: Giovedì 13 Marzo 2025\
-**📍 Ritrovo¨**: DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
+**📍 Ritrovo**: DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
 **📝 Iscrizioni**: _maggiori informazioni in arrivo_.
 
 ---
