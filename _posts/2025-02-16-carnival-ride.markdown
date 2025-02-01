@@ -10,7 +10,8 @@ lang: it
 **📅 Data e ora:** Domenica 16 Febbraio 2025 - 9.15\
 **📍 Ritrovo:** DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
 **🗺️ Percorso:** Lungo il Navile, da Bologna a Bentivoglio, con ritorno in treno. Distanza: 25km. Qui trovi la [traccia GPS](https://www.komoot.com/it-it/tour/1436557466?share_token=a2zV3407uinmIEaqogG4mIW5Bul9YGc9viGuMW64Gmmg3hog1W&ref=wtd).\
-**📝 Iscrizioni:** [Qui il modulo di iscrizione evento](https://forms.gle/TZJXzdkLdVk1hYBq6).\ ❗Ricorda anche di tesserarti in tempo, entro il 9 febbraio!
+**📝 Iscrizioni:** [Qui il modulo di iscrizione evento](https://forms.gle/TZJXzdkLdVk1hYBq6). \
+❗Ricorda anche di tesserarti in tempo, entro il 9 febbraio!
 
 ---
 
