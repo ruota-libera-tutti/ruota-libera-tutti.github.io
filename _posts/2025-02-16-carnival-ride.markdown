@@ -27,7 +27,7 @@ Non ti preoccupare! **Abbiamo bici extra** per chi ne ha bisogno, da ritirare in
 ➡️Tra i viali verso il Nicholas Park\
 ➡️Attraversiamo il Parco Talon\
 ➡️Break con vista (porta un telo e una merenda)\
-🚃**Rientro** previsto entro le **ore 12:30**
+🚴**Rientro** previsto entro le **ore 12:30**
 
 ❗L'evento è completamente **gratuito**.
 
