@@ -24,14 +24,14 @@ Per avere la sicurezza di poter venire al ride, compila il form tesseramento **e
 Non ti preoccupare! **Abbiamo bici extra** per chi ne ha bisogno, da ritirare in loco al DumBO la mattina stessa.
 **Comunicacelo prima tramite il [form d'iscrizione](https://forms.gle/TZJXzdkLdVk1hYBq6)**. Ricordati però di portare un casco per pedalare in sicurezza!
 
-**PROGRAMMA:**\
+**PROGRAMMA**\
 🚴**Partenza** dal DumBO, Blocco Comune, **ore 09:30**\
 ➡️Tra i viali verso il Nicholas Park\
 ➡️Attraversiamo il Parco Talon\
 ➡️Break con vista (porta un telo e una merenda)\
 🚃**Rientro** previsto entro le **ore 12:30**\
 
- 🤡🎺🎉 **Ride Tema Carnevale** 
+ 🤡🎺🎉 **Ride Tema Carnevale**\
 Se vuoi immergerti completamente nell’atmosfera del carnevale, vestiti con costumi colorati e allegri!
 Faremo un contest per celebrare il costume più divertente tra i partecipanti. Chi vince, caffettino gratis ☕ 🎈
 
