@@ -9,7 +9,7 @@ lang: it
 ---
 **📅 Data e ora:** Domenica 16 Febbraio 2025 - 9.30\
 **📍 Ritrovo:** DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
-**🗺️ Percorso:** Tra parchi e viali con destinazione il Parco Talon. Distanza: 18km. Qui trovi la [traccia GPS]().\
+**🗺️ Percorso:** Tra parchi e viali con destinazione il Parco Talon. Distanza: 18km. Dislivello: 70m. [Traccia percorso (solo andata)](https://www.komoot.com/fr-fr/tour/2043379643?share_token=amcqx6aTb2TItsrQUupKuoOyxsQAES0aqrgBYDuIKTPsMI4De5&ref=wtd)\
 **📝 Iscrizioni (scadenza 9 febbraio):** [Qui il modulo di iscrizione evento](https://forms.gle/TZJXzdkLdVk1hYBq6). \
 ❗Ricorda anche di tesserarti in tempo, entro il 9 febbraio!
 
@@ -17,7 +17,7 @@ lang: it
 
 🎭 Sarà un giro molto facile per celebrare insieme il Carnevale in sella! Puoi venire con qualsiasi bicicletta, non importa se una mountain bike, un gravel o una city bike, purché sia in buone condizioni.
 
-❗Per questo evento, la partecipazione è **gratuita**. Occorre però essere sociə. Se non lo sei ancora, [associati qui](https://ruota-libera-tutti.github.io/tesseramento)! 👇👇\
+❗Per questo evento, la partecipazione è **gratuita**. Occorre però essere sociə. Se non lo sei ancora, [associati qui](https://ruota-libera-tutti.github.io/tesseramento)! 👇\
 Per avere la sicurezza di poter venire al ride, compila il form tesseramento **entro il 9 febbraio**.
 
 ❔**Non hai una bicicletta?** Non ti preoccupare! **Abbiamo bici extra**, per chi ne ha bisogno, da ritirare in loco al DumBO la mattina stessa.
