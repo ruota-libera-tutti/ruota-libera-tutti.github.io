@@ -20,16 +20,19 @@ lang: it
 ❗Per questo evento, la partecipazione è **gratuita**. Occorre però essere sociə. Se non lo sei ancora, [associati qui](https://ruota-libera-tutti.github.io/tesseramento)! 👇\
 Per avere la sicurezza di poter venire al ride, compila il form tesseramento **entro il 9 febbraio**.
 
-❔**Non hai una bicicletta?** Non ti preoccupare! **Abbiamo bici extra**, per chi ne ha bisogno, da ritirare in loco al DumBO la mattina stessa.
-**Comunicacelo prima tramite il form di iscrizione all'evento**. Ricordati però di **portare un casco** per pedalare in sicurezza.
+❔**Non hai una bicicletta?**\
+Non ti preoccupare! **Abbiamo bici extra** per chi ne ha bisogno, da ritirare in loco al DumBO la mattina stessa.
+**Comunicacelo prima tramite il [form d'iscrizione](https://forms.gle/TZJXzdkLdVk1hYBq6)**. Ricordati però di portare un casco per pedalare in sicurezza!
 
-###**Programma:**\
+**PROGRAMMA:**\
 🚴**Partenza** dal DumBO, Blocco Comune, **ore 09:30**\
 ➡️Tra i viali verso il Nicholas Park\
 ➡️Attraversiamo il Parco Talon\
 ➡️Break con vista (porta un telo e una merenda)\
 🚃**Rientro** previsto entro le **ore 12:30**\
 
-Se hai piacere di immergerti completamente nell’atmosfera del carnevale, vestiti con costumi colorati e allegri. 🤡🎺🎉 Faremo un contest per celebrare il costume più divertente tra i partecipanti. Chi vince, caffettino all’arrivo gratis! ☕ 🎈
+ 🤡🎺🎉 **Ride Tema Carnevale** 
+Se vuoi immergerti completamente nell’atmosfera del carnevale, vestiti con costumi colorati e allegri!
+Faremo un contest per celebrare il costume più divertente tra i partecipanti. Chi vince, caffettino gratis ☕ 🎈
 
 Ci troviamo dagli amici del DumBO, ore 9:15, per un check finale biciclette... e poi via!
