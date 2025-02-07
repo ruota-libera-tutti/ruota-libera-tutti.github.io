@@ -9,9 +9,9 @@ lang: it
 ---
 **📅 Data e ora:** Domenica 16 Febbraio 2025 - 9.30\
 **📍 Ritrovo:** DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
-**🗺️ Percorso:** Tra parchi e viali con destinazione il Parco Talon. Distanza: 18km. Dislivello: 70m. [Traccia percorso (solo andata)](https://www.komoot.com/fr-fr/tour/2043379643?share_token=amcqx6aTb2TItsrQUupKuoOyxsQAES0aqrgBYDuIKTPsMI4De5&ref=wtd)\
+**🗺️ Percorso:** Tra parchi e viali con destinazione il Parco Talon. Distanza: 18km. Dislivello: 70m. [Traccia percorso](https://www.komoot.com/fr-fr/tour/2043379643?share_token=amcqx6aTb2TItsrQUupKuoOyxsQAES0aqrgBYDuIKTPsMI4De5&ref=wtd) (traccia solo dell'andata - faremo lo stesso tragitto per ritornare)\
 **📝 Iscrizioni (scadenza 9 febbraio):** [clicca qui per iscriverti](https://forms.gle/TZJXzdkLdVk1hYBq6). \
-❗**Non sei tesserato/a?** [Completa qui il tuo tesseramento]((https://ruota-libera-tutti.github.io/tesseramento)) per partecipare all'evento.
+❗**Non sei tesserato/a?** [Completa qui il tuo tesseramento](https://ruota-libera-tutti.github.io/tesseramento) per partecipare all'evento.
 
 ---
 
@@ -27,7 +27,7 @@ Non ti preoccupare! **Abbiamo bici extra** per chi ne ha bisogno, da ritirare in
 ➡️Tra i viali verso il Nicholas Park\
 ➡️Attraversiamo il Parco Talon\
 ➡️Break con vista (porta un telo e una merenda)\
-🚃**Rientro** previsto entro le **ore 12:30**\
+🚃**Rientro** previsto entro le **ore 12:30**
 
 ❗L'evento è completamente **gratuito**.
 
