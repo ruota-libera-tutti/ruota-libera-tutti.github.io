@@ -8,7 +8,7 @@ cover: assets/images/events/inspirational-talks-2025.jpeg
 lang: it
 ---
 **📅 Data e ora:**: Giovedì 13 Marzo 2025, ore 18:45\
-**📍 Ritrovo**: DumBO Space - Blocco comune [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
+**📍 Ritrovo**: DumBO Space - Aula Studio (alla dx del cancello d'ingresso) [Maps](https://maps.app.goo.gl/UpHT9WyYLxS9EJJi9)\
 **📝 Iscrizioni**: [Clicca qui](https://docs.google.com/forms/d/e/1FAIpQLSdGYBSvlUTDC6KqBYNn2ajYIqEPXJhhtxdOOAXpgWjLIJ25DQ/viewform?usp=dialog), l'evento è gratuito!
 
 **👀 Vuoi tesserarti con RLT?** [Puoi farlo qui!](https://ruota-libera-tutti.github.io/tesseramento)\
