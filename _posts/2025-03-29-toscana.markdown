@@ -11,7 +11,7 @@ lang: it
 **📍 Ritrovo:** [**Parco della Stazione Centrale di Prato**](https://maps.app.goo.gl/Z4NRvMWaHt3YVcm97) ore **10:00** di Sabato 29\
 **🗺️ Distanza da percorrere**:\
 Giorno 1️⃣: ~**30km** da Prato a Firenze ([Visualizza la traccia](https://www.komoot.com/it-it/tour/2072737891?share_token=aF7cvIPwfg84yLwMEMKNwEs3jEUMOWzWNqIob2HQCLxUZSzSvT&ref=wtd))\
-Giorno 2️⃣: ~**23km** di ritorno a Prato ([Visualizza la traccia](https://www.komoot.com/it-it/tour/2084438986?share_token=aUnCUFBqvVk0OHnWCaR6zOIzdwNazOZZP5SkhiHidJzdKaiZ9w&ref=wtd))\
+Giorno 2️⃣: ~**23km** di ritorno a Prato ([Visualizza la traccia](https://www.komoot.com/it-it/tour/2084438986?share_token=aUnCUFBqvVk0OHnWCaR6zOIzdwNazOZZP5SkhiHidJzdKaiZ9w&ref=wtd)) o, per chi volesse, ~**13km** extra fino alla stazione di Vaiano
 **💸 Quota di partecipazione** : 50€ (vedi dettagli più in basso)\
 **📝 Iscrizioni:** aperte fino al **10 marzo**, posti di pernottamento limitati! [**Link di iscrizione**](https://docs.google.com/forms/d/e/1FAIpQLSe6qEyH_ZoAIFFjiVia2u93mpYRWgnASLGEwgytS7ssYgzzZg/viewform?usp=header)
 
@@ -23,12 +23,37 @@ Giorno 2️⃣: ~**23km** di ritorno a Prato ([Visualizza la traccia](https://ww
 Preparati per un’avventura indimenticabile: un giro in bici di due giorni tra le scenografie fiorentine!
 
 Ci ritroviamo direttamente a Prato la mattina di Sabato 29, alle ore **10:00**. (L'arrivo da Bologna è in **autonomia!**)
-Dalla stazione, percorerremo 29 km **completamente pianeggianti**, con un'unica salita finale (130m di dislivello positivo) per arrivare al punto panoramico di **Piazzale Michelangelo**.
+Dalla stazione, percorerremo 29 km **completamente pianeggianti** lungo la "superciclabile", con un'unica **salita finale** (110 metri di ascesa) per arrivare al punto panoramico di **Piazzale Michelangelo**.
 
 ![Piazza Michelangelo Firenze](https://github.com/user-attachments/assets/ee944a3f-d39d-45a6-be80-3d591ee6d0db)
 
 Da lì, ci sposteremo verso l'alloggio per il pernottamento.
 
+## Dettagli percorso
+### Giorno 1
+[Tratta Prato-Firenze:](https://www.komoot.com/it-it/tour/2072737891?share_token=aF7cvIPwfg84yLwMEMKNwEs3jEUMOWzWNqIob2HQCLxUZSzSvT&ref=wtd)
+🛣️distanza 28,6 km
+↗️ascesa complessiva 110m
+↘️discesa complessiva 80m
+
+[Tratta Firenze-alloggio:](https://www.komoot.com/it-it/tour/2093394038?share_token=a8m0J61F90ZapRXKAT8mPYHjstE7km4hrtlO4zLUDPTzIUOzWo&ref=wtd)
+🛣️distanza 9,6 km
+↗️ascesa 30m
+↘️discesa 90m
+
+### Giorno 2
+[Tratta alloggio-Prato:](https://www.komoot.com/it-it/tour/2072737891?share_token=aF7cvIPwfg84yLwMEMKNwEs3jEUMOWzWNqIob2HQCLxUZSzSvT&ref=wtd)
+🛣️distanza 22,7 km
+↗️ascesa complessiva 60m
+↘️discesa complessiva 40m
+
+**Opzionale** per chi volesse prendere il treno alla stazione successiva a Prato:\
+[Tratta Prato-Vaiano](https://www.komoot.com/it-it/tour/2093394038?share_token=a8m0J61F90ZapRXKAT8mPYHjstE7km4hrtlO4zLUDPTzIUOzWo&ref=wtd)
+🛣️distanza 12,8 km
+↗️ascesa complessiva 170m
+↘️discesa complessiva 90m
+
+## Quote 💶
 La quota di partecipazione di **50€** comprende:
 - 30€ di donazione per coprire i costi annuali di RLT
 - 20€ di caparra per l'albergo
@@ -41,6 +66,13 @@ La quota **non** comprende:
 - Pasti
 - Quota di tesseramento a RLT (se non sei gà iscritto/a)
 
+Inviare un bonifico, con nome, cognome e "Social Ride Toscana 29-30 marzo 2025" nella causale, all'IBAN qui sotto\
+
+**IT20N0707236591000000743750**
+
+Ci aiuti a tenere traccia dei conti se ci invii uno screen o una ricevuta del bonifico, a [ruotaliberatutti@gmail.com](mailto:ruotaliberatutti@gmail.com)
+
+## Consigli pratici
 Per l'arrivo da **Bologna Centrale** Sabato 29, consigliamo due opzioni:\
 🚅 Treno regionale **TTPER 17809** con partenza alle **07:05** e arrivo a Prato ore 08:17, oppure\
 🚅 Treno regionale **17813** con partenza alle **08:05** e arrivo a Prato ore 09:17.\
@@ -48,6 +80,6 @@ Per l'arrivo da **Bologna Centrale** Sabato 29, consigliamo due opzioni:\
 
 Il giro parte alle ore 10:00, quindi anche chi arriva con il secondo treno avrà il tempo di fare una piccola colazione.
 
-Se vuoi tornare a Bologna insieme a noi, Domenica avremo diverse opzioni di treno regionale da Prato, con arrivo al più tardi alle 19:00.
+Se vuoi tornare a Bologna insieme a noi, Domenica avremo diverse opzioni di treno regionale da Prato o Vaiano, con arrivo al più tardi alle 19:00.
 
 ## Segna la data sul calendario!
