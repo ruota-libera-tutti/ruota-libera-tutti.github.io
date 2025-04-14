@@ -14,7 +14,7 @@ lang: it
 **📝 Iscrizioni**: [compila questo form](https://docs.google.com/forms/d/e/1FAIpQLScm1jzZi_eIxzBMGwa1-eRXCYbbVY8m0o0VzZg9NLpCAcDiRw/viewform?usp=dialog) per iscriverti.
 
 **⚠️ Nota importante – Fine pedalata e opzioni per salire al Rifugio**
-La pedalata terminerà all'inizio della salita che porta al Rifugio Resistente il Poggiolo. Poco distante si trova la stazione di Pian di Venola, da cui partono treni ogni ora verso Bologna.
+La pedalata terminerà all'inizio della salita che porta al Rifugio Resistente il Poggiolo. Poco distante si trova la stazione di Pian di Venola, da cui partono treni ogni ora verso Bologna (13:05; 14:05; ...).
 
 Chi desidera può comunque raggiungere il rifugio scegliendo l'opzione più adatta alle proprie esigenze:
 - Navetta gratuita: disponibile per tutti, è possibile lasciare la bici legata a valle.
@@ -22,14 +22,16 @@ Chi desidera può comunque raggiungere il rifugio scegliendo l'opzione più adat
 - In bicicletta: solo per ciclistə esperti/e, è possibile affrontare la salita pedalando.
 
 ---
-##
-Pedaleremo lungo il fiume Reno, fino all'inizio della salita di Pian di Venola. Da lì ci sono diverse modalità per salire al Rifugio il Poggiolo a preferenze di ciascun partecipante :
+## Sull'evento
 
-- Salire a piedi, portando la bici a mano o legandola giù con un lucchetto, unendovi al corteo che ogni anno si crea delle persone che salgono a piedi al Poggiolo
-- Prendere la navetta ufficiale dell'evento, che fa avanti e indietro da Pian di Venola al Poggiolo tutto il giorno
-- Solo per i più esperti, sarà indicata la strada da percorrere per salire in bici pedalando
+Pedaleremo da Casalecchio a Pian di Venola, lungo il fiume Reno, fino a raggiungere i piedi di Monte Sole. Il percorso è principalmente asfaltato. 
+[Clicca qui per vedere l'evento dell'anno scorso](https://www.instagram.com/reel/C6ZJweYM28U/?igsh=MXZoMW8ybXU3cDJlNQ==).💫
 
-Ricordiamo che qualsiasi tipo di bicicletta è benvenuta, purché sia in buone condizioni. Ricordatevi di vestirvi comodi, di mettere il casco e di portarvi acqua e snacks.
+Sarà una pedalata facile, accessibile a tutte e a tutti, sempre al passo del più lento.
+Il percorso si può fare con ogni tipologia di bicicletta, purchè sia in buone condizioni e con il cambio funzionante. Necessario l'utilizzo del casco.
+Ricorda di indossare vestiti comodi e a strati, oltre che portare una borraccia d'acqua e qualcosa da mangiare.
 
-- L'evento è rivolto esclusivamente ai soci dell'Associazione Ruota Libera Tutti. Pertanto per partecipare occorre iscriversi qui su meetup e se non si è ancora soci di RLT. Più informazione qui sotto.
-- Il ritorno sarà libero: una volta arrivatǝ al Poggiolo, pranzeremo tuttǝ insieme e ognunǝ rientrerà quando e come preferisce. Verrà indicato come rientrare con il  treno che passa da Pian di Venola, appena sotto il Poggiolo
+Il rientro sarà libero: per chi vorrà, rimarremo al poggiolo per pranzare insieme. Per il rientro è consigliato usufruire della vicina stazione dei treni di Pian di Venola da cui è possibile rientrare a Bologna Centrale. 
+
+**L'evento è rivolto esclusivamente ai soci** dell'Associazione Ruota Libera Tutti. 
+Se non sei ancora tesserato/a, **[diventa socio/a compilando questo form](https://ruota-libera-tutti.github.io/tesseramento) entro il 21 aprile**.
