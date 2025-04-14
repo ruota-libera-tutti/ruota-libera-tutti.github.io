@@ -26,18 +26,18 @@ Chi desidera può comunque raggiungere il rifugio scegliendo l'opzione più adat
 
 In occasione del 25 aprile, ti invitiamo a partecipare a una pedalata collettiva lungo il fiume Reno, per raggiungere insieme i piedi di Monte Sole, luogo simbolico della Memoria e della Resistenza.
 
-Partiremo da Casalecchio di Reno e pedaleremo fino a Pian di Venola, su un percorso facile e accessibile, adatto a tutte e tutti. L’arrivo è previsto intorno alle 13:30, in tempo per chi vorrà proseguire verso il [Rifugio Resistente il Poggiolo]([https://rifugioresistente.it/](https://rifugioresistente.it/chi-siamo/)) dove si tengono ogni anno le celebrazioni per la Festa della Liberazione.
+Partiremo da Casalecchio di Reno e pedaleremo fino a Pian di Venola, su un percorso facile e accessibile, adatto a tutte e tutti. L’arrivo è previsto intorno alle 13:30, in tempo per chi vorrà proseguire verso il [Rifugio Resistente il Poggiolo](https://rifugioresistente.it/chi-siamo/) dove si tengono ogni anno le celebrazioni per la Festa della Liberazione.
 
 💡 Il percorso è in gran parte asfaltato e si può affrontare con qualsiasi tipo di bicicletta, purché in buone condizioni e con il cambio funzionante.\
 🪖 Il casco è obbligatorio per partecipare.\
-🚴‍♂️ La pedalata sarà condotta al passo del più lento, per garantire un’andatura inclusiva e piacevole per tuttə.\
+🚴‍♂️ La pedalata sarà condotta al passo del più lento, per garantire un’andatura inclusiva e piacevole per tuttə.
 
 Consigli utili per la giornata:
 - Indossa abiti comodi e a strati, adatti a una giornata all’aperto.
 - Porta con te una borraccia d’acqua e qualcosa da mangiare.
 - Assicurati che la tua bici sia ben regolata e pronta al viaggio.
 
-Unisciti a noi per questo giro in bici del 25 aprile: un modo attivo, partecipato e collettivo per celebrare la Festa della Liberazione, immersi nella natura e nella memoria.
+Unisciti a noi e [iscriviti qui](https://docs.google.com/forms/d/e/1FAIpQLScm1jzZi_eIxzBMGwa1-eRXCYbbVY8m0o0VzZg9NLpCAcDiRw/viewform?usp=dialog) per questo giro in bici del 25 aprile: un modo attivo, partecipato e collettivo per celebrare la Festa della Liberazione, immersi nella natura e nella memoria.
 
 Il rientro sarà libero: chi lo desidera potrà fermarsi al Rifugio il Poggiolo per pranzare insieme e partecipare alle iniziative del pomeriggio. In alternativa, è possibile tornare comodamente a Bologna utilizzando i treni in partenza dalla vicina stazione di Pian di Venola, con collegamenti ogni ora verso Bologna Centrale.
 
