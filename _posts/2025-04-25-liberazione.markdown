@@ -24,14 +24,13 @@ Chi desidera può comunque raggiungere il rifugio scegliendo l'opzione più adat
 ---
 ## Sull'evento
 
-Pedaleremo da Casalecchio a Pian di Venola, lungo il fiume Reno, fino a raggiungere i piedi di Monte Sole. Il percorso è principalmente asfaltato. 
-[Clicca qui per vedere l'evento dell'anno scorso](https://www.instagram.com/reel/C6ZJweYM28U/?igsh=MXZoMW8ybXU3cDJlNQ==).💫
-
-Sarà una pedalata facile, accessibile a tutte e a tutti, sempre al passo del più lento.
-Il percorso si può fare con ogni tipologia di bicicletta, purchè sia in buone condizioni e con il cambio funzionante. Necessario l'utilizzo del casco.
+Pedaleremo da Casalecchio a Pian di Venola, lungo il fiume Reno, fino a raggiungere i piedi di Monte Sole. L'arrivo a Pian di Venola è previsto alle ore 13.30. Il percorso è principalmente asfaltato e si può fare con ogni tipologia di bicicletta, purchè sia in buone condizioni e con il cambio funzionante. Necessario l'utilizzo del casco. Sarà una pedalata facile, accessibile a tutte e a tutti, sempre al passo del più lento.
 Ricorda di indossare vestiti comodi e a strati, oltre che portare una borraccia d'acqua e qualcosa da mangiare.
 
 Il rientro sarà libero: per chi vorrà, rimarremo al poggiolo per pranzare insieme. Per il rientro è consigliato usufruire della vicina stazione dei treni di Pian di Venola da cui è possibile rientrare a Bologna Centrale. 
+
+[Clicca qui per vedere l'evento dell'anno scorso](https://www.instagram.com/reel/C6ZJweYM28U/?igsh=MXZoMW8ybXU3cDJlNQ==).💫
+
 
 **L'evento è rivolto esclusivamente ai soci** dell'Associazione Ruota Libera Tutti. 
 Se non sei ancora tesserato/a, **[diventa socio/a compilando questo form](https://ruota-libera-tutti.github.io/tesseramento) entro il 21 aprile**.
