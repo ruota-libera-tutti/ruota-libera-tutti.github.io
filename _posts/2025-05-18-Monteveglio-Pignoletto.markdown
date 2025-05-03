@@ -43,3 +43,5 @@ chiudono il 14 maggio.
 Per qualsiasi dubbio o domanda, scriveteci via mail, instagram o whatsapp
 
 A presto regaz! 
+
+*** Infomazione per tutti i soci: la location di questo evento è stata modificata per renderlo in linea con i valori dell'associazione: accessibile economicamente ed orientato alla promozione del territorio di Bologna
