@@ -8,7 +8,9 @@ cover: assets/images/events/valdobbiadene-2025.jpeg
 lang: it
 ---
 **📅 Data e ora: Domenica 18 Maggio 2025 - 8.45\
-**📍 Ritrovo: Ore 8:45 alla Chiesa di San Martino, Casalecchio di Reno - Partenza Ore 9 [Vedi mappa](https://chat.whatsapp.com/L0AhkPWrf7PKQyTK6Fuf16)
+**📍 Ritrovo: Ore 8:45 alla Chiesa di San Martino, Casalecchio di Reno - Partenza Ore 9 [Vedi mappa](
+(https://g.co/kgs/zMs9tMo)
+
 **🗺️ Percorso: 35 km - 450 metri di dislivello 
 **📝 Iscrizioni: [compila questo form](https://forms.gle/FCEz15HYyfS6tkK29) per iscriverti
 ---
