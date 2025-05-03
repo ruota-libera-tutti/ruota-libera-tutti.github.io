@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biciclettata a Monteveglio e colli del Pignoletto
+title: Biciclettata al Parco Naturale di Monteveglio lungo i colli del Pignoletto
 date: 2025-05-18 08:45:00 +0200
 categories: social-ride
 excerpt: Pedalata verso il Parco Naturale di Monteveglio 
@@ -8,11 +8,11 @@ cover: assets/images/events/valdobbiadene-2025.jpeg
 lang: it
 ---
 **📅 Data e ora: Domenica 18 Maggio 2025 - 8.45\
-**📍 Ritrovo: Ore 8:45 alla Chiesa di San Martino, Casalecchio di Reno - Partenza Ore 9 
+**📍 Ritrovo: Ore 8:45 alla Chiesa di San Martino, Casalecchio di Reno - Partenza Ore 9 [Vedi mappa](https://chat.whatsapp.com/L0AhkPWrf7PKQyTK6Fuf16)
 **🗺️ Percorso: 35 km - 450 metri di dislivello 
-**📝 Iscrizioni: Compilare il modulo a questo link
-
+**📝 Iscrizioni: [compila questo form](https://forms.gle/FCEz15HYyfS6tkK29) per iscriverti
 ---
+
 🌿 Biciclettata verso il Parco Naturale di Monteveglio attraverso l’antica via dei Brentatori e i colli del Pignoletto 
 
 Sarà l’occasione per conoscere il territorio che unisce Bologna e Modena, pedalando lungo l’antica via dei Brentatori, tra calanchi e antichi borghi sui 
