@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biciclettata alla scoperta dei colli del Pignoletto e del Parco Naturale di Monteveglio
+title: Alla scoperta dei colli del Pignoletto e del Parco Naturale di Monteveglio
 date: 2025-05-18 08:45:00 +0200
 categories: social-ride
 excerpt: Lungo l'antica Via dei Brentatori, conosciamo il nostro territorio!
