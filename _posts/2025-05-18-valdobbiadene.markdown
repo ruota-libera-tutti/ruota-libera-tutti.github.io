@@ -37,7 +37,7 @@ Da non dimenticare:
 * Acqua, pranzo al sacco e abbigliamento comodo e luci frontale e posteriore
 
 🌻 L’evento è riservato ai soci dell’Associazione Ruota Libera Tutti. Se non sei ancora tesserato/a, puoi 
-farlo compilando il form seguendo la pagina tesseramento" sul nostro sito web. Per nuovi soci, le iscrizioni 
+farlo compilando il form seguendo la pagina Tesseramento sul nostro sito web. Per nuovi soci, le iscrizioni 
 chiudono il 14 maggio.
 
 Per qualsiasi dubbio o domanda, scriveteci via mail, instagram o whatsapp
