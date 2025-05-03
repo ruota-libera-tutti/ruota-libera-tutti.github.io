@@ -10,10 +10,9 @@ lang: it
 
 📅 Data e ora:: Mercoledi 4 giugno ore 18.30
 📍 Ritrovo: Labas - Vicolo Bolognetti 8 - Bologna
-
 ---
 
-Vieni ad ascoltare e scoprire il viaggio pazzesco che il nostro amico e socio Nicolo Garagnagni - per gli amici Tricy - ha appena concluso: ha percorso tutto il Sud America in bicicletta. Sarà l'occasione per ispirarci, ma non solo, per apprendere qualche piccolo accorgimento da portare nei piccoli viaggi in bicicletta. 
+Vieni ad ascoltare e scoprire il viaggio pazzesco che il nostro amico e socio Nicolo Garagnagni - per gli amici Tricy - ha appena concluso: ha percorso tutto il Sud America in bicicletta. Sarà l'occasione per ispirarci, ma non solo, per apprendere qualche piccolo accorgimento da portare nei piccoli viaggi in bicicletta che ciascuno di noi fa, nel quotidiano oppure nelle prossime piccole o grandi avventure. 
 
 L'evento è gratuito e aperto a tutte e a tutti. 
 Aiutaci nell'organizzazione iscrivendoti all'evento, [compilando questo form](https://forms.gle/VcQbAE3SK3duFMJ86)
