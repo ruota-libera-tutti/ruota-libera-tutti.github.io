@@ -1,21 +1,45 @@
 ---
 layout: post
-title: Valdobbiadene, prosecco e patrimonio Unesco
-date: 2025-05-18 08:30:00 +0200
+title: Biciclettata a Monteveglio e colli del Pignoletto
+date: 2025-05-18 08:45:00 +0200
 categories: social-ride
-excerpt: Pedalata tra le colline del Prosecco e panorami da cartolina.
+excerpt: Pedalata verso il Parco Naturale di Monteveglio 
 cover: assets/images/events/valdobbiadene-2025.jpeg
 lang: it
 ---
-**📅 Data e ora:** Domenica 18 Maggio 2025 - 8.30\
-**📍 Ritrovo:** _maggiori informazioni in arrivo_\
-**🗺️ Percorso:** _maggiori informazioni in arrivo_\
-**📝 Iscrizioni:** _maggiori informazioni in arrivo_
+**📅 Data e ora: Domenica 18 Maggio 2025 - 8.45\
+**📍 Ritrovo: Ore 8:45 alla Chiesa di San Martino, Casalecchio di Reno - Partenza Ore 9 
+**🗺️ Percorso: 35 km - 450 metri di dislivello 
+**📝 Iscrizioni: Compilare il modulo a questo link
 
 ---
+🌿 Biciclettata verso il Parco Naturale di Monteveglio attraverso l’antica via dei Brentatori e i colli del Pignoletto 
 
-Unisciti a noi per un’incantevole giornata tra le colline del Prosecco, patrimonio mondiale dell’UNESCO, pedalando tra vigneti e bei panorami. Una giornata perfetta per gli amanti della bici, della natura e dei sapori autentici italiani!
+Sarà l’occasione per conoscere il territorio che unisce Bologna e Modena, pedalando lungo l’antica via dei Brentatori, tra calanchi e antichi borghi sui 
+colli bolognesi, lungo il bosco del torrente Lavino, per arrivare nel cuore del Parco Naturale di Monteveglio immersi tra i vigneti di Pignoletto e 
+pedalando nella sicura pista ciclabile che gira tutta attorno il Parco. 
 
-## Dettagli sul percorso e altre informazioni in arrivo presto!
+🥪 Pranzo al sacco consigliato: ci fermeremo per la pausa pranzo, appena raggiunto Monteveglio. In caso doveste scordarlo, ci fermeremo in mattinata in 
+un bar lungo il percorso per la pausa caffè, dove potete chiedere un panino take-away.
 
-Segna la data e preparati per un’esperienza unica che unisce sport, bellezza e gusto. Ti aspettiamo per pedalare e brindare insieme!
+🚵‍♂️ Durante la pausa pranzo, solo per persone più esperte e per chi ha voglia di salita, si potrà affrontare la breve ma intensa scalata alla Rocca di 
+Monteveglio, in cima al parco. 
+
+🚆 Il rientro è previsto con il treno delle 17:15 dalla stazione di Bazzano, con possibilità di caricare le biciclette a bordo e rientrare comodamente a  
+Bologna Centrale. Per chi proprio
+
+## Info utili
+
+Il percorso è adatto a tutte le persone e biciclette: lo affronteremo insieme con calma, al passo del più lento. Le salite più impegnative si possono fare 
+anche a piedi, con tutta la calma del mondo. Si consiglia di viaggiare leggeri e di non caricare eccessivamente la bicicletta
+
+Da non dimenticare:
+* Casco e camera d’aria di scorta adatta alla propria bicicletta 
+* Acqua, pranzo al sacco e abbigliamento comodo e luci frontale e posteriore
+
+🌻 L’evento è riservato ai soci dell’Associazione Ruota Libera Tutti. Se non sei ancora tesserato/a, puoi farlo compilando il form seguendo la pagina 
+"tesseramento" sul nostro sito web. Per nuovi soci, le iscrizioni chiudono il 14 maggio.
+
+Per qualsiasi dubbio o domanda, scriveteci via mail, instagram o whatsapp
+
+A presto regaz! 
