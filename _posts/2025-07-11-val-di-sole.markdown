@@ -7,11 +7,11 @@ excerpt: Terza edizione del Viaggio estivo in Bicicletta di RLT - facile, access
 cover: assets/images/val di sole 2.png
 lang: it
 ---
-**📅 Data e ora:** da Venerdì 11 a Domenenica 13 Luglio 2025\
-**📍 Ritrovo: Mostizzolo (TN) ore 12.30 - Partenza ore 13 
-**🗺️ Distanza totale da percorrere** :  30 km al giorno
-**💸 Quota di partecipazione** : 70 euro (incluso anticipo per il campeggio)
-**📝 Iscrizioni: [Iscriviti qui](https://forms.gle/uHPoTXR4UopfuSn77)
+**📅 Data e ora:** da Venerdì 11 a Domenenica 13 Luglio 2025\  
+**📍 Ritrovo: Mostizzolo (TN) ore 12.30 - Partenza ore 13   
+**🗺️ Distanza totale da percorrere** :  30 km al giorno  
+**💸 Quota di partecipazione** : 70 euro (incluso anticipo per il campeggio)  
+**📝 Iscrizioni: [Iscriviti qui](https://forms.gle/uHPoTXR4UopfuSn77)  
 
 Ed eccoci al gran ritorno di RLT nel contesto della Val di Sole, ormai alla terza edizione!🚲 ☀️🏔️
 E anche quest’anno faremo in modo accessibile: ogni persona, con capacità e biciclette diverse, potrà lanciarsi un questa nuova avventura! 🌈
@@ -38,8 +38,8 @@ Per chi avrà invece voglia di pedalare, andremo lungo la Val di Pejo, raggiunge
 - Ci raccomandiamo di utilizzare il treno come mezzo per raggiungere la Val di Sole  
 - I treni da prendere sono 2: il primo di Trenitalia da Bologna a Trento il secondo da Trento a Mostizzolo  
 - Suggeriamo di prendere il treno da Bolgona delle 7.10 all'andata e al ritorno saremo al piu tardi alle 20.05  
-
-##📢 Dettagli dell’evento 
+  
+## 📢  Dettagli dell'evento
 - Per rendere davvero accessibile l’evento a tutte le socie e a tutti i soci di RLT, le pedalate saranno a passo lento e i percorsi accessibili e ci sarà sempre la possibilità di rientrare in campeggio, che sarà centrale a tutti i giri previsti  
 - Ognuno porterà con se l’attrezzatura da campeggio, meglio se condivisa   
 - I pranzi e le cene saranno liberi e promuoviamo il cibo al sacco, pasti frugali e condivisi  
