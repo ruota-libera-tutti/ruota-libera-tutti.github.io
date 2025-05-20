@@ -4,7 +4,7 @@ title: Viaggio in BikePacking accessibile in Val di Sole - Trentino
 date: 2025-07-11 12:30:00 +0200
 categories: "social-ride"
 excerpt: Terza edizione del Viaggio estivo in Bicicletta di RLT - facile, accessibile ed al passo del più lento
-cover: assets/images/val di sole.png
+cover: assets/images/val di sole 2.png
 lang: it
 ---
 **📅 Data e ora:** da Venerdì 11 a Domenenica 13 Luglio 2025\
