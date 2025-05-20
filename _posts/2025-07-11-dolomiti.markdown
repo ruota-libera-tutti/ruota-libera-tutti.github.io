@@ -4,7 +4,7 @@ title: Viaggio in BikePacking accessibile in Val di Sole - Trentino
 date: 2025-07-11 8:30:00 +0200
 categories: "social-ride"
 excerpt: Terza edizione del Viaggio in Bicicletta in montagna di RLT - facile, accessibile ed al passo del più lento
-cover: assets/images/events/dolomiti-2025.jpeg
+cover: assets/images/val di sole.png
 lang: it
 ---
 **📅 Data e ora:** da Venerdì 11 a Domenenica 13 Luglio 2025\
@@ -44,12 +44,6 @@ Per chi avrà invece voglia di pedalare, andremo lungo la Val di Pejo. Si tratta
 
 - **Distanza**: 30 km 450mt
 - **Attività**: Pedalata lungo la Val di Pejo e rientro in treno da Mezzana
-
-## 📸 Galleria Fotografica
-
-Ecco alcune delle foto scattate durante il viaggio:
-
-(da completare)
 
 ## 📅 Dettagli Logistici
 - Ci raccomandiamo di utilizzare il treno come mezzo per raggiungere la Val di Sole il primo giorno e rientrare a Bologna il terzo giorno.  I treni da prendere sono due: il primo da Bologna a Trento, il secondo da Trento a Mostizzolo. Il primo treno è acquistabile sul sito di Trenitalia ed è suggerito il RV delle 7.10 per Trento. Da Trento, occorre acquistare il biglietto direttamente in stazione, utilizzando la linea Trento-Mezzana. Attenzione: per il secondo treno, occorre prenotare il posto bici online sul sito di Trentino Trasporti. 
