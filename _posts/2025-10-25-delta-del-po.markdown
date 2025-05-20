@@ -4,7 +4,7 @@ title: "Delta del Po, Comacchio e Argine degli Angeli"
 date: 2025-10-26 8:30:00 +0200
 categories: social-ride
 excerpt: Una facile e sicura pista ciclabile immersa nel Parco del Delta del Po 
-cover: assets/images/events/comacchio.jpeg
+cover: assets/images/comacchio.jpeg
 lang: it
 ---
 📅 Data e ora: Domenica 26 Ottobre 2025  
