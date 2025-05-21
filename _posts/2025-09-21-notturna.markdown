@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Tutto in una notte!  
-Notturna da Bologna a Marina di Ravenna
+title: Tutto in una notte! Notturna da Bologna a Marina di Ravenna
 date: 2025-09-21 04:00:00 +0200
 categories: social-ride
 excerpt: Partiamo la notte tra sabato e domenica e arriviamo per pranzo - pronti per la piadina! 
