@@ -3,21 +3,21 @@ layout: post
 title: Viaggio in BikePacking in Val di Sole - Trentino 
 date: 2025-07-11 12:30:00 +0200
 categories: "social-ride"
-excerpt: Terza edizione del Viaggio estivo in Bicicletta di RLT - facile, accessibile ed al passo del più lento
+excerpt: Terza edizione del Viaggio estivo in Bicicletta di RLT - Facile, Acessibile ed al passo del più lento
 cover: assets/images/val di sole 2.png
 lang: it
 ---
-**📅 Data e ora:** da Venerdì 11 a Domenenica 13 Luglio 2025\  
-**📍 Ritrovo: Mostizzolo (TN) ore 12.30 - Partenza ore 13   
-**🗺️ Distanza totale da percorrere** :  30 km al giorno  
-**💸 Quota di partecipazione** : 70 euro (incluso anticipo per il campeggio)  
-**📝 Iscrizioni: [Iscriviti qui](https://forms.gle/uHPoTXR4UopfuSn77)  
+**📅 Quando: 11–13 luglio 2025**
+**📍 Ritrovo: Mostizzolo (TN), ore 12:30 – Partenza ore 13:00** 
+**🗺️ Percorso: 30 km al giorno**
+**💸 Quota: 80 € (incluso anticipo campeggio)**
+**📝 Iscrizioni: [Iscriviti qui](https://forms.gle/uHPoTXR4UopfuSn77) entro il 3 luglio!**
 
 Ed eccoci al gran ritorno di RLT nel contesto della Val di Sole, ormai alla terza edizione!🚲 ☀️🏔️
 E anche quest’anno faremo in modo accessibile: ogni persona, con capacità e biciclette diverse, potrà lanciarsi un questa nuova avventura! 🌈
 
 **In Breve**  
-Pedaleremo lungo la spaziosa ciclabile di fondovalle affianco il fiume Noce. Lungo  il percorso ci saranno diversi punti attrezzati ed accanto alla ciclabile ci sarà sempre il treno, che utilizzeremo, come sempre, per ogni nostro spostamento. Visiteremo Ossana - Capitale dei Mille Presepi, Vermiglio - divenuta celebre dal recente film pluripremiato, e andremo a visitare il Lago dei Caprioli, senza perderci la pittoresca Val Piana. Visiteremo infine la Val di Pejo, prima di rientrare a casa, rigorosamente in treno.
+Pedaleremo lungo la sicura ciclabile di fondovalle affianco il fiume Noce, proprio per tutti. Lungo  il percorso ci saranno diversi punti attrezzati ed accanto la ciclabile ci sarà sempre il treno, che utilizzeremo, come sempre, per ogni nostro spostamento. Visiteremo Ossana - Capitale dei Mille Presepi, Vermiglio - divenuta celebre dal recente film pluripremiato, e andremo a visitare il Lago dei Caprioli, senza perderci la pittoresca Val Piana. Visiteremo infine la Val di Pejo, prima di rientrare a casa, rigorosamente in treno.
 
 ## 🗺️ Itinerario
 
@@ -55,23 +55,19 @@ Il viaggio è confermato con un minimo di 8 partecipanti
 - [Treno Val di Sole - Trento Mezzana](https://www.visitvaldisole.it/it/trasporti-pubblici)  
 - [Link al sito del Turismo in Val di Sole](https://www.visitvaldisole.it)  
 
-## 💬 Costi
+## 💬 Costi e Iscrizione
 
-La partecipazione all’evento ha un costo di 70 euro a persona, che includono:  
-
-- Anticipo pernottamento in tenda in campeggio presso il Campeggio “I Larici - Ossana” (10 euro)  
-- Contributo donazione a RLT come auto-finanziamento (60 euro)  
-
-Per iscriversi, occorre compilare il Form che trovate in cima a questo post ed inviare un bonifico all'IBAN di RLT: IT20N0707236591000000743750 indicando "nome cognome Escursione Val di Sole 2025"
+La partecipazione all’evento ha un costo di 80 euro a persona, che includono la quota di anticipo del campeggio per fermare la piazzola comune. Per iscriversi, occorre compilare il Form che trovate in cima a questo post ed inviare un bonifico all'IBAN di RLT: IT20N0707236591000000743750 indicando "nome cognome Escursione Val di Sole 2025"
 
 La quota non include:
 
-- Tesseramento a RLT (da completare entro e non oltre il 5 luglio)  
-- Pasti (favoriremo pranzi al sacco e cene frugali per rendere il viaggio accessibile a tutti)  
+- Tesseramento a RLT (da completare entro e non oltre il 30 giugno)  
+- Pasti (favoriremo pranzi al sacco e cene frugali per rendere il viaggio accessibile)  
 - Biglietti Treni - sia dei viaggi AR e spostamenti interni durante il viaggio  
-- Eventuale noleggio biciclette e attrezzatura  
+- Eventuale noleggio bicicletta e attrezzatura di campeggio
 
 Prima della partenza, organizzeremo un incontro tra i partecipanti e un gruppo whatssap dedicato per darvi tutti i suggerimenti utili su come organizzare la bicicletta, con la propria tenda.  
 
-Per qualsiasi dubbio o domanda, non esistate a scriverci via mail.  
+Per qualsiasi dubbio o domanda, non esistate a scriverci via mail. 
+
 Non vediamo di partire per la Val di Sole insieme, è sempre una nuova avventura!   
