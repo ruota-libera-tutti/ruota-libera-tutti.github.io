@@ -7,7 +7,7 @@ excerpt: Una pedalata facile e accessibile, per tutta la famiglia, per celebrare
 cover: assets/images/familyride.jpg
 ---
 
-**📅 Data e ora:** Venerdì 20 giugno 2025 alle ore 16:45  
+**📅 Data e ora:** Venerdì 20 giugno 2025 dalle ore 16:45 alle ore 20.00
 **📍 Ritrovo:** Stazione dei Treni di Funo di Argelato (BO) – facilmente raggiungibile in treno da Bologna  
 **🗺️ Distanza:** 12 km – completamente pianeggiante, su pista ciclabile, con passo lento e tante soste 🚲  
 **💸 Partecipazione:** gratuita per tutte e tutti 🙌  
@@ -29,7 +29,7 @@ All’arrivo a Bentivoglio ci attenderanno un **rinfresco 🍉🥤** e la musica
 
 ### 🗓️ Programma – Venerdì 20 giugno 2025
 
-- 🚂 Arrivo consigliato con il treno 17964 da Bologna (partenza ore 17:24, possibilità di portare le bici a bordo con biglietto separato)  
+- 🚂 Arrivo consigliato con il treno 17964 da Bologna (partenza ore 16:24, possibilità di portare le bici a bordo con biglietto separato)  
 - 🕒 Ritrovo alle 16:45 alla stazione di Funo di Argelato (Funo Centergross)  
 - 🚴 Partenza ore 17:00  
 - 🎨 Visita al Murales della Pace a Castagnolino, realizzato da Baobab OdV  
