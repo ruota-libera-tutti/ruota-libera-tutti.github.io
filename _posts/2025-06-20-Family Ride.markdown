@@ -4,7 +4,7 @@ title: "Family Ride: il diritto a pedalare per tutta la famiglia 🚴‍♂️�
 date: 2025-06-20 16:45:00 +0200
 categories: social-ride
 excerpt: Una pedalata facile e accessibile, per tutta la famiglia 🚲🎉
-cover: assets/images/family ride.png
+cover: assets/images/familyride.jpg
 ---
 
 **📅 Data e ora:** Venerdì 20 giugno 2025 alle ore 16:45  
