@@ -7,9 +7,8 @@ excerpt: Dal 17 settembre torna il Bike Park di RLT. Accompagnamo bambini dai 4 
 cover: assets/images/bikepark_cover.png
 ---
 
-**🚴‍♂️ Torna il Bike Park di RLT! Ci vediamo il 17 settembre al ViaLarga oppure il 27 al Dumbo**  
-La scorsa primavera abbiamo visto tanti piccoli pedalatori crescere, togliere le rotelle e conquistare la loro libertà sulle due ruote.  
-A grande richiesta, ora ripartiamo con un **nuovo percorso** pensato proprio per aiutare tutti i bambini dai **4 agli 11 anni** a imparare a pedalare oppure a continuare a migliorare, stando insieme agli altri bambini, facendo della bicicletta un’occasione di **gioco, sport e crescita di autonomia**.
+**🚴‍♂️ Dal 17 settembre torna il Bike Park di RLT - E raddoppia: saremo al Vialarga il sabato mattina e al Dumbo il mercoledì pomeriggio. Decidete voi quando venire a pedalare insieme a noi**
+La scorsa primavera abbiamo visto tanti piccoli pedalatori crescere, togliere le rotelle e conquistare la loro libertà sulle due ruote. A grande richiesta, ora ripartiamo con un **nuovo percorso** pensato proprio per aiutare tutti i bambini dai **4 agli 11 anni** a imparare a pedalare oppure a continuare a migliorare, stando insieme agli altri bambini, facendo della bicicletta un’occasione di **gioco, sport e crescita di autonomia**.
 
 🎯 **Il nostro obiettivo?**  
 Non vogliamo campioni da gara, ma bambini **autonomi e sicuri** nel pedalare con le altre persone.  
