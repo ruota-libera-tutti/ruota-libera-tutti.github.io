@@ -48,7 +48,7 @@ Ogni giornata prevede due turni di 50 minuti:
 - Sabato: Tartarughe 10:00 – 10:50 / Lepri 11:00 – 11:50  
 
 Gli **Open Days di settembre sono gratuiti**: vieni a provare e scoprire il campo scuola senza impegno!  
-Prima però, non dimenticare di **iscriverti subito** compilando il [https://forms.gle/sSyBuZifdWrkt7Db7]
+Prima però, non dimenticare di **iscriverti subito** compilando il  [Form] (https://forms.gle/sSyBuZifdWrkt7Db7)
 
 🚲 **Cosa serve?**  
 - **Bicicletta in buone condizioni** e senza rotelle (anche se ancora in fase di apprendimento)  
@@ -65,12 +65,12 @@ Grazie alla collaborazione con **Decathlon**, durante il percorso avremo a dispo
 Perché crediamo che tutti i bambini abbiano il diritto di pedalare su una **bicicletta sicura e funzionante**.
 
 🚀 **Pronti a partire?**  
-Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **compila subito il [https://forms.gle/sSyBuZifdWrkt7Db7]*!  
+Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **compila subito il [form] (https://forms.gle/sSyBuZifdWrkt7Db7)*!  
 
 Vuoi invece conoscerci prima? Partecipa agli **Open Days di settembre**, senza impegno!  
 Intanto però, **facci sapere quando verrai compilando il [https://forms.gle/sSyBuZifdWrkt7Db7]** per prenotare la tua prova gratuita.
 
 ✅ **Cosa fare in breve per partecipare**  
-1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici compilando il [https://forms.gle/sSyBuZifdWrkt7Db7]
+1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici compilando il [form] (https://forms.gle/sSyBuZifdWrkt7Db7)
 2. **Tessera associativa:** se non lo è già, iscrivi il bambino all’associazione a questo link  
 3. **Vieni a trovarci agli Open Days di settembre** per provare gratuitamente il campo scuola  
