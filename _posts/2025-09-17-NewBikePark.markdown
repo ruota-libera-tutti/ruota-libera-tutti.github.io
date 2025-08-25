@@ -74,7 +74,7 @@ Intanto però, **[facci sapere quando verrai compilando questo form](https://for
 ✅ **Cosa fare in breve per partecipare**  
 1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici **[compilando  il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
 2. **Tessera associativa:** se non lo è già, iscrivi il bambino all’associazione a **[questo link](https://114mch5e.forms.app/ruota-libera-tutti)**  
-3. **Vieni a trovarci agli Open Days di settembre** per provare gratuitamente il campo scuola
+3. **Vieni a trovarci agli Open Days di settembre** per riprendere a pedalare insieme! 
 
 Per qualsiasi dubbio, scrivici a ruotaliberatutti@gmail.com! 
 Ci vediamo presto, in sella, ripartendo dai più piccoli! 
