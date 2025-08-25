@@ -17,7 +17,7 @@ Il Bike Park è un percorso **divertente e sicuro** dove i bimbi imparano a gest
 E voi genitori? Siamo al vostro fianco per darvi **consigli pratici e supporto**: insieme possiamo accompagnare i più piccoli verso un’avventura che dura tutta la vita!
 
 💸 **Perché renderlo accessibile?**  
-Crediamo che andare in bici sia un **diritto di tutti i bambini** così come lo è **garantire ai propri figli di apprendere divertendosi**
+Crediamo che andare in bici sia un **diritto di tutti i bambini**, così come lo è **garantire ai propri figli di apprendere divertendosi**.  
 Per questo lavoriamo di continuo per mantenere un **costo contenuto** del Bike Park. **Pedalare è un gioco per tutti!**
 
 📅 **Quando e dove?**  
@@ -37,18 +37,18 @@ A seguire i vostri bambini ci sono **istruttori esperti** aiutati da volontari a
 📅 **Calendario Campo Scuola Bici 2025**  
 Il campo scuola si svolge da metà settembre a inizio novembre, con appuntamenti il mercoledì pomeriggio al DumBO e il sabato mattina al Parco ViaLarga. Ecco il programma:  
 
-| Data            | Mercoledì (DumBO, pomeriggio) | Sabato (Parco ViaLarga, mattina) |
-|-----------------|-------------------------------|----------------------------------|
+| Data                  | Mercoledì (DumBO, pomeriggio) | Sabato (Parco ViaLarga, mattina) |
+|-----------------------|-------------------------------|----------------------------------|
 | Settembre - Open Days | 17                            | 27                               |
-| Ottobre         | 1, 15, 22                     | 11, 25                           |
-| Novembre        | —                             | 8                                |
+| Ottobre               | 1, 15, 22                     | 11, 25                           |
+| Novembre              | —                             | 8                                |
 
 Ogni giornata prevede due turni di 50 minuti:  
-- Mercoledì: Tartarughe 17:00 – 17:50 / Lepri 18:00 – 18:50  
-- Sabato: Tartarughe 10:00 – 10:50 / Lepri 11:00 – 11:50  
+- **Mercoledì**: Tartarughe 17:00 – 17:50 / Lepri 18:00 – 18:50  
+- **Sabato**: Tartarughe 10:00 – 10:50 / Lepri 11:00 – 11:50  
 
 Gli **Open Days di settembre sono gratuiti**: vieni a provare e scoprire il campo scuola senza impegno!  
-Prima però, non dimenticare di **iscriverti subito** compilando il  [Form] (https://forms.gle/sSyBuZifdWrkt7Db7)
+Prima però, non dimenticare di **[iscriverti subito compilando il form](https://forms.gle/sSyBuZifdWrkt7Db7)**.
 
 🚲 **Cosa serve?**  
 - **Bicicletta in buone condizioni** e senza rotelle (anche se ancora in fase di apprendimento)  
@@ -56,21 +56,25 @@ Prima però, non dimenticare di **iscriverti subito** compilando il  [Form] (htt
 - **Abbigliamento comodo** e una borraccia d’acqua  
 - **Essere tesserati** alla nostra associazione  
 
-💶 **Costi & iscrizioni**  Per tutto il percorso - Venite quante e quali volte riuscite! 
+💶 **Costi & iscrizioni**  
+Per tutto il percorso – venite quante e quali volte riuscite!  
 - **Early Bird** (fino al 31 agosto): 40€  
-- **Prezzo pieno** (dal 1° settembre): 50€ 
+- **Prezzo pieno** (dal 1° settembre): 50€  
 
 🤝 **Partnership e assistenza biciclette**  
 Grazie alla collaborazione con **Decathlon**, durante il percorso avremo a disposizione un servizio gratuito di **assistenza per sistemare le biciclette** dei bambini in caso di necessità.  
 Perché crediamo che tutti i bambini abbiano il diritto di pedalare su una **bicicletta sicura e funzionante**.
 
 🚀 **Pronti a partire?**  
-Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **compila subito il [form] (https://forms.gle/sSyBuZifdWrkt7Db7)*!  
+Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **[compila subito il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
 
 Vuoi invece conoscerci prima? Partecipa agli **Open Days di settembre**, senza impegno!  
-Intanto però, **facci sapere quando verrai compilando il [https://forms.gle/sSyBuZifdWrkt7Db7]** per prenotare la tua prova gratuita.
+Intanto però, **[facci sapere quando verrai compilando questo form](https://forms.gle/sSyBuZifdWrkt7Db7)** per prenotare la tua prova gratuita.
 
 ✅ **Cosa fare in breve per partecipare**  
-1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici compilando il [form] (https://forms.gle/sSyBuZifdWrkt7Db7)
+1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici **[compilando  il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
 2. **Tessera associativa:** se non lo è già, iscrivi il bambino all’associazione a questo link  
-3. **Vieni a trovarci agli Open Days di settembre** per provare gratuitamente il campo scuola  
+3. **Vieni a trovarci agli Open Days di settembre** per provare gratuitamente il campo scuola
+
+Per qualsiasi dubbio, scrivici a ruotaliberatutti@gmail.com! 
+Ci vediamo presto, in sella, ripartendo dai più piccoli! 
