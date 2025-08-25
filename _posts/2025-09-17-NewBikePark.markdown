@@ -2,7 +2,7 @@
 layout: post
 title: Torna il Bike Park di RLT! Impariamo a pedalare insieme
 date: 2025-09-17 17:00:00 +0200
-categories: campo-scuola
+categories: bike-park
 excerpt: Dal 17 settembre torna il Bike Park di RLT per bambini dai 4 agli 11 anni 
 cover: assets/images/bikepark_cover.png
 ---
@@ -65,7 +65,7 @@ Grazie alla collaborazione con **Decathlon**, durante il percorso avremo a dispo
 Perché crediamo che tutti i bambini abbiano il diritto di pedalare su una **bicicletta sicura e funzionante**.
 
 🚀 **Pronti a partire?**  
-Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **compila subito il [https://forms.gle/sSyBuZifdWrkt7Db7]* e assicuragli un posto!  
+Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **compila subito il [https://forms.gle/sSyBuZifdWrkt7Db7]*!  
 
 Vuoi invece conoscerci prima? Partecipa agli **Open Days di settembre**, senza impegno!  
 Intanto però, **facci sapere quando verrai compilando il [https://forms.gle/sSyBuZifdWrkt7Db7]** per prenotare la tua prova gratuita.
