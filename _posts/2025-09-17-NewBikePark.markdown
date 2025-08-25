@@ -8,6 +8,7 @@ cover: assets/images/bikepark_cover.png
 ---
 
 **🚴‍♂️ Dal 17 settembre torna il Bike Park di RLT - E raddoppia: saremo al Vialarga il sabato mattina e al Dumbo il mercoledì pomeriggio. Decidete voi quando venire a pedalare insieme a noi**
+
 La scorsa primavera abbiamo visto tanti piccoli pedalatori crescere, togliere le rotelle e conquistare la loro libertà sulle due ruote. A grande richiesta, ora ripartiamo con un **nuovo percorso** pensato proprio per aiutare tutti i bambini dai **4 agli 11 anni** a imparare a pedalare oppure a continuare a migliorare, stando insieme agli altri bambini, facendo della bicicletta un’occasione di **gioco, sport e crescita di autonomia**.
 
 🎯 **Il nostro obiettivo?**  
@@ -72,7 +73,7 @@ Intanto però, **[facci sapere quando verrai compilando questo form](https://for
 
 ✅ **Cosa fare in breve per partecipare**  
 1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici **[compilando  il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
-2. **Tessera associativa:** se non lo è già, iscrivi il bambino all’associazione a questo link  
+2. **Tessera associativa:** se non lo è già, iscrivi il bambino all’associazione a **[questo link](https://114mch5e.forms.app/ruota-libera-tutti)**  
 3. **Vieni a trovarci agli Open Days di settembre** per provare gratuitamente il campo scuola
 
 Per qualsiasi dubbio, scrivici a ruotaliberatutti@gmail.com! 
