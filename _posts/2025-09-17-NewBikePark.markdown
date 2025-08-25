@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Torna il Bike Park di RLT - facile, accessibile e divertente - Proprio per tutti
+title: Torna il Bike Park di RLT - facile, accessibile e divertente - proprio per tutti
 date: 2025-09-17 17:00:00 +0200
 categories: bike-park
 excerpt: Da settembre a novembre torna il Bike Park di RLT. Accompagnamo bambini dai 4 agli 11 anni all'utilizzo consapevole della bicicletta
@@ -47,8 +47,7 @@ Ogni giornata prevede due turni di 50 minuti:
 - **Mercoledì**: Tartarughe 17:00 – 17:50 / Lepri 18:00 – 18:50  
 - **Sabato**: Tartarughe 10:00 – 10:50 / Lepri 11:00 – 11:50  
 
-Gli **Open Days di settembre sono gratuiti**: vieni a provare e scoprire il campo scuola senza impegno!  
-Prima però, non dimenticare di **[iscriverti subito compilando il form](https://forms.gle/sSyBuZifdWrkt7Db7)**.
+ **[Iscriviti subito compilando il form](https://forms.gle/sSyBuZifdWrkt7Db7)**.
 
 🚲 **Cosa serve?**  
 - **Bicicletta in buone condizioni** e senza rotelle (anche se ancora in fase di apprendimento)  
@@ -68,13 +67,13 @@ Perché crediamo che tutti i bambini abbiano il diritto di pedalare su una **bic
 🚀 **Pronti a partire?**  
 Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **[compila subito il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
 
-Vuoi invece conoscerci prima? Partecipa agli **Open Days di settembre**, senza impegno!  
-Intanto però, **[facci sapere quando verrai compilando questo form](https://forms.gle/sSyBuZifdWrkt7Db7)** per prenotare la tua prova gratuita.
+Hai qualche dubbio o domande, scrivici a ruotaliberatutti@gmail.com e ti risponderemo in un lampo! 
 
 ✅ **Cosa fare in breve per partecipare**  
 1. **Iscrivi il tuo bambino** al campo scuola, indicandoci quando verrai e qual è il suo livello di abilità in bici **[compilando  il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
 2. **Tessera associativa:** se non lo è già, iscrivi il bambino all’associazione a **[questo link](https://114mch5e.forms.app/ruota-libera-tutti)**  
-3. **Vieni a trovarci agli Open Days di settembre** per riprendere a pedalare insieme! 
+3. **Vieni a trovarci nellla location e data indicata** per riprendere a pedalare insieme! 
 
 Per qualsiasi dubbio, scrivici a ruotaliberatutti@gmail.com! 
+
 Ci vediamo presto, in sella, ripartendo dai più piccoli! 
