@@ -4,7 +4,7 @@ title: Torna il Bike Park di RLT - Facile e Acessibile - Per tutti e tutte
 date: 2025-09-17 17:00:00 +0200
 categories: bike-park
 excerpt: Da settembre a novembre torna il Bike Park di RLT. Accompagnamo bambini dai 4 agli 11 anni all'utilizzo consapevole della bicicletta
-cover: assets/images/bikepark_cover.png
+cover: assets/images/bike_park_immagine_3.png
 ---
 
 **🚴‍♂️ Dal 17 settembre torna il Bike Park di RLT - E raddoppia: saremo al Vialarga il sabato mattina e al Dumbo il mercoledì pomeriggio. Decidete voi quando venire a pedalare insieme a noi**
