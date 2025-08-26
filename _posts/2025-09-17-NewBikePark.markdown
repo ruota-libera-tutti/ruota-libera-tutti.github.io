@@ -28,8 +28,8 @@ Questa doppia formula permette a ogni famiglia di scegliere il giorno e il luogo
 
 ⏰ **Come funziona?**  
 In ciascuna giornata i bambini saranno divisi in due gruppi, per pedalare al ritmo giusto:  
-- **Gruppo Tartarughe 🐢** (primo turno): chi sta togliendo le rotelle e impara a pedalare in autonomia  
-- **Gruppo Lepri 🐇** (secondo turno): chi già sa andare in bici e vuole migliorare sicurezza ed equilibrio  
+- **Primo Gruppo**: chi sta togliendo le rotelle e impara a pedalare in autonomia  
+- **Secondo Gruppo**: chi già sa andare in bici e vuole migliorare sicurezza ed equilibrio  
 
 A seguire i vostri bambini ci sono **istruttori esperti** aiutati da volontari appassionati. Insieme per rendere la bicicletta per tutte e tutti.
 
