@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Torna il Bike Park di RLT - Facile e Acessibile: per tutti e tutte 
+title: Torna il Bike Park di RLT - Facile e Acessibile - Per tutti e tutte 
 date: 2025-09-17 17:00:00 +0200
 categories: bike-park
 excerpt: Da settembre a novembre torna il Bike Park di RLT. Accompagnamo bambini dai 4 agli 11 anni all'utilizzo consapevole della bicicletta
