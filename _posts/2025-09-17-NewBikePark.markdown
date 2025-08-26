@@ -62,7 +62,7 @@ Per tutto il percorso – venite quante e quali volte riuscite!
 - **Prezzo pieno** (dal 1° settembre): 50€  
 
 🤝 **Partnership e assistenza biciclette**  
-Gli amici del **Decathlon** ci verranno a trovare e grazie al loro aiuto ci prenderemo cura delle biciclette dei bambini che ne avranno bisogno, in  caso di necessità. Perchè ad ogni bambino va garantita una **bicicletta sicura e ben funzionante**. 
+Gli amici del **Decathlon** ci verranno a trovare e grazie al loro aiuto ci prenderemo cura delle biciclette dei bambini che ne avranno bisogno, in  caso di necessità. Perchè ad ogni bambino e bambina va garantita una **bicicletta sicura e ben funzionante**. 
 
 🚀 **Pronti a partire?**  
 Se sei già convinto o convinta a iscrivere tuo figlio o tua figlia, perché è già stato/a con noi in primavera, **[compila subito il form](https://forms.gle/sSyBuZifdWrkt7Db7)**!  
