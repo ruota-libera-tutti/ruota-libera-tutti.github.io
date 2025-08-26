@@ -43,9 +43,10 @@ Il campo scuola si svolge da metà settembre a inizio novembre, con appuntamenti
 | Ottobre               | 1, 15, 22                     | 11, 25                           |
 | Novembre              | —                             | 8                                |
 
-Ogni giornata prevede due turni di 50 minuti:  
-- **Mercoledì**: Tartarughe 17:00 – 17:50 / Lepri 18:00 – 18:50  
-- **Sabato**: Tartarughe 10:00 – 10:50 / Lepri 11:00 – 11:50  
+Ogni giornata prevede due turni di 50 minuti, in base alle abilità iniziali:   
+- **Mercoledì**: Primo Turno 17:00 – 17:50 / Secondo Turno 18:00 – 18:50  
+- **Sabato**: Primo Turno 10:00 – 10:50 / Secondo Turno 11:00 – 11:50
+Nel **primo turno** accoglieremo i bimbi e le bimbe che stanno togliendo le rotelle e che accompagneremo all'autonomia, mentre nel **secondo turno** i bimbi e le bimbe che hanno tolto le rotelle e che aiuteremo nel prendere sempre più domestichezza con la bicicletta. 
 
  **[Iscriviti subito compilando il form](https://forms.gle/sSyBuZifdWrkt7Db7)**.
 
