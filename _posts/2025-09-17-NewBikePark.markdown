@@ -17,8 +17,7 @@ Il Bike Park è un percorso **divertente e sicuro** dove i bimbi imparano a gest
 E voi genitori? Siamo al vostro fianco per darvi **consigli pratici e supporto**: insieme possiamo accompagnare i più piccoli verso un’avventura che dura tutta la vita!
 
 💸 **Perché renderlo accessibile?**  
-Crediamo che andare in bici sia un **diritto di tutti i bambini**, così come lo è **garantire ai propri figli di apprendere divertendosi**.  
-Per questo lavoriamo di continuo per mantenere un **costo contenuto** del Bike Park. **Pedalare è un gioco per tutti!**
+Crediamo che andare in bici sia un **diritto di tutti i bambini**, così come lo è **garantire ai propri figli di apprendere divertendosi**. Per questo lavoriamo di continuo per mantenere un **costo contenuto** del Bike Park. **Pedalare è un gioco per tutti!**
 
 📅 **Quando e dove?**  
 Per venire incontro a tutte le esigenze delle famiglie, il Bike Park si svolge su **due diverse location** e in **due diversi momenti della settimana**:  
