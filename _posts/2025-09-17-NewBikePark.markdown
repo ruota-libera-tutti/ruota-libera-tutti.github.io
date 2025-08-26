@@ -21,7 +21,7 @@ Crediamo che andare in bici sia un **diritto di tutti i bambini**, così come lo
 
 📅 **Quando e dove?**  
 Per venire incontro a tutte le esigenze delle famiglie, il Bike Park si svolge su **due diverse location** e in **due diversi momenti della settimana**:  
-- **Mercoledì pomeriggio al DumBO**, uno spazio accogliente, sempre illuminato e riscaldato quando serve, ideale per chi vive in città. Sarà uno spazio illuminato e se serve coperto e riscaldato in caso di  freddo.  
+- **Mercoledì pomeriggio al DumBO**, uno spazio accogliente, sempre illuminato e se serve al coperto e riscaldato, ideale per chi vive in città
 - **Sabato mattina al Parco Comunale Vincenzo Tanara (Centro ViaLarga)**, per pedalare all’aria aperta immersi nella natura, perfetto per chi vuole approfittare del weekend e magari fare due passi o fare la spesa in zona.  
 
 Questa doppia formula permette a ogni famiglia di scegliere il giorno e il luogo più comodo per partecipare, rendendo il Bike Park davvero **accessibile e fattibile a tutti**.
