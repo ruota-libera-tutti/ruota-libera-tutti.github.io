@@ -10,7 +10,7 @@ lang: it
 📅 Data e ora: Domenica 26 Ottobre 2025 dalle 10.30 alle 17.30
 📍 Ritrovo: Località Sant'Alberto (RA) alle ore 10.15 
 🗺️ Distanza totale da percorrere** : 50 km (non vi preoccupate, li faremo con tutta la calma del mondo)  
-💸 Quota di partecipazione** : 5 euro - rivolta a persone tesserate dell'associazione
+💸 Quota di partecipazione** : 5 euro - gratis per nuovi soci e nuove socie
 
 📝 Iscrizioni: [Clicca qui per iscriverti](https://forms.gle/QtCUv8fBqxnvMNda9)  
 
@@ -24,6 +24,8 @@ Una giornata in bicicletta, lenta e accessibile, per scoprire uno dei paesaggi p
   
 🚆 Come solito suggeriamo di utilizzare il treno: si può raggiungere in treno la stazione di Alfonsine. Per chi vorrà raggiungere Sant'Alberto in treno, ci troveremo a bordo del treno 3962 in partenza da Bologna Centrale alle ore 7.10. Arriveremo ad Alfonsine alle 9.24 e raggiungeremo poi il punto di partenza a Sant'Alberto in bicicletta. 
 Lo stesso per il ritorno: prenderemo il treno in partenza da Alfonsine alle 17:32, che arriverà a Bologna alle 19.31. In alternativa, per chi preferisce arrivare in auto, il ritrovo è nel centro del paese di Sant'Alberto alle 10.30.
+
+**Non sei ancora socio o socia? il giretto per te è gratis!**
 
 Da non dimenticare:
 
