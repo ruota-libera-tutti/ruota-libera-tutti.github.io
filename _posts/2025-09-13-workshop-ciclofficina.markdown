@@ -26,7 +26,7 @@ Durante l’evento:
 - Potrai **lavorare direttamente sulla tua bici**, con il supporto del nostro team. Quindi vieni in bici! 
 - Scoprirai come utilizzare al meglio i **prodotti Decathlon** per ogni esigenza di cura e pulizia
 
-🔧 **[Iscriviti QUI](https://docs.google.com/forms/d/e/1FAIpQLSd7TsblTUZ5SUBlbZOO6U01mdTwMboqKqlTr4fSsxnX-kIjKg/viewform** per partecipare **gratuitamente**
+🔧 **[Iscriviti QUI per partecipare gratuitamente](https://docs.google.com/forms/d/e/1FAIpQLSd7TsblTUZ5SUBlbZOO6U01mdTwMboqKqlTr4fSsxnX-kIjKg/viewform)**
 
 Un momento pensato per rendere ogni persona che va in bicicletta **autonoma e consapevole**. 
 
