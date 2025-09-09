@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop gratuito di manutenzione bici: facile e accessibile. Proprio in centro a Bologna!"
+title: "Workshop gratuito di manutenzione bici"
 date: 2025-09-13 11:00:00 +0200
 categories: social-meeting
 excerpt: "Workshop pratico gratuito per imparare la manutenzione di base della bici"
