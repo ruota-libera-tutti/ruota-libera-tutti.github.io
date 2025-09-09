@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Workshop gratuito di manutenzione bici"
+title: "Workshop pratico e gratuito di manutenzione bici"
 date: 2025-09-13 11:00:00 +0200
 categories: social-meeting
-excerpt: "Workshop pratico gratuito per imparare la manutenzione di base della bici"
+excerpt: "Vieni con la tua bici, impariamo a sistemarla insieme!"
 cover: assets/images/events/meccanica.webp
 lang: it
 ---
