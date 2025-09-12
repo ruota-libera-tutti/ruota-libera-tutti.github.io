@@ -38,7 +38,7 @@ Il campo scuola si svolge da metà settembre a inizio novembre, con appuntamenti
 
 | Data                  | Mercoledì (DumBO, pomeriggio) | Sabato (Parco ViaLarga, mattina) |
 |-----------------------|-------------------------------|----------------------------------|
-| Settembre - Open Days | 17                            | 27                               |
+| Settembre             | 17                            | 27                               |
 | Ottobre               | 1, 15, 22                     | 11, 25                           |
 | Novembre              | —                             | 8                                |
 
