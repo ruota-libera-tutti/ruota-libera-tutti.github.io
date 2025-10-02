@@ -17,7 +17,7 @@ lang: it
 
 ### 🚴‍♀️ Un'unica giornata, due possibilità per raggiungerci
 
-Torniamo per il quarto anno di fila al giro a cui teniamo di più: è stato proprio il primo giro di RLT! 
+Torniamo per il quarto anno di fila a Comacchio, un giro che oramai è diventato un appuntamento fisso: è stato proprio il primo giro di RLT nel novembre del 2022! 
 Per vivere insieme questa pedalata nel cuore del Parco del Delta del Po, puoi scegliere tra:
 
 #### 🌿 **Opzione consigliata – Treno + bici (78 km totali)**  
