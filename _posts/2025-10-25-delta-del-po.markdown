@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Delta del Po, Comacchio e Argine degli Angeli"
+title: "Comacchio e Argine degli Angeli"
 date: 2025-10-26 8:30:00 +0200
 categories: social-ride
-excerpt: Una facile e sicura pista ciclabile immersa nel Parco del Delta del Po 
+excerpt: Una facile e sicura pista ciclabile immersa nel Parco del Delta del Po, raggiungibile in treno+bici!
 cover: assets/images/comacchio.jpeg
 lang: it
 ---
