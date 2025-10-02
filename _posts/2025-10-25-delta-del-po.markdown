@@ -15,6 +15,8 @@ lang: it
 
 ---
 
+📝 **Iscrizioni:** [Link per iscriverti](https://forms.gle/QtCUv8fBqxnvMNda9)  
+
 ### 🚴‍♀️ Un'unica giornata, due possibilità per raggiungerci
 
 Torniamo per il quarto anno di fila a Comacchio, un giro che oramai è diventato un appuntamento fisso: è stato proprio il primo giro di RLT nel novembre del 2022! 
