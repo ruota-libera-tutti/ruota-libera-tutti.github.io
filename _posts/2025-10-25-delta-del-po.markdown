@@ -1,39 +1,90 @@
----
 layout: post
 title: "Comacchio e Argine degli Angeli"
 date: 2025-10-26 8:30:00 +0200
 categories: social-ride
-excerpt: Una facile e sicura pista ciclabile immersa nel Parco del Delta del Po, raggiungibile in treno+bici!
+excerpt: Una giornata in bici nel Parco del Delta del Po, tra valli, lagune e piadine. Vieni in treno, è sostenibile e si fa più calotta!
 cover: assets/images/comacchio.jpeg
 lang: it
 ---
-📅 Data e ora: Domenica 26 Ottobre 2025 dalle 10.30 alle 17.30
-📍 Ritrovo: Località Sant'Alberto (RA) alle ore 10.15 
-🗺️ Distanza totale da percorrere** : 50 km (non vi preoccupate, li faremo con tutta la calma del mondo)  
-💸 Quota di partecipazione** : 5 euro - gratis per nuovi soci e nuove socie
 
-📝 Iscrizioni: [Clicca qui per iscriverti](https://forms.gle/QtCUv8fBqxnvMNda9)  
+📅 **Data:** Domenica 26 Ottobre 2025  
+🕥 **Orario ritrovo:** ore 10:30  
+📍 **Punto di ritrovo:** Di fronte al traghetto di Sant'Alberto (RA)  
+👉 [📍 Apri su Google Maps](https://maps.app.goo.gl/7deH5nQXHWxdVGpu6)
 
-Programma della giornata  
-Una giornata in bicicletta, lenta e accessibile, per scoprire uno dei paesaggi più belli e silenziosi del Parco del Delta del Po.Costeggeremo le Valli di Comacchio, pedalabili con qualsiasi tipologia di bicicletta. Ci fermeremo a Comacchio per pranzo, detta la "Piccola Venezia". E' davvero meravigliosa, dovre potremo provare la tipica piadina alla zucca (sarà anche di stagione). Finiremo il giro lungo l'Argine degli Angeli, una striscia di terra in mezzo all'acqua, sarà come navigare in mare in sella alla nostra bici. Un esperienza bellissima, davvero alal portata di tutti. 
+---
 
-🌿 Questo evento riflette i valori della nostra associazione: favorire l'utilizzo consapevole della bicicletta per tutti, alla scoperta del territorio, in armonia con gli altri e con se stessi. Nessuna competizione, nessuna fretta. Solo strada, natura e condivisione. 
+### 🚴‍♀️ Un'unica giornata, due possibilità per raggiungerci
 
-📸 Il ritmo sarà tranquillo, con soste per respirare, fotografare, chiacchierare.  
-🥪 A Comacchio ci fermeremo per il pranzo (al sacco, consigliato, oppure piadina) e per una passeggiata tra ponti, canali e scorci lagunari.  
-  
-🚆 Come solito suggeriamo di utilizzare il treno: si può raggiungere in treno la stazione di Alfonsine. Per chi vorrà raggiungere Sant'Alberto in treno, ci troveremo a bordo del treno 3962 in partenza da Bologna Centrale alle ore 7.10. Arriveremo ad Alfonsine alle 9.24 e raggiungeremo poi il punto di partenza a Sant'Alberto in bicicletta. 
-Lo stesso per il ritorno: prenderemo il treno in partenza da Alfonsine alle 17:32, che arriverà a Bologna alle 19.31. In alternativa, per chi preferisce arrivare in auto, il ritrovo è nel centro del paese di Sant'Alberto alle 10.30.
+Torniamo per il quarto anno di fila al giro a cui teniamo di più: è stato proprio il primo giro di RLT! 
+Per vivere insieme questa pedalata nel cuore del Parco del Delta del Po, puoi scegliere tra:
 
-**Non sei ancora socio o socia? il giretto per te è gratis!**
+#### 🌿 **Opzione consigliata – Treno + bici (78 km totali)**  
+Perché scegliere il treno? Perché è **più sostenibile**, più sicuro e… si pedala insieme fin dal mattino!  
+Non preoccuparti della distanza: **faremo tutto con calma** e, in compagnia, la fatica pesa molto meno.
 
-Da non dimenticare:
+📌 **Come funziona:**
+- Partenza da **Bologna Centrale** ore 7:10 (Treno Regionale 3962)
+- Cambio a **Ravenna**, arrivo ad **Alfonsine** alle 9:24  
+- Da lì, 12 km in bici fino al punto di ritrovo a Sant'Alberto (in gruppo, a ritmo lento)
 
-- Casco e camera d’aria di scorta adatta alla propria bicicletta
-- Acqua, pranzo al sacco e abbigliamento comodo e luci frontale e posteriore
+#### 🚗 **Opzione auto (55 km totali)**  
+Se preferisci arrivare con mezzo proprio, puoi raggiungerci direttamente a **Sant'Alberto**.  
+⏰ Ritrovo ore 10:30 davanti al traghetto (link sopra)
+🅿️ Parcheggio comodo in centro paese (Piazza Angelo Amadori)
 
-🌻 L’evento è riservato ai soci dell’Associazione Ruota Libera Tutti. Se non sei ancora tesserato/a, puoi farlo compilando il form seguendo la pagina Tesseramento sul nostro sito web. Per nuovi soci, le iscrizioni chiudono 5 giorni prima dell'evento. 
+---
 
-Per qualsiasi dubbio o domanda, scriveteci via mail, instagram o whatsapp
+### 🗺️ Il percorso
 
-A presto regaz!
+Dopo esserci ritrovati **tutti insieme al traghetto giallo di Sant'Alberto**, partiremo in bici per un anello spettacolare intorno alle **Valli di Comacchio**, in senso orario.
+
+📍 **Tappe principali:**
+- Valli di Comacchio  
+- Sosta pranzo a **Comacchio** per pranzo (al sacco o con una piadina alla zucca – di stagione e buonissima!)  
+- Lido di Spina  
+- L’**Argine degli Angeli**, un tratto mozzafiato sospeso tra acqua e cielo  
+- Ritorno a Sant'Alberto
+
+🚗 Chi ha l’auto può terminare qui il giro.  
+🚆 Chi è venuto in treno prosegue con noi fino ad Alfonsine per il rientro.
+
+---
+
+### 🚆 Treni
+
+**Andata:**
+- Bologna Centrale → Ravenna → Alfonsine (arrivo 9:24)
+Il ritrovo è direttamente sul treno e si suggerisce di fare il biglietto con anticipo, senza dimenticare il biglietto anche della bici (che vale anche per il ritorno)
+
+**Ritorno:**
+- Alfonsine → Ravenna → Bologna Centrale  
+- Treno previsto alle 17:32, arrivo a Bologna ore 19:31
+
+---
+
+### 💸 Quota di partecipazione
+- **5 euro per soci e socie**  
+- **Gratis** per nuovi soci e socie  
+
+📝 **Iscrizioni:** [Clicca qui per iscriverti](https://forms.gle/QtCUv8fBqxnvMNda9)  
+⚠️ Per chi si tessera per la prima volta, le iscrizioni chiudono **5 giorni prima** dell’evento. 
+---
+
+### 🧳 Cosa portare:
+- Casco e **camera d’aria di scorta** adatta alla tua bici  
+- Acqua e **pranzo al sacco** (facoltativo)  
+- Abbigliamento comodo  
+- **Luci anteriori e posteriori**  
+
+---
+
+### ℹ️ Info utili
+
+👥 L’evento è riservato ai soci e socie dell’**Associazione Ruota Libera Tutti**  
+🔗 Se non sei ancora tesserato/a, puoi farlo dalla sezione **Tesseramento** sul nostro sito  
+
+Per dubbi, info, domande:  
+📧 Email | 📱 Instagram | 💬 WhatsApp  
+
+Ti aspettiamo! 🚴‍♀️🌊
