@@ -2,7 +2,7 @@ layout: post
 title: "Comacchio e Argine degli Angeli"
 date: 2025-10-26 8:30:00 +0200
 categories: social-ride
-excerpt: Una giornata in bici nel Parco del Delta del Po, tra valli, lagune e piadine. Vieni in treno, è sostenibile e si fa più calotta!
+excerpt: Una giornata in bici nel Parco del Delta del Po, tra valli, lagune e piadine. Vieni in treno, è sostenibile e si fa più Balotta!
 cover: assets/images/comacchio.jpeg
 lang: it
 ---
