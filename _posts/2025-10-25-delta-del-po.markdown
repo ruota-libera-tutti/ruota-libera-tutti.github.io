@@ -28,7 +28,7 @@ Non preoccuparti della distanza: **faremo tutto con calma** e, in compagnia, la 
 
 📌 **Come funziona:**
 - Partenza da **Bologna Centrale** ore 7:10 (Treno Regionale 3962)
-- Cambio a **Ravenna**, arrivo ad **Alfonsine** alle 9:24  
+- Cambio a **Ferrara**, arrivo ad **Alfonsine** alle 9:24  
 - Da lì, 12 km in bici fino al punto di ritrovo a Sant'Alberto (in gruppo, a ritmo lento)
 
 #### 🚗 **Opzione auto (55 km totali)**  
@@ -57,7 +57,7 @@ Dopo esserci ritrovati **tutti insieme al traghetto giallo di Sant'Alberto**, pa
 ### 🚆 Treni
 
 **Andata:**
-- Bologna Centrale → Ravenna → Alfonsine (arrivo 9:24)
+- Bologna Centrale → Ferrara → Alfonsine (arrivo 9:24)
 Il ritrovo è direttamente sul treno e si suggerisce di fare il biglietto con anticipo, senza dimenticare il biglietto anche della bici (che vale anche per il ritorno)
 
 **Ritorno:**
@@ -71,7 +71,7 @@ Il ritrovo è direttamente sul treno e si suggerisce di fare il biglietto con an
 - **Gratis** per nuovi soci e socie  
 
 📝 **Iscrizioni:** [Clicca qui per iscriverti](https://forms.gle/QtCUv8fBqxnvMNda9)  
-⚠️ Per chi si tessera per la prima volta, le iscrizioni chiudono **5 giorni prima** dell’evento. 
+⚠️ Per chi si tessera per la prima volta, le iscrizioni chiudono *giovedì 23 ottobre**. 
 ---
 
 ### 🧳 Cosa portare:
