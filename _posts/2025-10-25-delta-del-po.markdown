@@ -9,7 +9,7 @@ lang: it
 ---
 
 📅 **Data:** Domenica 26 Ottobre 2025  
-🕥 **Orario ritrovo:** ore 10:30  
+🕥 **Orario ritrovo:** ore 10:15 - partenza 10.30  
 📍 **Punto di ritrovo:** Di fronte al traghetto di Sant'Alberto (RA)  
 👉 [📍 Apri su Google Maps](https://maps.app.goo.gl/7deH5nQXHWxdVGpu6)
 
@@ -33,7 +33,7 @@ Non preoccuparti della distanza: **faremo tutto con calma** e, in compagnia, la 
 
 #### 🚗 **Opzione auto (55 km totali)**  
 Se preferisci arrivare con mezzo proprio, puoi raggiungerci direttamente a **Sant'Alberto**.  
-⏰ Ritrovo ore 10:30 davanti al traghetto (link sopra)
+⏰ Ritrovo ore 10:15 davanti al traghetto (link sopra) - Partenza 10:30!
 🅿️ Parcheggio comodo in centro paese (Piazza Angelo Amadori)
 
 ---
@@ -58,10 +58,10 @@ Dopo esserci ritrovati **tutti insieme al traghetto giallo di Sant'Alberto**, pa
 
 **Andata:**
 - Bologna Centrale → Ferrara → Alfonsine (arrivo 9:24)
-Il ritrovo è direttamente sul treno e si suggerisce di fare il biglietto con anticipo, senza dimenticare il biglietto anche della bici (che vale anche per il ritorno)
+Il ritrovo a Bologna è direttamente sul treno e si suggerisce di fare il biglietto con anticipo, senza dimenticare il biglietto anche della bici (che vale anche per il ritorno)
 
 **Ritorno:**
-- Alfonsine → Ravenna → Bologna Centrale  
+- Alfonsine → Ferrara → Bologna Centrale  
 - Treno previsto alle 17:32, arrivo a Bologna ore 19:31
 
 ---
