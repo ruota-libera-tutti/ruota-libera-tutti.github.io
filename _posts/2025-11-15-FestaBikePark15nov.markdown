@@ -11,7 +11,7 @@ cover: assets/images/bikeparkk.jpeg
 
 Durante la **Festa del Bike Park** potrai scoprire chi siamo, come lavoriamo, farci tutte le domande che vuoi ❓💬, e magari dare il via a una **nuova avventura in bici** 🚀🎉.  
 
-**Iscrivetevi qui!** 📝 Compilando il [form di iscrizione](https://forms.gle/9DGA45gCfTKeEWzH7)  
+**Iscrivetevi qui!** 📝 Compilando il [form di iscrizione](https://forms.gle/DZb8i7aetzQp5F1y6)  
 
 Qui i bambini dai 4 anni in su hanno iniziato a **pedalare senza rotelle** 🚲✨ e non hanno più smesso… di pedalare e di divertirsi! 🎊😄  
 
@@ -43,7 +43,7 @@ L'evento si terrà comunque anche in caso di maltempo, con spazi coperti per le 
 - **In auto** – solo se strettamente necessario; parcheggio vicino Tanari.  
 
 ✅ **Come partecipare**  
-1. Conferma la tua presenza compilando il [form di iscrizione](https://forms.gle/CAQzaZXMtB6NUcx2A).  
+1. Conferma la tua presenza compilando il [form di iscrizione](https://forms.gle/DZb8i7aetzQp5F1y6).  
 2. Porta casco, bicicletta in buone condizioni, abbigliamento comodo, borraccia e giacca a vento.
 3. Goditi la festa insieme ai tuoi bambini!  
 4. Se siete nuovi, vi chiederemo di firmare una **liberatoria di responsabilit** all'arrivo, le attività sono normalmente rivolte a soci e socie della associazione. 
