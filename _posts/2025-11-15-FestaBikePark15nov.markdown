@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Festa del Bike Park di RLT - Giochi in bici, divertimento e merenda per tutti i bambini!
+title: Festa del Bike Park di RLT - Giochi in bici, divertimento e merenda per tutti e tutte!
 date: 2025-11-15 15:00:00 +0200
 categories: bike-park
 excerpt: Una giornata speciale di giochi in bici per celebrare il percorso autunnale e per venirci a conoscere!
