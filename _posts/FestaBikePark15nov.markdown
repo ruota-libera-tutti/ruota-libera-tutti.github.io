@@ -4,7 +4,7 @@ title: Festa del Bike Park di RLT - Giochi, bici e divertimento per tutti i bamb
 date: 2025-11-15 15:00:00 +0200
 categories: bike-park
 excerpt: Una giornata speciale per bambini e genitori, tra bici, giochi, esercizi e merenda, per celebrare il percorso autunnale del Bike Park e per chi deve iniziare, per venire a conoscerci!
-cover: assets/images/festa_bike_park.png
+cover: assets/images/bikeparkk.jpeg
 ---
 **Iscrivetevi qui! Compilando il [form di iscrizione](https://forms.gle/CAQzaZXMtB6NUcx2A). 
  
