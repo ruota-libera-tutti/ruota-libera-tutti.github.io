@@ -32,7 +32,7 @@ L'evento si terrà comunque anche in caso di maltempo, con spazi coperti per le 
 - **Ore 15:00 – Attività in bici**: tutti i bambini insieme, con giochi e percorsi per migliorarsi e divertirsi.  
 - **Giochi ed esercizi**: attività ludiche per sviluppare equilibrio, tecnica divertendosi.  
 - **Gioco finale con i genitori**: per coinvolgere tutta la famiglia in modo divertente e sicuro.  
-- ** ore 16.15 - Premiazioni**: per tutti i bambini che hanno completato il percorso autunnale.  
+- **ore 16.15 - Premiazioni**: per tutti i bambini che hanno completato il percorso autunnale.  
 - **Merenda e sorpresa finale**: per tutti i partecipanti! 🍪
 - Termineremo entro le ore 17:00
 
