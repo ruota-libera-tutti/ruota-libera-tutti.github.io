@@ -7,18 +7,19 @@ excerpt: Una giornata speciale di giochi in bici per celebrare il percorso autun
 cover: assets/images/bikeparkk.jpeg
 ---
 
-**Se sei un genitore e tuo figlio o tua figlia sogna di imparare a pedalare, ma non sai da dove cominciare, oppure già sa andare in bici ma cerchi uno spazio sicuro dove poter migliorare e divertirsi insieme ad altri bambini, questa è l’occasione giusta per conoscerci! 🚴‍♂️🚴‍♀️**  
+**Se sei un genitore e tuo figlio o tua figlia sogna di imparare a pedalare** 🚴‍♂️🚴‍♀️, ma non sai da dove cominciare, oppure già sa andare in bici 🚲 ma cerchi uno **spazio sicuro** dove poter migliorare e divertirsi insieme ad altri bambini 👫, **questa è l’occasione giusta per iniziare!** 🌟 
 
-Durante la **Festa del Bike Park** potrai scoprire chi siamo, come lavoriamo, farci tutte le domande che vuoi, e magari dare il via a una nuova avventura in bici insieme a noi.  
+Durante la **Festa del Bike Park** potrai scoprire chi siamo, come lavoriamo, farci tutte le domande che vuoi ❓💬, e magari dare il via a una **nuova avventura in bici** 🚀🎉.  
 
-**Iscrivetevi qui!** Compilando il [form di iscrizione](https://forms.gle/CAQzaZXMtB6NUcx2A). 
+**Iscrivetevi qui!** 📝 Compilando il [form di iscrizione](https://forms.gle/9DGA45gCfTKeEWzH7)  
 
-Qui i bambini dai 4 anni in su hanno iniziato a pedalare senza rotelle e non hanno più smesso....di pedalare e di divertirsi! 🎉  
+Qui i bambini dai 4 anni in su hanno iniziato a **pedalare senza rotelle** 🚲✨ e non hanno più smesso… di pedalare e di divertirsi! 🎊😄  
 
-Anche chi già sa andare in bici trova uno **spazio sicuro, accogliente e non competitivo** dove migliorare, sperimentare, pedalare insieme agli altri, giocare, e prepararsi ad affrontare in sicurezza le uscite in bicicletta, le escursioni in famiglia e la vita di tutti i giorni.  
+Anche chi già sa andare in bici trova uno **spazio sicuro, accogliente e non competitivo** 🛡️💚 dove migliorare, sperimentare, pedalare insieme agli altri 🚴‍♂️🚴‍♀️ Giocando ci si preparare ad affrontare in sicurezza le **uscite in bicicletta, le escursioni in famiglia e la vita di tutti i giorni** 🌳🏞️.  
 
-I bambini partecipano a giochi, esercizi, letture e attività che aiutano a **migliorare equilibrio, tecnica ma anche sopratutto lo stare in relazione con gli altri**.
-La bicicletta è solo l’inizio: da qui imparano **autonomia, libertà di movimento e stare in strada o in ambiente con gli altri**.  
+I bambini partecipano a **giochi, esercizi, letture e attività** 📚🎲 che aiutano a migliorare equilibrio ⚖️, tecnica 🏋️‍♂️ ma soprattutto **lo stare in relazione con gli altri** 🤝💫. La bicicletta è solo l’inizio 🚴‍♀️✨: da qui imparano **autonomia, libertà di movimento e a muoversi nello spazio con rispetto per gli altri** 🌍❤️.  
+
+---
 
 📅 **Quando e dove**  
 **Sabato 15 novembre**  
