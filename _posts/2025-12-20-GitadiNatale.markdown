@@ -24,7 +24,7 @@ lang: it
 
 ---
 
-### 🎄 Il Giro di Natale in bici
+### 🎄 Il Giro di Natale: tutti i dettagli
 
 Un’uscita **facile, sicura e divertente**, pensata proprio per tutte/i!  
 L’obiettivo è pedalare insieme, divertirsi e scoprire quanto può essere bello condividere la bici in famiglia, con bambini e bambine di tutte le età.  
