@@ -56,7 +56,7 @@ Durata totale: circa **2,5 ore**
 
 - Qualsiasi bici è adatta, purché funzioni bene  
 - Eventuali decorazioni natalizie o travestimenti 🎄🎅  
-- **Zainetto con l’eventuale merenda al sacco**  
+- Zainetto con l’eventuale merenda al sacco  
 - Casco obbligatorio - se non l'avete, ve lo diamo noi!  
 - Borraccia con acqua  
 - Vestiti caldi e antivento  
