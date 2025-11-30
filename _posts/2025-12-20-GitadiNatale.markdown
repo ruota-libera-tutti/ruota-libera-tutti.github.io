@@ -9,14 +9,13 @@ lang: it
 ---
 
 **📅 Data:** Sabato 20 dicembre 2025  
-**🕥 Ritrovo e partenza:** ore 10:30 al DumBO (Bologna)  
-👉 [📍 Apri su Google Maps](https://maps.app.goo.gl/ad6iV7d8kNn9Viu59)  
+**🕥 Ritrovo e partenza:** ore 10:30 al DumBO (Bologna) 👉 [📍 Apri su Google Maps](https://maps.app.goo.gl/ad6iV7d8kNn9Viu59)  
 
 ### L'evento... in due parole!
 
 **🗺️ Percorso:** 12 km totali - andata e ritorno, senza salite e senza traffico, adatto a famiglie e bambini/e di tutte le età. **Possibilità di dimezzare il percorso e tornare in treno da Corticella a Bologna Centrale.**
 
-**💸 Partecipazione:** Gratuita – Lo scopo della gita è di **sostenere la ripresa del Bike Park di RLT**, che ripartirà presto: accompagniamo i/le bambini/e alle prime pedalate, li aiutiamo a sentirsi a loro agio in bici e con le altre persone.  
+**💸 Partecipazione: Gratuita** – Lo scopo della gita è di **sostenere la ripresa del Bike Park di RLT**, che ripartirà presto: accompagniamo i/le bambini/e alle prime pedalate, li aiutiamo a sentirsi a loro agio in bici e con le altre persone.  
 
 **📝 Iscrizioni:** [Iscrivetevi qui](https://forms.gle/rGD4JAF7hHw6UHX66)  
 
