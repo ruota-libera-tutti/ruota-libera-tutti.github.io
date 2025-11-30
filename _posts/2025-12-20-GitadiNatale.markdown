@@ -14,8 +14,7 @@ lang: it
 
 ### L'evento... in due parole!
 
-**🗺️ Percorso:** 12 km totali - andata e ritorno, senza salite e senza traffico, adatto a famiglie e bambini/e di tutte le età.  
-**Possibilità di dimezzare il percorso e tornare in treno da Corticella a Bologna Centrale.**
+**🗺️ Percorso:** 12 km totali - andata e ritorno, senza salite e senza traffico, adatto a famiglie e bambini/e di tutte le età. **Possibilità di dimezzare il percorso e tornare in treno da Corticella a Bologna Centrale.**
 
 **💸 Partecipazione:** Gratuita – Lo scopo della gita è di **sostenere la ripresa del Bike Park di RLT**, che ripartirà presto: accompagniamo i/le bambini/e alle prime pedalate, li aiutiamo a sentirsi a loro agio in bici e con le altre persone.  
 
