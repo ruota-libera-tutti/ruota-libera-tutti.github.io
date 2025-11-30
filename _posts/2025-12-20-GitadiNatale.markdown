@@ -43,7 +43,7 @@ Saranno preziose eventuali donazioni, che ci aiuteranno a **ripartire con il Bik
 - **10:30** – Ritrovo al DumBO: potremo stare al caldo nell'attesa di raggrupparci; sarà disponibile il bagno e avremo attrezzi per sistemare le bici che ne avranno bisogno.  
 - **10:45** – Partenza lungo la vicinissima ciclabile del Navile: attraverseremo il Parco di Villa Angeletti e faremo soste lungo il fiume.  
 - **11:45** – Arrivo al Parco dei Laghetti di Corticella: breve sosta conviviale tutti insieme. Se avete piacere, potete portare la **merenda al sacco**. Faremo qualche gioco e sorprese di Natale!  
-- **12:15** – Partenza per il rientro: possibilità di tornare in bici o prendere il treno da Bologna Corticella (1 km, treno ogni 30 minuti, 11 minuti fino a Stazione Centrale. Per chi prende il treno, la distanza totale della gita è di 7 km).  
+- **12:15** – Partenza per il rientro: possibilità di tornare in bici o prendere il treno da Bologna Corticella (a 1 km, treno ogni 30 minuti, 11 minuti fino a Stazione Centrale. Per chi prende il treno, la distanza totale della gita è di 7 km).  
 - **13:15** – Rientro previsto al DumBO.  
 
 Durata totale: circa **2,5 ore**  
