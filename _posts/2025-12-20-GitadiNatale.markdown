@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gita in bici di Natale per le famiglie lungo la Ciclabile del Navile 🎄🚴‍♀️"
+title: "Gita in bici di Natale lungo la Ciclabile del Navile 🎄🚴‍♀️"
 date: 2025-12-20 10:30:00 +0200
 categories: social-ride
 excerpt: Gita in bici natalizio, facile e sicura, per tutte le famiglie. Musica e sorprese per bambini e bambine! 🚲🎅
