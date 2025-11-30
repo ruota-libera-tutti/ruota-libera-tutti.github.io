@@ -15,7 +15,7 @@ lang: it
 
 **🗺️ Percorso:** 12 km totali - andata e ritorno, senza salite e senza traffico, adatto a famiglie e bambini/e di tutte le età. **Possibilità di dimezzare il percorso e tornare in treno da Corticella a Bologna Centrale.**
 
-**💸 Partecipazione: Gratuita** – Lo scopo della gita è di **sostenere la ripresa del Bike Park di RLT**, che ripartirà presto: accompagniamo i/le bambini/e alle prime pedalate, li aiutiamo a sentirsi a loro agio in bici e con le altre persone.  
+**💸 Partecipazione: Gratuita** – Lo scopo della gita è di **auto-finanziare la ripresa del Bike Park di RLT 2026**, che ripartirà presto: accompagniamo i/le bambini/e alle prime pedalate, li aiutiamo a sentirsi a loro agio in bici e con le altre persone.  
 
 **📝 Iscrizioni:** [Iscrivetevi qui](https://forms.gle/rGD4JAF7hHw6UHX66)  
 
@@ -24,16 +24,10 @@ lang: it
 ---
 
 ### 🎄 Il Giro di Natale: tutti i dettagli
-
 Un’uscita **facile, sicura e divertente**, pensata proprio per tutte/i!  
-L’obiettivo è pedalare insieme, divertirsi e scoprire quanto può essere bello condividere la bici in famiglia, con bambini e bambine di tutte le età.  
-- Bambini e bambine possono pedalare sulle loro bici, andremo molto lentamente, alla loro velocità
-- Come alternativa, proprio per i più piccoli, venite con il seggiolino o con la cargo bike. C'è posto per tutte le bici!
-
-🎅 Chi vuole (particolarmente raccomandato!!) può **vestirsi da Babbo Natale** o **addobbare la propria bici** con luci e decorazioni natalizie.  Come ci piace fare... ci saranno **sorprese per tutti i bambini partecipanti** e **per i costumi più belli**.
-
-💖 Il Social Ride è gratuito, con offerta libera.  
-Saranno preziose eventuali donazioni, che ci aiuteranno a **ripartire con il Bike Park di RLT**: un luogo sicuro e divertente dove i bambini imparano a pedalare, sviluppare equilibrio e autonomia e divertirsi insieme agli altri.  
+Pedalare insieme, divertirsi e scoprire la bici per tutta la famiglia, con bimbi/e di tutte le età. 
+Andremo alla velocità dei più piccoli, ma se preferite, venite con il seggiolino o cargo bike.
+🎅 Particolarmente raccomandati il travestimento Natalizio o l'addobbo della propria bicicletta!
 
 ---
 
@@ -51,7 +45,7 @@ Durata totale: circa **2,5 ore**
 
 **📝 Iscrizioni:** [Iscrivetevi qui](https://forms.gle/rGD4JAF7hHw6UHX66)  
 
-### 🚴 Cosa portare
+### 🚴 Cosa serve
 
 - Qualsiasi bici è adatta, purché funzioni bene  
 - Eventuali decorazioni natalizie o travestimenti 🎄🎅  
@@ -66,23 +60,17 @@ Durata totale: circa **2,5 ore**
 ### ℹ️ Note pratiche
 
 - Evento **aperto a tutti e tutte**. Per i non soci sarà necessario firmare la liberatoria di responsabilità.  
-- Tutti i bambini e le bambine devono essere accompagnati/e da almeno un adulto.  
-- Percorso completamente pianeggiante e sicuro, con soste. Pensato proprio per fare le prime pedalate insieme ai bimbi e alle bimbe.  
+- Tutti i bambini e le bambine devono essere accompagnati/e da almeno un adulto.
+- In caso di maltempo, faremo sapere tramite le persone iscritte e i canali social la data di recupero  
 - Le donazioni per **sostenere il Bike Park di RLT**, che ripartirà prestissimo, sono possibili solo tramite bonifico:  
 
 IBAN: IT20N0707236591000000743750  
 da intestare a: Ruota Libera Tutti ASD  
 causale: Gita di Natale - Sostegno Bike Park 2026 - nome e cognome  
 
-Tutti i contributi sostengono un progetto importante: ci aiuterete a coprire i costi per gli spazi, le attrezzature e il lavoro che serve per continuare questo bellissimo viaggio.  
+Con i contributi ci aiutate a coprire i costi per gli spazi, le attrezzature e il lavoro che serve per garantire tutto ciò che serve al Bike Park 2026
 
 ---
-
-Sarà l’occasione speciale per **festeggiare il Natale in bici**, conoscerci e prepararci al meglio al Natale... e al prossimo Bike Park di RLT! 🚲✨🎄
-
----
-
-In caso di maltempo, faremo sapere tramite le persone iscritte e i canali social la data di recupero!  
 
 ### 📞 Per dubbi, info, domande
 
