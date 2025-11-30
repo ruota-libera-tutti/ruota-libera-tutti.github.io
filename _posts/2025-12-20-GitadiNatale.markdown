@@ -20,17 +20,18 @@ lang: it
 
 **📝 Iscrizioni:** [Iscrivetevi qui](https://forms.gle/rGD4JAF7hHw6UHX66)  
 
+**Importante** Ogni bambino/a deve essere accompagnato/a da un almeno un adulto partecipante alla gita
+
 ---
 
 ### 🎄 Il Giro di Natale in bici
 
 Un’uscita **facile, sicura e divertente**, pensata proprio per tutte/i!  
 L’obiettivo è pedalare insieme, divertirsi e scoprire quanto può essere bello condividere la bici in famiglia, con bambini e bambine di tutte le età.  
-- Bambini e bambine possono pedalare sulle loro bici: vi aiuteremo a garantire l'attenzione necessaria quando si pedala con bambini alle prime esperienze.  
+- Bambini e bambine possono pedalare sulle loro bici, andremo molto lentamente, alla loro velocità
 - Come alternativa, proprio per i più piccoli, venite con il seggiolino o con la cargo bike. C'è posto per tutte le bici!
 
-🎅 Chi vuole (particolarmente raccomandato!!) può **vestirsi da Babbo Natale** o **addobbare la propria bici** con luci e decorazioni natalizie.  
-Come ci piace fare... ci saranno **sorprese per tutti i bambini partecipanti** e **per i costumi più belli**.
+🎅 Chi vuole (particolarmente raccomandato!!) può **vestirsi da Babbo Natale** o **addobbare la propria bici** con luci e decorazioni natalizie.  Come ci piace fare... ci saranno **sorprese per tutti i bambini partecipanti** e **per i costumi più belli**.
 
 💖 Il Social Ride è gratuito, con offerta libera.  
 Saranno preziose eventuali donazioni, che ci aiuteranno a **ripartire con il Bike Park di RLT**: un luogo sicuro e divertente dove i bambini imparano a pedalare, sviluppare equilibrio e autonomia e divertirsi insieme agli altri.  
