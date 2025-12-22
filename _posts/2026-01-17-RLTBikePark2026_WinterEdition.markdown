@@ -5,9 +5,19 @@ date: 2026-01-17 10:30:00 +0100
 categories: bike-park
 excerpt: Dal 17 gennaio torna il Bike Park invernalee al coperto di RLT per bambini dai 4 anni, per imparare a divertirsi in bici.
 cover: assets/images/bike_park_2026.png
+
 ---
-👉Iscriviti qui: [Iscrizioni Bike Park 2026](https://forms.gle/Y5XrhdzXfSvd2Vbf6)  
-👉Tesseramento 2026: [Tessera associativa 2026](https://ruota-libera-tutti.github.io/tesseramento)  
+
+🗓️ Quando: dal 17 gennaio al 28 marzo - sabato mattina dalle 10.30 alle 12.30 (sotto le date)
+📍 Dove: al DumBo - [Qui](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9)
+
+---
+
+Per partecipare: 
+👉Iscriversi: [Iscrizioni Bike Park 2026](https://forms.gle/Y5XrhdzXfSvd2Vbf6)  
+👉Far parte dell'associazione: [Tessera associativa 2026](https://ruota-libera-tutti.github.io/tesseramento)  
+
+---
 
 **🚲 Bike Park RLT 2026: L’inverno si pedala. Insieme.**  
 Rieccoci! Dal 17 gennaio 2026 riparte il Bike Park di RLT, alla sua terza edizione.
