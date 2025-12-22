@@ -8,7 +8,7 @@ cover: assets/images/bikeparkk.jpeg
 
 ---
 
-🗓️ Quando: dal 17 gennaio al 28 marzo - sabato mattina dalle 10.30 alle 12.30 <br>
+🗓️ Quando: dal 17 gennaio al 28 marzo - sabato mattina dalle 10.30 alle 12.30 - (Vedere date sotto)<br>
 📍 Dove: [DumBo](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9)
 
 ---
