@@ -8,11 +8,12 @@ cover: assets/images/bikeparkk.jpeg
 
 ---
 
-🗓️ Quando: dal 17 gennaio al 28 marzo - sabato mattina dalle 10.30 alle 12.30 (sotto le date) <br>📍 Dove: [DumBo](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9)
+🗓️ Quando: dal 17 gennaio al 28 marzo - sabato mattina dalle 10.30 alle 12.30 <br>
+📍 Dove: [DumBo](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9)
 
 ---
 
-Per partecipare occorre completare: <br>
+Per partecipare: <br>
 👉[Iscrizione Bike Park 2026](https://forms.gle/Y5XrhdzXfSvd2Vbf6) <br>
 👉[Tessera associativa 2026](https://ruota-libera-tutti.github.io/tesseramento)  
 
