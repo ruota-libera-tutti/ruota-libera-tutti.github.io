@@ -4,7 +4,7 @@ title: Bike Park RLT 2026 - L’inverno si pedala. Insieme.
 date: 2026-01-17 10:30:00 +0100
 categories: bike-park
 excerpt: Dal 17 gennaio torna il Bike Park invernale al coperto di RLT per bambini dai 4 anni, per imparare a divertirsi in bici.
-cover: assets/images/bike_park_2026.png
+cover: assets/images/bikeparkk.jpeg
 
 ---
 
