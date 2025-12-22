@@ -26,16 +26,16 @@ Così, appena dopo le feste, si torna in sella: 2 mesi, 6 incontri, per arrivare
 
 ❄️ **Inverno sì, ma al coperto**  
 Il prossimo Bike Park 2026 si svolge al [**DumBO**](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9), il sabato mattina, uno ogni due, dalle 10.30 alle 12.30.  
-La nostra casa invernale sarà lo spazio **Baia**, una tettoia coperta, aperta lateralmente ma molto riparata, che ci permette di pedalare a prescindere dal meteo. La tettoia è bassa e ben coprente e, dopo le prime pedalate, anche il fresco non sarà più un pensiero.  
-Nelle giornate di sole ci sposteremo invece nel campo da basket, per avere ancora più spazio e variare le attività.  
+La nostra casa invernale sarà **Baia**, una tettoia al coperto, aperta lateralmente ma riparata, che ci permette di pedalare a prescindere dal meteo. La tettoia è bassa e ben coprente e, dopo le prime pedalate, anche il fresco non sarà più un pensiero.  
+Nelle giornate di sole ci sposteremo nel campo da basket, per avere ancora più spazio e variare le attività.  
 👉 Il Bike Park è sempre confermato, anche in caso di pioggia.
 
 🌱 **Perché esiste il Bike Park: un percorso accessibile e non competitivo**  
-Il Bike Park accompagna bambine e bambini verso l’utilizzo consapevole e senza fretta della bicicletta. E' uno spazio sicuro, accogliente e in cui ognuno può sentirsi a proprio agio e imparare con i propri tempi. Qui la bici diventa gioco, scoperta e relazioni. Attraverso attività e piccoli percorsi lavoriamo sull’equilibrio e sulla relazione con lo spazio e con chi pedala accanto 🤍
-Il Bike Park è facile, accessibile e non competitivo. 
+Il Bike Park accompagna bambine e bambini verso l’utilizzo consapevole e senza fretta della bicicletta. E' uno spazio sicuro, accogliente e in cui ognuno può sentirsi a proprio agio e imparare con i propri tempi. Qui la bici diventa gioco, educazione e scoperta. Lavoriamo sulla relazione con la bici, con gli altri e con l'ambiente. <br>
+🤍 Il Bike Park è facile, accessibile, non competitivo e per tutte/i. 
 
-Si può partecipare con qualsiasi bicicletta, purché senza rotelle.
-Per i più piccoli consigliamo la balance bike o in generale una bici senza pedali. Che metteremo dopo i primi incontri. 
+Si può partecipare con qualsiasi bicicletta, purché sia in buone condizioni e senza rotelle.
+Per i più piccoli consigliamo la balance bike o in generale una bici senza pedali. Che rimetteremo insieme dopo i primi incontri. 
 Il Bike Park è accessibile economicamente grazie al supporto di partner pubblici e privati: crediamo che la bicicletta debba essere uno strumento di autonomia e di aggregazione per tutte le famiglie.
 
 👧🧒 **Come si svolgono gli incontri**  
