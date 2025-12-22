@@ -25,7 +25,7 @@ Dopo le prime due edizioni del 2025, la cosa più naturale da fare è una sola: 
 Così, appena dopo le feste, si torna in sella: 2 mesi, 6 incontri, per arrivare alla primavera pronti/e a pedalare 🚴‍♀️
 
 ❄️ **Inverno sì, ma al coperto**  
-Il prossimo Bike Park 2026 si svolge al **DumBO** (Via Casarini 19, Bologna), il sabato mattina, uno ogni due, dalle 10.30 alle 12.30.  
+Il prossimo Bike Park 2026 si svolge al [**DumBO**](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9), il sabato mattina, uno ogni due, dalle 10.30 alle 12.30.  
 La nostra casa invernale sarà lo spazio **Baia**, una tettoia coperta, aperta lateralmente ma molto riparata, che ci permette di pedalare a prescindere dal meteo. La tettoia è bassa e ben coprente e, dopo le prime pedalate, anche il fresco non sarà più un pensiero.  
 Nelle giornate di sole ci sposteremo invece nel campo da basket, per avere ancora più spazio e variare le attività.  
 👉 Il Bike Park è sempre confermato, anche in caso di pioggia.
