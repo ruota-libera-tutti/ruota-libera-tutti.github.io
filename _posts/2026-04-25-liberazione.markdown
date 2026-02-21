@@ -4,7 +4,7 @@ title: Biciclettata della Liberazione a Monte Sole
 date: 2026-04-25 08:45:00 +0200
 categories: social-ride
 excerpt: Pedaliamo insieme in questa importante giornata per il nostro Territorio
-cover: assets/images/events/montesole-2025.jpeg
+cover: assets/images/events/montesole.webp
 lang: it
 ---
 **📅 Data e ora:** Sabato 25 Aprile\
