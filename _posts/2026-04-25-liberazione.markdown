@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Biciclettata della Liberazione a Monte Sole
+title: Pedalata della Liberazione - da Casalecchio a Monte Sole
 date: 2026-04-25 08:45:00 +0200
 categories: social-ride
-excerpt: Pedaliamo insieme in questa importante giornata per il nostro Territorio
+excerpt: Il 25 Aprile unitevi a noi! Andiamo al Poggiolo in bicicletta....con tutta la calma del mondo! 
 cover: assets/images/events/montesole.webp
 lang: it
 ---
