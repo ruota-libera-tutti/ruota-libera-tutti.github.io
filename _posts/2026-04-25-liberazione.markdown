@@ -10,7 +10,7 @@ lang: it
 **📅 Data e ora:** Sabato 25 Aprile\
 **📍 Ritrovo:** Ore 8:45 alla Chiesa Parrocchiale di San Martino in Casalecchio di Reno, all'ingresso del Parco Talon - [Vedi mappa](https://maps.app.goo.gl/j4aFS8kjUfVWF8acA)\
 **🗺️ Dati percorso** : 25km con 200mt di dislivello (fino a Pian di Venola)\
-**💸 Quota di partecipazione** : 5 euro a persona - 
+**💸 Quota di partecipazione** : 5 euro a persona - gratuito per nuove persone tesserate
 **📝 Iscrizioni**: [compila questo form](https://forms.gle/cCs4YoKxxE5oCpSm9) per iscriverti.
 
 **⚠️ Nota importante – Fine pedalata e opzioni per salire al Rifugio**
