@@ -1,72 +1,43 @@
 ---
 layout: post
-title: Bike Park RLT 2026 - L’inverno si pedala. Insieme.
-date: 2026-01-17 10:30:00 +0100
+title: Bike Park RLT - Open Day 28 Febbraio
+date: 2026-02-28 15.00
 categories: bike-park
-excerpt: Dal 17 gennaio torna il Bike Park invernale al coperto di RLT per bambini dai 4 anni, per imparare a divertirsi in bici.
+excerpt: Il Bike Park sta per atterrare a Casalecchio di Reno! 
 cover: assets/images/bikeparkk.jpeg
-
 ---
-
-🗓️ Quando: dal 17 gennaio al 28 marzo - sabato mattina dalle 10.30 alle 12.30 - (Vedere date sotto)<br>
-📍 Dove: [DumBo](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9)
-
+🗓️ Quando: sabato 28 febbraio dalle 15 alle 17 
+📍 Dove: [Parrocchia di San Biagio - Casalecchio di Reno](https://maps.app.goo.gl/DuDsbY8y1AJTyMNm8)
 ---
-
 Per partecipare: <br>
-👉[Iscrizione Bike Park 2026](https://forms.gle/Y5XrhdzXfSvd2Vbf6) <br>
-👉[Tessera associativa 2026](https://ruota-libera-tutti.github.io/tesseramento)  
-
+👉 Scriveteci una mail a ruotaliberatutti@gmail.com con nome cognome del bimbo/a e del genitore
 ---
 
-**🚲 Bike Park RLT 2026: L’inverno si pedala. Insieme.**  
-Rieccoci! Dal 17 gennaio 2026 riparte il Bike Park di RLT, alla sua terza edizione.
-Dopo le prime due edizioni del 2025, la cosa più naturale da fare è una sola: continuare!
-Così, appena dopo le feste, si torna in sella: 2 mesi, 6 incontri, per arrivare alla primavera pronti/e a pedalare 🚴‍♀️
+**🚲 Il Bike Park di Ruota Libera Tutti sta per atterrare a Casalecchio di Reno!**  
+Eccoci! IL campo scuola bici per avviare bambine e bambini dai 4 agli 11 anni all'uso consapevole della bicicletta 🚴‍♀️
 
-❄️ **Inverno sì, ma al coperto**  
-Il prossimo Bike Park 2026 si svolge al [**DumBO**](https://maps.app.goo.gl/kCV4U1QtaBSimTgM9), il sabato mattina, uno ogni due, dalle 10.30 alle 12.30.  
-La nostra casa invernale sarà **Baia**, una tettoia al coperto, aperta lateralmente ma riparata, che ci permette di pedalare a prescindere dal meteo. La tettoia è bassa e ben coprente e, dopo le prime pedalate, anche il fresco non sarà più un pensiero.  
-Nelle giornate di sole ci sposteremo nel campo da basket, per avere ancora più spazio e variare le attività.  
-👉 Il Bike Park è sempre confermato, anche in caso di pioggia.
+❄️ **Confermato con ogni meteo, siamo al coperto!**  
 
 🌱 **Perché esiste il Bike Park: un percorso accessibile e non competitivo**  
-Il Bike Park accompagna bambine e bambini verso l’utilizzo consapevole e senza fretta della bicicletta. E' uno spazio sicuro, accogliente e in cui ognuno può sentirsi a proprio agio e imparare con i propri tempi. Qui la bici diventa gioco, educazione e scoperta. Lavoriamo sulla relazione con la bici, con gli altri e con l'ambiente. <br>
+Il Bike Park è uno spazio sicuro, accogliente e in cui ognuno può sentirsi a proprio agio e imparare con i propri tempi. Qui la bici diventa gioco, educazione e scoperta. Lavoriamo sulla relazione con la bici, con gli altri e con l'ambiente. <br>
 🤍 Il Bike Park è facile, accessibile, non competitivo e per tutte/i. 
 
 Si può partecipare con qualsiasi bicicletta, purché sia in buone condizioni e senza rotelle.
-Per i più piccoli consigliamo la balance bike o in generale una bici senza pedali. Che rimetteremo insieme dopo i primi incontri. 
-Il Bike Park è accessibile economicamente grazie al supporto di partner pubblici e privati: crediamo che la bicicletta debba essere uno strumento di autonomia e di aggregazione per tutte le famiglie.
-
-👧🧒 **Come si svolgono gli incontri**  
-Durante ogni incontro i bambini vengono divisi in due gruppi, così da poter pedalare al ritmo giusto. C’è chi sta togliendo o ha appena tolto le rotelle e lavora sull’autonomia, e chi invece già pedala e vuole sentirsi più sicuro, stabile e fluido.  
-A seguire i bambini ci sono educatori e istruttori, affiancati da volontari e volontarie dell’associazione con la passione per la bici, per i bambini, o per entrambe le cose. 🚲
-
-📅 **Quando e dove**  
-Ci troviamo al DumBO il sabato mattina, dalle 10.30 alle 12.30, con due turni: uno alle 10.30 e uno alle 11.30.
-È consigliato arrivare circa 10 minuti prima. Gli incontri si terranno nelle seguenti date:  
-- 17 e 31 gennaio  
-- 14 e 28 febbraio  
-- 14 e 28 marzo  
+Per i più piccoli consigliamo la balance bike o in generale una bici senza pedali. 
 
 🎒 **Cosa serve per partecipare**  
-Per partecipare serve una bicicletta in buone condizioni e senza rotelle, il casco, abbigliamento comodo e una borraccia. È richiesta la tessera dell’associazione. Se manca qualcosa — bici o casco — scriveteci: troviamo una soluzione insieme 😉
+Per partecipare serve una bicicletta in buone condizioni e senza rotelle, il casco, abbigliamento comodo e una borraccia. Se manca qualcosa — bici o casco — scriveteci: troviamo una soluzione insieme 😉
 
-💶 **Costi**  
-Il costo è pensato per coprire l’intero percorso di 6 incontri, anche se poi ognuno può partecipare alle date che riesce.  
-- Early bird (fino al 6 gennaio 2026): 50 € 
-- Dal 7 gennaio: 60 €
-
-🤝 **E i genitori?**  
-Il Bike Park non riguarda solo i bambini. Vi aiutiamo su come prendersi cura della propria bicicletta e sentirsi sicuri negli spazi condivisi. Organizzeremo momenti di confronto, piccoli workshop di manutenzione di base e alcune pedalate insieme se vorrete. 🚲
+**Questa iniziativa è gratuita e aperta a tutte e a tutti, grazie al sostegno di partner che supportano le nostre iniziative**
+Per chi ha poi piacere di continuare, ci trovate al DumBo il sabato mattina! 
 
 🚀 **Pronti a ripartire?**  
 Se siete già stati con noi, sapete cosa vi aspetta. E' il momento di tornare! 
 Se è la prima volta, vi accoglieremo con tutto il supporto che occorre.  
 
-Per partecipare occorre:  
-- Inviare la richiesta di partecipazione al Bike Park: [Iscrizioni Bike Park 2026](https://forms.gle/Y5XrhdzXfSvd2Vbf6)  
-- Inviare la richiesta di tesseramento per il bambino o la bambina: [Tessera associativa 2026](https://ruota-libera-tutti.github.io/tesseramento)  
+Per partecipare occorre inviare una mail a ruotaliberatutti@gmail.com
+
+vi aspettiamo! 
 
 Vi risponderemo poi nel più breve tempo possibile, con la conferma di avvenuta iscrizione e tesseramento.  
 
