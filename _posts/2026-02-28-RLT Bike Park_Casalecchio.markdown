@@ -46,3 +46,5 @@ vi aspettiamo!
 Vi risponderemo poi nel più breve tempo possibile, con la conferma di avvenuta iscrizione e tesseramento.  
 
 Per qualsiasi dubbio o domanda potete scriverci a 📩 ruotaliberatutti@gmail.com
+
+L'attività è sostenuta con il Patrocinio del Comune di Casalecchio. 
