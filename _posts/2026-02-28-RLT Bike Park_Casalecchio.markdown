@@ -4,7 +4,7 @@ title: Bike Park RLT - Open Day 28 Febbraio a Casalecchio
 date: 2026-02-28 15.00
 categories: bike-park
 excerpt: Il Bike Park sta per atterrare a Casalecchio di Reno! Venite a provare! 
-cover: assets/images/bikeparkk.jpeg
+cover: assets/images/Background bp casalecchio.png
 ---
 🗓️ Quando: sabato 28 febbraio dalle 15 alle 17 
 
