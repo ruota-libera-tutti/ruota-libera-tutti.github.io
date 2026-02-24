@@ -1,20 +1,24 @@
 ---
 layout: post
-title: Bike Park RLT - Open Day 28 Febbraio
+title: Bike Park RLT - Open Day 28 Febbraio a Casalecchio
 date: 2026-02-28 15.00
 categories: bike-park
-excerpt: Il Bike Park sta per atterrare a Casalecchio di Reno! 
+excerpt: Il Bike Park sta per atterrare a Casalecchio di Reno! Venite a provare! 
 cover: assets/images/bikeparkk.jpeg
 ---
 🗓️ Quando: sabato 28 febbraio dalle 15 alle 17 
+
 📍 Dove: [Parrocchia di San Biagio - Casalecchio di Reno](https://maps.app.goo.gl/DuDsbY8y1AJTyMNm8)
+
 ---
+
 Per partecipare: <br>
 👉 Scriveteci una mail a ruotaliberatutti@gmail.com con nome cognome del bimbo/a e del genitore
+
 ---
 
 **🚲 Il Bike Park di Ruota Libera Tutti sta per atterrare a Casalecchio di Reno!**  
-Eccoci! IL campo scuola bici per avviare bambine e bambini dai 4 agli 11 anni all'uso consapevole della bicicletta 🚴‍♀️
+Eccoci! IL campo scuola bici per avviare bambine e bambini dai 4 agli 11 anni all'uso consapevole della bicicletta 🚴‍♀️ Il 28 febbraio sarà un open day - del Bike Park che conduciamo già a Bologna il sabato mattina. Venite a scoprire la bicicletta da noi! 
 
 ❄️ **Confermato con ogni meteo, siamo al coperto!**  
 
