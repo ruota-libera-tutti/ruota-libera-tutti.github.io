@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pedalata della Liberazione - da Casalecchio a Monte Sole
+title: Pedalata della Liberazione - da Casalecchio a Monte Sole - Anche per Famiglie e i più Piccoli! 
 date: 2026-04-25 08:45:00 +0200
 categories: social-ride
 excerpt: Il 25 Aprile unitevi a noi! Andiamo al Poggiolo in bicicletta....con tutta la calma del mondo! 
@@ -20,6 +20,11 @@ Chi desidera può comunque raggiungere il rifugio scegliendo l'opzione più adat
 - Navetta gratuita: disponibile per tutti, è possibile lasciare la bici legata a valle.
 - A piedi: si può salire camminando insieme alle tante persone che partecipano alle celebrazioni.
 - In bicicletta: solo per ciclistə esperti/e, è possibile affrontare la salita pedalando.
+
+---
+## Percorso Family
+
+L'evento sarà aperto alle famiglie e ai più piccoli: sarà previsto un programma semplificato, con stesso punto di partenza e orario del resto del gruppo. Pedaleremo tutti insieme lungo il Parco Talon, in percorso completamente pianeggiante, sicuro e lontano dal traffico. Arriveremo ai Laghetti del Maglio, dove faremo una sosta, breve merenda e il gruppo Family verrà riaccompagnato al punto di partenza - alla Chiesa di San Martino, all'inizio del Parco Talon. Complessivamente circa 10 km, zero dislivello. IL percorso family è aperto a bambine e bambini che pedalano in autonomia o genitori con carrelli, seggiolini o cargo bike. Sono richiesti i dettagli nel form di iscrizione: [qui](https://forms.gle/cCs4YoKxxE5oCpSm9)
 
 ---
 ## Sull'evento
