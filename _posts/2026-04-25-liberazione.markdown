@@ -24,7 +24,10 @@ Chi desidera può comunque raggiungere il rifugio scegliendo l'opzione più adat
 ---
 ## Percorso Family
 
-L'evento sarà aperto alle famiglie e ai più piccoli: sarà previsto un programma semplificato, con stesso punto di partenza e orario del resto del gruppo. Pedaleremo tutti insieme lungo il Parco Talon, in percorso completamente pianeggiante, sicuro e lontano dal traffico. Arriveremo ai Laghetti del Maglio, dove faremo una sosta, breve merenda e il gruppo Family verrà riaccompagnato al punto di partenza - alla Chiesa di San Martino, all'inizio del Parco Talon. Complessivamente circa 10 km, zero dislivello. IL percorso family è aperto a bambine e bambini che pedalano in autonomia o genitori con carrelli, seggiolini o cargo bike. Sono richiesti i dettagli nel form di iscrizione: [qui](https://forms.gle/cCs4YoKxxE5oCpSm9)
+L'evento sarà aperto alle famiglie e ai più piccoli: sarà previsto un programma semplificato, con stesso punto di partenza e orario del resto del gruppo. Pedaleremo tutti insieme lungo il Parco Talon, in percorso completamente pianeggiante, sicuro e lontano dal traffico. Arriveremo ai Laghetti del Maglio, dove faremo una sosta, breve merenda e il gruppo Family verrà riaccompagnato al punto di partenza - alla Chiesa di San Martino, all'inizio del Parco Talon. Complessivamente circa 10 km, zero dislivello. IL percorso family è aperto a bambine e bambini che pedalano in autonomia o genitori con carrelli, seggiolini o cargo bike. 
+
+Sono richiesti i dettagli nel form di iscrizione: [qui](https://forms.gle/cCs4YoKxxE5oCpSm9)
+Modalità di iscrizione al percorso family: compilare un form di iscrizione per ogni adulto partecipante. Indicare nel form il nome del bimbo o della bimba che partecipa. 
 
 ---
 ## Sull'evento
