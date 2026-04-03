@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bologna Bike Park 2026 - Primavera in bici al Parco Tanara - Vialarga
-date: 2026-03-15 10:30:00 +0100
+date: 2026-04-11 10:30:00 +0100
 categories: bike-park
 excerpt: Da aprile tornano i corsi di avviamento alla bici per bambini dai 4 agli 11 anni al Parco Tanara. Un progetto con il supporto della Città metropolitana di Bologna.
 cover: assets/images/bikepark_cover.png
