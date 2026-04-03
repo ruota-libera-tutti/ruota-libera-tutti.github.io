@@ -21,7 +21,7 @@ Per partecipare occorre inviare due Richieste:
 
 ---
 
-**🚲 Bologna Bike Park 2026: La primavera si pedala insieme!** Siamo super felici di tornare in sella! Per il secondo anno consecutivo, RLT partecipa al progetto **Bike Park** promosso dalla Città metropolitana e dal Comune di Bologna. 
+**🚲 Bologna Bike Park 2026: La primavera si pedala insieme!** Siamo super felici di tornare in sella! Per il secondo anno consecutivo, RLT partecipa al progetto **Bike Park** promosso dalla Città metropolitana e dal Comune di Bologna. In generale per noi sarà il quarto Bike Park consecutivo. 
 
 Questa primavera siamo al **Parco Vincenzo Tanara**, accanto al Centro Via Larga, per quattro sabati di sport, educazione e scoperta del Territorio..ma sopratutto della bici!
 
