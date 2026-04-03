@@ -63,7 +63,8 @@ Vi invitiamo inoltre alle **Domeniche Ciclabili**: 12 aprile (San Felice sul Pan
 In caso vi dovesse mancare qualcosa, indicatecelo nel form di iscrizione. 
 
 📝 **Iscrizioni e Costi**
-Il corso è **gratuito**. È obbligatorio il tesseramento alla nostra associazione per la copertura assicurativa. 
+Grazie al contributo della Citta metropolitana di Bologna, il corso è **gratuito**.
+È obbligatorio il tesseramento alla nostra associazione per la copertura assicurativa. 
 Le iscrizioni sono a scalare e verranno accettate **solo le richieste complete** (Modulo iscrizione + Richiesta tesseramento).
 
 🤝 E i genitori?
