@@ -38,11 +38,13 @@ Per garantire la corretta cura e la massima attenzione a tutti, abbiamo suddivis
 👧🧒 **Turni e Gruppi**
 Riceverete una  email con la conferma e l'indicazione del gruppo assegnato: **vi raccomandiamo di rispettare rigorosamente l'orario indicato.**
 
-### 🐆 PRIMO TURNO (Ore 10.30 - 10.20): Gruppo avviati
+Turni da 50 minuti:
+### PRIMO TURNO (Ore 10.30 - 11.20)
+### SECONDO TURNO (Ore 11.30 - 12.20)
+
+In ogni Turno, ci saranno diversi sotto gruppi in base alle abilità iniziali, per garantire la cura e attenzione necessaria a ciascuno:
 * **Sotto gruppo Leopardi:** Per chi è già autonomo/a con la bici. Li accompagniamo a costruire un buon rapporto con gli altri, con l'ambiente e con la strada.
 * **Sotto gruppo Castori:** Per chi ha iniziato a pedalare, li aiutiamo a prendere buona dimestichezza con la bici, imparando a relazionarsi con i compagni e il contesto esterno.
-
-### 🦋 SECONDO TURNO (Ore 11.30 - 12.20): Gruppo Avviamento
 * **Sotto gruppo Farfalle:** Dedicato a chi è pronto/a per essere accompagnato/a verso le primissime pedalate in autonomia.
 * **Sotto gruppo Libellule:** Per i più piccoli o chi è all'inizio del percorso: partiamo camminando con la bici per avvicinarci gradualmente ai pedali.
 
