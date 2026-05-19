@@ -4,7 +4,7 @@ title: Pedalata del Solstizio d'Estate - lungo l'antica via d'acqua di Bologna -
 date: 2026-06-21 10:00:00 +0200
 categories: social-ride
 excerpt: Il 21 Giugno unitevi a noi! Festeggiamo il solstizio d'estate con una pedalata collettiva lungo il canale Navile....con tutta la calma del mondo!
-cover: assets/images/events/navile.webp
+cover: assets/images/Ciclovia-del-Navile-sterrato.jpg
 lang: it
 ---
 **📅 Data e ora:** Domenica 21 Giugno 2026\
