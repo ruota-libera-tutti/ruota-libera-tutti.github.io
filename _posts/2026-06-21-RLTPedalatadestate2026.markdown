@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pedalata del Solstizio d'Estate - lungo l'antica via d'acqua di Bologna - Anche per Famiglie e i più Piccoli!
+title: Pedalata del Solstizio d'Estate - Anche per Famiglie e i più Piccoli!
 date: 2026-06-21 10:00:00 +0200
 categories: social-ride
 excerpt: Il 21 Giugno unitevi a noi! Festeggiamo il solstizio d'estate con una pedalata collettiva lungo il canale Navile....con tutta la calma del mondo!
