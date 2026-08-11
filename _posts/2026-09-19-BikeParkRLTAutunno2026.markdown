@@ -83,8 +83,8 @@ Segnatevi questi sabati:
 
 La quota copre l'intero percorso dei 6 incontri...festa finale inclusa! (potete partecipare a tutte le date che riuscite):
 
-* 🐣 **Early bird (se vi iscrivete entro il 6 settembre):** 50 €
-* 🎟️ **Dal 7 settembre in poi:** 60 €
+* 🐣 **Early bird (se vi iscrivete entro il 6 settembre):** 50 € (+eventuale tesseramento)
+* 🎟️ **Dal 7 settembre in poi:** 60 € (+ eventuale tesseramento)
 
 ---
 
@@ -98,11 +98,12 @@ Il Bike Park è un'esperienza da vivere insieme. Durante i sabati ci ritaglierem
 
 L'iscrizione richiede due passaggi necessari per poter partecipare:
 
-1. **Compilazione dei moduli:**
+1. **Compilazione dei moduli e pagamento quota di partecipazione**
    * Compilate la [Richiesta di iscrizione al Bike Park](https://forms.gle/bTZDDo11aC8vWJGPA).
    * Compilate la [Richiesta di tesseramento 2026](https://ruota-libera-tutti.github.io/tesseramento) *(da fare solo se il bambino o la bambina non è già tesserato/a per l'anno 2026)*.
+   * Inviare la quota di partecipazione tramite bonifico (IBAN: IT20N0707236591000000743750 da intestare a: Ruota Libera Tutti Asd Causale: Quota partecipazione Bike park 2025 - nome cognome)
 2. **La nostra risposta:**
-   * Una volta verificate le richieste, vi invieremo una mail di risposta con la tessera associativa, la conferma ufficiale di partecipazione e tutte le indicazioni per il primo giorno, compreso l'orario del turno in cui presentarsi. 
+   * Una volta verificata la vostra richiesta, vi invieremo nel più breve tempo possibile una mail di risposta con la tessera associativa, la conferma ufficiale di partecipazione e tutte le indicazioni per il primo giorno, compreso l'orario del turno in cui presentarsi. 
 
 📍 *All'arrivo il primo giorno vi assegneremo e vi comunicheremo l'animale guida di riferimento per il vostro bambino o bambina!*
 
