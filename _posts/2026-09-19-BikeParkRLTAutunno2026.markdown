@@ -48,6 +48,8 @@ Facciamo di tutto per tenere le quote d'iscrizione il più basse possibile, prop
 
 Nessuno viene lasciato indietro o si sente "fuori posto". Dividiamo i partecipanti in piccoli gruppi guidati da un "animale guida", in base al punto da cui parte ciascuno: da chi deve ancora prendere confidenza con l'equilibrio (consigliamo la *balance bike* senza pedali, che rimetteremo insieme più avanti!) a chi pedala già e vuole solo sentirsi più sicuro e disinvolto.
 
+Il programma di ciascuna lezione prevede un brevissimo gioco iniziale per conoscersi, scaldarsi e mettersi a proprio agio con il resto del gruppo. Poi seguono esercizi e giochi in bici, individuali e di gruppo. Infine, ogni incontro finisce con la lettura di un libro attinente alla bici, alla scoperta e allo stare insieme. Im modo da terminare ciascun incontro con la giusta calma e lasciarvi una storia di cui parlare quando sarete rientrati a casa. 
+
 Ad accompagnare i bimbi c'è la squadra di RLT al completo: educatori, istruttori e tanti volontari dell'associazione che mettono a disposizione il proprio tempo e la propria passione per dare una mano a bimbi e genitori.
 
 ---
