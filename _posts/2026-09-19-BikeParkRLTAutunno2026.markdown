@@ -89,6 +89,8 @@ La quota copre l'intero percorso dei 6 incontri...festa finale inclusa! (potete 
 * 🐣 **Early bird (se vi iscrivete entro il 6 settembre):** 50 € (+eventuale tesseramento)
 * 🎟️ **Dal 7 settembre in poi:** 60 € (+ eventuale tesseramento)
 
+* Le iscrizioni chiudono il 12 settembre. 
+
 ---
 
 ## 🤝 E per i genitori?
