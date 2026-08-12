@@ -46,10 +46,11 @@ La bici è divertimento e momenti belli da passare in famiglia o con le amiche e
 
 Nessuno viene lasciato indietro o si sente "fuori posto". Dividiamo i partecipanti in piccoli gruppi guidati da un "animale guida",quindi in ogni Turno, ci saranno diversi sotto gruppi in base alle abilità iniziali, per garantire la cura e attenzione necessaria a ciascuno:
 
-🐆 Leopardi: Per chi è già autonomo/a con la bici. Li accompagniamo a costruire un buon rapporto con gli altri, con l’ambiente e con la strada.
-🦫 Castori: Per chi ha iniziato a pedalare, li aiutiamo a prendere buona dimestichezza con la bici, imparando a relazionarsi con i compagni e il contesto esterno.
-🦋 Farfalle: Dedicato a chi è pronto/a per essere accompagnato/a verso le primissime pedalate in autonomia.
-≽༏≼ Libellule: Per i più piccoli o chi è all’inizio del percorso: partiamo camminando con la bici per avvicinarci gradualmente ai pedali.
+🐆 Leopardi: Per chi è già autonomo/a con la bici. Li accompagniamo a costruire un buon rapporto con gli altri, con l’ambiente e con la strada
+🦫 Castori: Per chi ha iniziato a pedalare, li aiutiamo a prendere buona dimestichezza con la bici, imparando a relazionarsi con i compagni e il contesto esterno
+🦋 Farfalle: Dedicato a chi è pronto/a per essere accompagnato/a verso le primissime pedalate in autonomia
+≽༏≼ Libellule: Per i più piccoli o chi è all’inizio del percorso: partiamo camminando con la bici per avvicinarci gradualmente ai pedali
+
 
 Il programma di ciascuna lezione prevede un brevissimo gioco iniziale per conoscersi, scaldarsi e mettersi a proprio agio con il resto del gruppo. Poi seguono esercizi e giochi in bici, individuali e di gruppo. Infine, ogni incontro finisce con la lettura di un libro attinente alla bici, alla scoperta e allo stare insieme. Im modo da terminare ciascun incontro con la giusta calma e lasciarvi una storia di cui parlare quando sarete rientrati a casa. 
 
